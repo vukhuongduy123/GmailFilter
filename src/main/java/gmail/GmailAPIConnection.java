@@ -5,7 +5,6 @@ import com.google.api.client.googleapis.auth.oauth2.GoogleClientSecrets;
 import com.google.api.client.googleapis.auth.oauth2.GoogleCredential;
 import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.http.javanet.NetHttpTransport;
-import com.google.api.client.json.JsonFactory;
 import com.google.api.client.json.jackson2.JacksonFactory;
 import com.google.api.services.gmail.Gmail;
 import org.apache.http.client.HttpClient;
@@ -20,10 +19,7 @@ import java.io.*;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
 import java.security.GeneralSecurityException;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 
 public class GmailAPIConnection {
@@ -39,42 +35,37 @@ public class GmailAPIConnection {
 	private GmailAPIConnection() {
 	}
 
-	public static String getRefreshToken() throws URISyntaxException, IOException {
-		if (Desktop.isDesktopSupported())
-			Desktop.getDesktop().browse(new URI(CODE_URL));
-		else
-			return null;
 
+	@CheckReturnValue
+	public static Gmail getGmailService() throws
+										  IOException,
+										  GeneralSecurityException,
+										  URISyntaxException {
+		GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY,
+																	 new InputStreamReader(
+																			 new FileInputStream(
+																					 CREDENTIALS_FILE)));
+
+		// get code
+		Desktop.getDesktop().browse(new URI(CODE_URL));
 		System.out.println("Enter your code: ");
 		Scanner scanner = new Scanner(System.in);
 		String code = scanner.nextLine();
-		code = code.substring(code.indexOf("="));
-		GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY,
-																	 new InputStreamReader(
-																			 new FileInputStream(
-																					 CREDENTIALS_FILE)));
-		Map<String, Object> bodyMap = new HashMap<>();
-		bodyMap.put("code", code);
-		bodyMap.put("client_id", clientSecrets.getDetails().getClientId());
-		bodyMap.put("client_secret", clientSecrets.getDetails().getClientSecret());
-		bodyMap.put("redirect_uri", "http://localhost");
-		bodyMap.put("grant_type", "authorization_code");
+		Map<String, Object> codeParams = new HashMap<>();
+		codeParams.put("code", code);
+		codeParams.put("client_id", clientSecrets.getDetails().getClientId());
+		codeParams.put("client_secret", clientSecrets.getDetails().getClientSecret());
+		codeParams.put("redirect_uri", "http://localhost");
+		codeParams.put("grant_type", "authorization_code");
+		String refreshToken = Objects.requireNonNull(getOathResponse(codeParams))
+									 .getString("refresh_token");
 
-		HttpClient httpClient = HttpClientBuilder.create().setDefaultRequestConfig(
-				RequestConfig.custom().build()).build();
-		HttpPost httpPost = new HttpPost();
+		Map<String, Object> accessParams = new LinkedHashMap<>();
+		accessParams.put("grant_type", "refresh_token");
+		accessParams.put("client_id", clientSecrets.getDetails().getClientId());
+		accessParams.put("client_secret", clientSecrets.getDetails().getClientSecret());
+		accessParams.put("refresh_token", refreshToken);
 
-		return code;
-	}
-
-	@CheckReturnValue
-	public static Gmail getGmailService(String refreshToken) throws
-															 IOException,
-															 GeneralSecurityException {
-		GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY,
-																	 new InputStreamReader(
-																			 new FileInputStream(
-																					 CREDENTIALS_FILE)));
 		Credential authorize = new GoogleCredential.Builder().setTransport(
 				GoogleNetHttpTransport.newTrustedTransport())
 															 .setJsonFactory(JSON_FACTORY)
@@ -85,8 +76,11 @@ public class GmailAPIConnection {
 																				  .getClientSecret())
 															 .build()
 															 .setAccessToken(
-																	 getAccessToken(clientSecrets,
-																					refreshToken))
+																	 Objects.requireNonNull(
+																			 getOathResponse(
+																					 accessParams))
+																			.getString(
+																					"access_token"))
 															 .setRefreshToken(
 																	 "refreshToken");
 		final NetHttpTransport HTTP_TRANSPORT = GoogleNetHttpTransport.newTrustedTransport();
@@ -96,16 +90,9 @@ public class GmailAPIConnection {
 				.setApplicationName(APPLICATION_NAME).build();
 	}
 
-	private static String getAccessToken(GoogleClientSecrets googleClientSecrets,
-										 String refreshToken) {
+	private static JSONObject getOathResponse(Map<String, Object> params) {
 
 		try {
-			Map<String, Object> params = new LinkedHashMap<>();
-			params.put("grant_type", "refresh_token");
-			params.put("client_id", googleClientSecrets.getDetails().getClientId());
-			params.put("client_secret", googleClientSecrets.getDetails().getClientSecret());
-			params.put("refresh_token", refreshToken);
-
 			StringBuilder postData = new StringBuilder();
 			for (Map.Entry<String, Object> param : params.entrySet()) {
 				if (postData.length() != 0) {
@@ -130,9 +117,7 @@ public class GmailAPIConnection {
 			for (String line = reader.readLine(); line != null; line = reader.readLine()) {
 				buffer.append(line);
 			}
-
-			JSONObject json = new JSONObject(buffer.toString());
-			return json.getString("access_token");
+			return new JSONObject(buffer.toString());
 		} catch (Exception ex) {
 			ex.printStackTrace();
 		}

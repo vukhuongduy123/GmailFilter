@@ -52,10 +52,10 @@ public class GmailAPIService {
 		return messagesResponse;
 	}
 
-	public Message getMessage(Gmail gmailService, String userId, String messageId) throws
+	public Message getMessage(Gmail gmailService, String userId, String messageId, String format) throws
 																						  IOException {
 
-		return gmailService.users().messages().get(userId, messageId).execute();
+		return gmailService.users().messages().get(userId, messageId).setFormat(format).execute();
 	}
 
 	public void createLabels(Gmail gmailService, String userId) throws IOException {
@@ -83,7 +83,7 @@ public class GmailAPIService {
 		ModifyMessageRequest modifyMessageRequest = new ModifyMessageRequest();
 		modifyMessageRequest.setAddLabelIds(List.of(label.getId()));
 		modifyMessageRequest.setRemoveLabelIds(
-				getMessage(gmailService, userId, messageId).getLabelIds());
+				getMessage(gmailService, userId, messageId, "minimal").getLabelIds());
 		return gmailService.users().messages().modify(userId, messageId, modifyMessageRequest).execute();
 	}
 }
