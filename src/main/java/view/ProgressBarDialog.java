@@ -26,7 +26,7 @@ public class ProgressBarDialog {
 
 	public void setRange(int start, int end) {
 		progressBar.setMinimum(start);
-		progressBar.setMinimum(end);
+		progressBar.setMaximum(end);
 		progressBar.setValue(0);
 	}
 

@@ -1,0 +1,89 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: Is Java as fast as C++ at runtime?
+
+Answer from Cameron Purdy
+
+Sure, certainly! If my Java code is running, it will be faster than your C++ code.
+
+Absolutely not! If my C++ code is running, it will be faster than your Java code.
+
+The gene
+Read More: http://www.quora.com/Is-Java-as-fast-as-C-at-runtime?top_ans=108492582
+-----
+Question: My dad legally belts me (14) for my poor grades. This has been escalating over the course of 5 years and he's going to set up cameras in the house soon. How can I fix my relationship with him?
+
+Answer from Sue Given
+
+You can not fix your relationship with him by yourself. He is being abusive, and you are correct to assume that his violence will escalate. Setting up cameras in your room vio
+Read More: http://www.quora.com/My-dad-legally-belts-me-14-for-my-poor-grades-This-has-been-escalating-over-the-course-of-5-years-and-hes-going-to-set-up-cameras-in-the-house-soon-How-can-I-fix-my-relationship-with-him?top_ans=248877987
+-----
+Question: How does wearing lingerie make you feel?
+
+Answer from Wayne Fontana
+
+Wearing lingerie gives me a wonderfully rewarding exhilarating and sensual feeling. The silky softness of nylon caressing my skin is heavenly. Although I am heterosexual I hav
+Read More: http://www.quora.com/How-does-wearing-lingerie-make-you-feel?top_ans=250505333
+-----
+Question: Why doesn't Microsoft use C# more than C++ internally (e.g. something as simple as the Windows Calculator)? Did they create C# only for LOB applications and services?
+
+Answer from Mark Phaedrus
+
+(I can only speak based on my experience in the Windows division — which, of course, has been several different divisions over time, because Microsoft is rather fond of reorga
+Read More: http://www.quora.com/Why-doesnt-Microsoft-use-C-more-than-C-internally-e-g-something-as-simple-as-the-Windows-Calculator-Did-they-create-C-only-for-LOB-applications-and-services?top_ans=244865831
+-----
+Question: Why is OOP no longer as popular and widely used among great programmers as it promised to be? Is functional programming just program as you go without any planning? I have always thought that the SOLID and GRASP principles were invaluable.
+
+Answer from Dave Voorhis
+
+Truly great programmers never promised, or believed, that OOP — or any other paradigm — was a silver bullet.
+
+In fact, one of those great programmers — Fred Brooks [1] — wrote
+Read More: http://www.quora.com/Why-is-OOP-no-longer-as-popular-and-widely-used-among-great-programmers-as-it-promised-to-be-Is-functional-programming-just-program-as-you-go-without-any-planning-I-have-always-thought-that-the-SOLID-and-GRASP?top_ans=242046767
+-----
+Question: Is Facebook still coded in PHP?
+
+Answer from Brian McClain
+
+Yes and no. Facebook was initially coded in pure, vanilla PHP, but over the years, the social media giant needed more capabilities to support their burgeoning user base, which
+Read More: http://www.quora.com/Is-Facebook-still-coded-in-PHP?top_ans=128793384
+-----
+Question: My 15 year old son often massages the feet of his 18 year old brother. He usually does it after my 18-year-old hits the gym or comes back from MMA. Should I do something about it?
+
+Answer from Caleb Howarth
+
+If this is for real, I can’t imagine why you would care. Unless you feel the younger boy is being unfairly treated somehow, it’s probably nice that he cares enough to do somet
+Read More: http://www.quora.com/My-15-year-old-son-often-massages-the-feet-of-his-18-year-old-brother-He-usually-does-it-after-my-18-year-old-hits-the-gym-or-comes-back-from-MMA-Should-I-do-something-about-it?top_ans=251178645
+-----
+Question: Why are C compilers written in C and not Assembly?
+
+Answer from Joe Zbiciak
+
+They’re written in whatever language the compiler developer finds convenient to develop in.
+
+And for that matter, GCC, Clang, and MSVC C compilers aren’t even written in C. Th
+Read More: http://www.quora.com/Why-are-C-compilers-written-in-C-and-not-Assembly?top_ans=244598341
+-----
+Question: Why is chess regarded as an educated game?
+
+Answer from Ernest W. Adams
+
+It’s not an “educated” game, it’s a game that requires a particular kind of intelligence that, at the highest levels, is very rare. The rules are very simple, so anyone can le
+Read More: http://www.quora.com/Why-is-chess-regarded-as-an-educated-game?top_ans=249435602
+-----
+Question: I'm a dad. Today I took away my 15-year-old son's phone for a week after he threatened to deck me and stuck fists in my face. This was because I asked him to do his school project. Am I overreacting?
+
+Answer from Karla Johnson
+
+Whew, finally a parent who knows how to parent and punish appropriately. Good job. Don’t reward bad behavior! Take away objects like TVs, game systems, cellphones and other el
+Read More: http://www.quora.com/Im-a-dad-Today-I-took-away-my-15-year-old-sons-phone-for-a-week-after-he-threatened-to-deck-me-and-stuck-fists-in-my-face-This-was-because-I-asked-him-to-do-his-school-project-Am-I-overreacting?top_ans=250755694
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/tc?aoid&aoty=14&aty=4&cp=0&id=3452e10a67f347feb53751cba7210cc9
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=3452e10a67f347feb53751cba7210cc9&t=1606295704270547&token=7633fa9cf65a7d1418d057e1543cb32c009fdd12f01214ea0fd4ddcd46c55b735dd6b61a32691040bd44dbad6d69190474f2b19d24a1aa0628ee4b39ccfdb4f0&type=2&uid=610629155Answer: Sure, certainly! If my Java code is running, it will be faster than yo.​.​.​Duy's DigestTop Stories For YouIs Java as fast as C++ at runtime? Cameron Purdy, Programmed in assembly, C, C++, Java, C#, etc.Written Nov 17, 2018Sure, certainly! If my Java code is running, it will be faster than your C++ code.Absolutely not! If my C++ code is running, it will be faster than your Java code.The gener... Read More »My dad legally belts me (14) for my poor grades. This has been escalating over the course of 5 years and he's going to set up cameras in the house soon. How can I fix my relationship with him? Sue Given, Retired English teacher and medical assistantWritten Nov 11You can not fix your relationship with him by yourself. He is being abusive, and you are correct to assume that his violence will escalate. Setting up cameras in your room ... Read More »How does wearing lingerie make you feel? Wayne Fontana, Women's apparel enthusiastWritten FriWearing lingerie gives me a wonderfully rewarding exhilarating and sensual feeling. The silky softness of nylon caressing my skin is heavenly. Although I am heterosexual I ... Read More »Why doesn't Microsoft use C# more than C++ internally (e.g. something as simple as the Windows Calculator)? Did they create C# only for LOB applications and services? Mark Phaedrus, Software developer, Windows Update Agent, at Microsoft (2008-present)Written Oct 18(I can only speak based on my experience in the Windows division — which, of course, has been several different divisions over time, because Microsoft is rather fond of reo... Read More »Why is OOP no longer as popular and widely used among great programmers as it promised to be? Is functional programming just program as you go without any planning? I have always thought that the SOLID and GRASP principles were invaluable. Dave VoorhisUpdated Oct 5Truly great programmers never promised, or believed, that OOP — or any other paradigm — was a silver bullet.In fact, one of those great programmers — Fred Brooks[1] — wrote... Read More »Is Facebook still coded in PHP? Brian McClain, 10 years PHP-MySQL app dev and teaching experienceUpdated Mar 28, 2019Yes and no. Facebook was initially coded in pure, vanilla PHP, but over the years, the social media giant needed more capabilities to support their burgeoning user base, wh... Read More »My 15 year old son often massages the feet of his 18 year old brother. He usually does it after my 18-year-old hits the gym or comes back from MMA. Should I do something about it? Caleb HowarthWritten 12h agoIf this is for real, I can’t imagine why you would care. Unless you feel the younger boy is being unfairly treated somehow, it’s probably nice that he cares enough to do so... Read More »Why are C compilers written in C and not Assembly? Joe Zbiciak, Assembly programmer for over 30 years.Written Oct 17They’re written in whatever language the compiler developer finds convenient to develop in.And for that matter, GCC, Clang, and MSVC C compilers aren’t even written in C. T... Read More »Why is chess regarded as an educated game? Ernest W. Adams, Game design consultant, author and professorWritten Nov 14It’s not an “educated” game, it’s a game that requires a particular kind of intelligence that, at the highest levels, is very rare. The rules are very simple, so anyone can... Read More »I'm a dad. Today I took away my 15-year-old son's phone for a week after he threatened to deck me and stuck fists in my face. This was because I asked him to do his school project. Am I overreacting? Karla Johnson, works at Federal Government of the United States (2012-present)Written SunWhew, finally a parent who knows how to parent and punish appropriately. Good job. Don’t reward bad behavior! Take away objects like TVs, game systems, cellphones and other... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

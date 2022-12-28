@@ -1,0 +1,100 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: If C++ is faster than Java, how come Java is used in every enterprise application?
+
+Answer from Joey DeFrancesco
+
+First of all anyone who says C++ is not faster than Java in general is clearly biased and ignores the facts. Lookup all the Java vs C++ benchmarks out there and you will find 
+Read More: http://www.quora.com/If-C-is-faster-than-Java-how-come-Java-is-used-in-every-enterprise-application?top_ans=89079315
+-----
+Question: Is it really worth it to buy a MacBook Pro instead of high-end gaming laptops?
+
+Answer from Frank Lazar
+
+Repeat after me.
+
+YOU DON’T BUY MACS FOR GAMING.
+
+YOU DON’T BUY MACS FOR GAMING.
+
+Repeat until this notion leaves your head. You buy Macs to do the work that pays you enough t
+Read More: http://www.quora.com/Is-it-really-worth-it-to-buy-a-MacBook-Pro-instead-of-high-end-gaming-laptops?top_ans=229275890
+-----
+Question: Is it safe to keep bitcoin in Coinbase?
+
+Answer from Matt Wheeler
+
+A few weeks after opening a Coinbase account and purchasing a substantial position in XRP, my account was breached by hackers and all of my XRP was moved to their wallet. I ca
+Read More: http://www.quora.com/Is-it-safe-to-keep-bitcoin-in-Coinbase?top_ans=197388756
+-----
+Question: Why did Microsoft create C# instead of just using Java?
+
+Answer from Cameron Purdy
+
+Microsoft was super late to the web. After pretending that it wasn’t even important, and then trying dozens of hilariously proprietary approaches to “the web” (e.g. they even 
+Read More: http://www.quora.com/Why-did-Microsoft-create-C-instead-of-just-using-Java?top_ans=232548865
+-----
+Question: Is it fair for a 13-year-old child to live in a small room with no technology and a bedtime at 6 PM and only does homework on school days and gets to watch 30 minutes of TV on a weekend?
+
+Answer from Winter Jade Tchoksky
+
+wow.
+
+First of all, the small room, how small? slightly smaller than average? or the size of a linen closet? that really depends.
+
+Secondly, No Technology? Does this child go 
+Read More: http://www.quora.com/Is-it-fair-for-a-13-year-old-child-to-live-in-a-small-room-with-no-technology-and-a-bedtime-at-6-PM-and-only-does-homework-on-school-days-and-gets-to-watch-30-minutes-of-TV-on-a-weekend?top_ans=231991747
+-----
+Question: If Ripple gets bought by SWIFT, are all my XRP coins worth nothing?
+
+Answer from Vincent Debast
+
+I will give you my answer as a former SWIFT employee as I think these talks are very one-sided due to the strong restrictions on employee communications at SWIFT.
+
+I would lik
+Read More: http://www.quora.com/If-Ripple-gets-bought-by-SWIFT-are-all-my-XRP-coins-worth-nothing?top_ans=104647112
+-----
+Question: If an astronaut got pregnant in space, would the baby grow more symmetrical than one grown on Earth?
+
+Answer from Steve Baker
+
+There has been precisely zero research about reproduction in large mammals in zero g.
+
+We know that rats and mice can’t produce viable young in low gravity. We don’t know abou
+Read More: http://www.quora.com/If-an-astronaut-got-pregnant-in-space-would-the-baby-grow-more-symmetrical-than-one-grown-on-Earth?top_ans=219643892
+-----
+Question: Is a GTX 1060 good enough to play Triple A titles in 2020?
+
+Answer from Brett Bergan
+
+We are going through a major transitional phase in gaming at the moment.
+
+One year ago, a 144Hz 1440 monitor was basically a novelty. Today, as we enter the new decade a 144Hz
+Read More: http://www.quora.com/Is-a-GTX-1060-good-enough-to-play-Triple-A-titles-in-2020?top_ans=196917449
+-----
+Question: Will Bitcoin ever be 20k again? Why or why not?
+
+Answer from Marius Kramer
+
+It might actually not as the Bitcoin scalability bottleneck is still a huge problem.
+
+In that case Ethereum would be taking the wheel to lead crypto markets past $20,000 or in
+Read More: http://www.quora.com/Will-Bitcoin-ever-be-20k-again-Why-or-why-not?top_ans=216380223
+-----
+Question: According to some people, if PHP is not strong enough to handle large scale systems, then how is WordPress being developed in PHP able to do so?
+
+Answer from Zee Xiong
+
+Because a huge huge huge huge huge huge huge huge huge huge huge huge huge huge majority of the people saying things like this are people from other languages who talk trash a
+Read More: http://www.quora.com/According-to-some-people-if-PHP-is-not-strong-enough-to-handle-large-scale-systems-then-how-is-WordPress-being-developed-in-PHP-able-to-do-so?top_ans=223905141
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1599037684985867&et=2&id=a5643ae39ae149f58cac32f3b91b17a7&request_id=1108490338244501391&source&src=1&st=1599037684985867&stories=1_XSUN4PdMkPT%7C1_mrfQtCf6CX7%7C1_YLm2tpqh1B8%7C1_9wu56KUwE4%7C1_8rPIC8SJfv4%7C1_LqumHTBiDci%7C1_mnOCVS6MuWx%7C1_LoczoLlzAYx%7C1_zezZZ7aZHO4%7C1_dz2cyplJD21&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=a5643ae39ae149f58cac32f3b91b17a7&t=1599037685603703&token=6996241c286bd9ea898c5cde52b9816b3ee8eb4b6e6146ba752a20fcffbc2837e3da4076842b5b293da483700a4ab59fa27685e810e0b02a681b1da8fb8f4718&type=2&uid=610629155
+Answer: First of all anyone who says C++ is not faster than Java in general is.​.​.​Duy's DigestTop Stories For YouIf C++ is faster than Java, how come Java is used in every enterprise application? Joey DeFrancesco, studied Computer Science & Mathematics at West Chester University of PAUpdated May 19First of all anyone who says C++ is not faster than Java in general is clearly biased and ignores the facts. Lookup all the Java vs C++ benchmarks out there and you will fi... Read More »Is it really worth it to buy a MacBook Pro instead of high-end gaming laptops? Frank Lazar, Mac ConsultantWritten Jul 23Repeat after me.YOU DON’T BUY MACS FOR GAMING.YOU DON’T BUY MACS FOR GAMING.Repeat until this notion leaves your head. You buy Macs to do the work that pays you enough that... Read More »Is it safe to keep bitcoin in Coinbase? Matt Wheeler, Drone engineer living in on the Columbia River, WAUpdated Feb 12A few weeks after opening a Coinbase account and purchasing a substantial position in XRP, my account was breached by hackers and all of my XRP was moved to their wallet. I... Read More »Why did Microsoft create C# instead of just using Java? Cameron Purdy, Programmed in assembly, C, C++, Java, C#, etc.Updated Aug 15Microsoft was super late to the web. After pretending that it wasn’t even important, and then trying dozens of hilariously proprietary approaches to “the web” (e.g. they ev... Read More »Is it fair for a 13-year-old child to live in a small room with no technology and a bedtime at 6 PM and only does homework on school days and gets to watch 30 minutes of TV on a weekend? Winter Jade TchokskyWritten Aug 7wow.First of all, the small room, how small? slightly smaller than average? or the size of a linen closet? that really depends.Secondly, No Technology? Does this child go t... Read More »If Ripple gets bought by SWIFT, are all my XRP coins worth nothing? Vincent Debast, former Product manager  at Society for Worldwide Interbank Financial Telecommuni...Updated Oct 25, 2018I will give you my answer as a former SWIFT employee as I think these talks are very one-sided due to the strong restrictions on employee communications at SWIFT.I would li... Read More »If an astronaut got pregnant in space, would the baby grow more symmetrical than one grown on Earth? Steve Baker, Blogger at LetsRunWithIt-com (2013-present)Updated SunThere has been precisely zero research about reproduction in large mammals in zero g.We know that rats and mice can’t produce viable young in low gravity. We don’t know abo... Read More »Is a GTX 1060 good enough to play Triple A titles in 2020? Brett Bergan, Building PC's for 25 yearsWritten Feb 8We are going through a major transitional phase in gaming at the moment.One year ago, a 144Hz 1440 monitor was basically a novelty. Today, as we enter the new decade a 144H... Read More »Will Bitcoin ever be 20k again? Why or why not? Marius Kramer, No. 1 Cryptocurrency writer on Quora worldwideUpdated May 22It might actually not as the Bitcoin scalability bottleneck is still a huge problem.In that case Ethereum would be taking the wheel to lead crypto markets past $20,000 or i... Read More »According to some people, if PHP is not strong enough to handle large scale systems, then how is WordPress being developed in PHP able to do so? Zee XiongWritten Jun 25Because a huge huge huge huge huge huge huge huge huge huge huge huge huge huge majority of the people saying things like this are people from other languages who talk tras... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

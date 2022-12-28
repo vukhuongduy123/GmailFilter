@@ -1,0 +1,126 @@
+Stories from your activity
+
+-----
+
+Question: Is there a null character too in an integer array, and how do you find the size of an array in the C language?
+
+
+Answer from Steve Baker
+
+
+No - there is no “special” integer that does that…although if you know something about your data, you could choose to make one.
+
+Maybe your array is a bunch of percentages 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDcwNzI0MzEwIn0%3D&al_pri=8&aoid=YpnfrRylCax&aoty=1&aty=4&cp=1&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=YpnfrRylCax&uid=3jcQmF94xLr&v=0
+-----
+Question: Why do we use null characters in character arrays?
+
+
+Answer from Greg Kemnitz
+
+
+In C arrays, particularly in the general (and usual) case of using them in functions where the initial array declaration itself isn’t visible (so you can’t just use [code  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDc3MTA2OTcwIn0%3D&al_pri=8&aoid=jLpitCrBrHA&aoty=1&aty=4&cp=2&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=jLpitCrBrHA&uid=3jcQmF94xLr&v=0
+-----
+Question: Why don't we need null character in arrays as in strings to know its end point?
+
+
+Answer from Ajay Krishna
+
+
+consider an example.let
+
+char STR[]="hai I am here" ;
+
+it is a c or c++ way of defining a string STR. These compilers actually concatenate a null character ('\0') at the e 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDI4MTQ5MzY4In0%3D&al_pri=8&aoid=dV22gOtEBHB&aoty=1&aty=4&cp=3&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=dV22gOtEBHB&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the easiest way to null terminate a C array of size 5 in C++?
+
+
+Answer from Carlos Henrique
+
+
+Just instantiate the array like this:
+[code ]char value[5] = {0};[/code]
+
+It will automatically create a full zero-filled array, then you can set your value and don’t need 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDcwNjQzNjQ1In0%3D&al_pri=8&aoid=8oXAvaJ42G2&aoty=1&aty=4&cp=4&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=8oXAvaJ42G2&uid=3jcQmF94xLr&v=0
+-----
+Question: How can I set a character array to null in Java? Or empty it?
+
+
+Answer from Seth D. Fulmer
+
+
+Well to set a Java array to null is easy.  Consider:
+
+[code]char[] cArray = new char[5];
+
+cArray[0] = 'a';
+cArray[1] = 'b';
+cArray[2] = 'c';
+cArray[3] = 'd';
+cArray[4] = ' 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDE2NDQ0Mjg5In0%3D&al_pri=8&aoid=bM5pkFDaWHB&aoty=1&aty=4&cp=5&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=bM5pkFDaWHB&uid=3jcQmF94xLr&v=0
+-----
+Question: What size is this array, and is there a null value in it: char array [] = {}?
+
+
+Answer from Keith Thompson
+
+
+
+> What size is this array, and is there a null value in it: char array [] = {}?
+In standard C, this is illegal. The syntax for an initializer allows for an opening [code  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDYyODQxNjI1In0%3D&al_pri=8&aoid=jIr1nFGFY9K&aoty=1&aty=4&cp=6&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=jIr1nFGFY9K&uid=3jcQmF94xLr&v=0
+-----
+Question: How does segmentation fault work with strtok in C?
+
+
+Answer from Jim Segrave
+
+
+For a start, a segmentation fault suggests that in fact strtok() did not work in your C program.
+
+Possible reasons:
+
+1. you passed a null pointer on the first call to strt 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDE3MzgzODI0NyJ9&al_pri=8&aoid=qphh2kyIayx&aoty=1&aty=4&cp=7&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=qphh2kyIayx&uid=3jcQmF94xLr&v=0
+-----
+Question: Can an array store null values?
+
+
+Answer from Marcus D. Hanwell
+
+
+Most languages that have a concept of null will allow you to store null values in arrays, as you didn’t reference a particular language I will point out that C++ is a type 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDY4OTc4MDE4In0%3D&al_pri=8&aoid=aZUAL5sE6wj&aoty=1&aty=4&cp=8&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=aZUAL5sE6wj&uid=3jcQmF94xLr&v=0
+-----
+Question: Why is C++ cin much slower than scanf?
+
+
+Answer from Daniel Gutson
+
+
+Each time a comparison between a C and an equivalent C++ facility is under research, the mandatory initial (though somewhat outdated) bibliographic reference is the offici 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDgxMjY1NDk4In0%3D&al_pri=8&aoid=9EMdbiKHuwj&aoty=1&aty=4&cp=9&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=9EMdbiKHuwj&uid=3jcQmF94xLr&v=0
+-----
+Question: How do I correctly free a double pointer in C?
+
+
+Answer from Paul Pacheco
+
+
+If you write:
+
+[code]double** x = (double**)malloc(sizeof(double*)*3);
+[/code]Then you have simply created an array of pointers. Each entry in the array is not pointing to 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXw0MTE3MjUzMCJ9&al_pri=8&aoid=FoOECizb0v6&aoty=1&aty=4&cp=10&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source=7&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty=1&ty_data=FoOECizb0v6&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1665964604336142&et=130&id=50576f990eb2481ea3a24df75a681ee2&source&src=1&st=1665964604343760&stories=1_YpnfrRylCax%7C1_jLpitCrBrHA%7C1_dV22gOtEBHB%7C1_8oXAvaJ42G2%7C1_bM5pkFDaWHB%7C1_jIr1nFGFY9K%7C1_qphh2kyIayx%7C1_aZUAL5sE6wj%7C1_9EMdbiKHuwj%7C1_FoOECizb0v6&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=50576f990eb2481ea3a24df75a681ee2&t=1665964604366539&token=55c2ad37426efb00fd669b0af46eecdd23eeea23652af6beee818dcff18c6daf40cbe9e46501451d5ab8e77cb86d0d5d06f76f739c78b3dd73de5c6b830be6a1&type=130&uid=610629155More related to "Why do only character arrays end with a null character? Why not integer arrays?"No - there is no “special” integer that does that…although if you know something about your data, you could choose to make one. Maybe your array is a bunch of percentages - or the distances betwee…Stories from your activityIs there a null character too in an integer array, and how do you find the size of an array in the C language?Steve Baker, Senior Software Engineer (2013-present)Answered January 23, 2018No - there is no “special” integer that does that…although if you know something about your data, you could choose to make one.Maybe your array is a bunch of percentages - ...Read more »Why do we use null characters in character arrays?Greg Kemnitz, Used a few over the years...Answered March 22, 2018In C arrays, particularly in the general (and usual) case of using them in functions where the initial array declaration itself isn’t visible (so you can’t just use sizeof(...Read more »Why don't we need null character in arrays as in strings to know its end point?Ajay KrishnaAnswered September 21, 2016consider an example.letchar STR[]="hai I am here" ;it is a c or c++ way of defining a string STR. These compilers actually concatenate a null character ('\0') at the end of...Read more »What is the easiest way to null terminate a C array of size 5 in C++?Carlos Henrique, studied Information Systems at Federal University of Pará (2018)Answered January 22, 2018Just instantiate the array like this:char value[5] = {0};It will automatically create a full zero-filled array, then you can set your value and don’t need to worry about s...Read more »How can I set a character array to null in Java? Or empty it?Seth D. Fulmer, 15+ years working with the Java core languageAnswered October 22, 2015Well to set a Java array to null is easy. Consider:Read more »What size is this array, and is there a null value in it: char array [] = {}?Keith Thompson, studied Computer Science at University of California, San DiegoAnswered November 10, 2017What size is this array, and is there a null value in it: char array [] = {}?In standard C, this is illegal. The syntax for an initializer allows for an opening {, a comma-...Read more »How does segmentation fault work with strtok in C?Jim SegraveAnswered October 13, 2019For a start, a segmentation fault suggests that in fact strtok() did not work in your C program.Possible reasons:you passed a null pointer on the first call to strtok() on ...Read more »Can an array store null values?Marcus D. Hanwell, works at KitwareAnswered January 7, 2018Most languages that have a concept of null will allow you to store null values in arrays, as you didn’t reference a particular language I will point out that C++ is a typed...Read more »Why is C++ cin much slower than scanf?Daniel Gutson, Engineering Director, Firmware Security Company (2017-present)Answered April 27, 2018Each time a comparison between a C and an equivalent C++ facility is under research, the mandatory initial (though somewhat outdated) bibliographic reference is the officia...Read more »How do I correctly free a double pointer in C?Paul Pacheco, DevOps Consultant at American AirlinesUpdated November 25, 2021If you write:Then you have simply created an array of pointers. Each entry in the array is not pointing to anything in part...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

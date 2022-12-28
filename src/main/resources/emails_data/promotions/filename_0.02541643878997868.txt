@@ -1,0 +1,151 @@
+< https://pardot.tcbs.com.vn/e/887793/guest-login-openAccount-true/2ksdnt/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+TCBS - Phân tích chuyên sâu < https://pardot.tcbs.com.vn/e/887793/s-tcbs-analysis-/2ksdnx/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+**Đầu tư đơn giản với TCRating và Bộ lọc thông minh của TCBS
+----------------------------------------------------
+
+Đọc bài viết gốc trên iWealth Club < https://pardot.tcbs.com.vn/e/887793/content-perma-id-1955832/2ksdp1/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  [Image alt text: User-added image] 
+
+Trong đầu tư chứng khoán, việc chọn cổ phiếu và quyết định thời điểm mua luôn là những việc không dễ dàng. Đặc biệt đối với các nhà đầu tư chưa có nhiều kinh nghiệm cũng như chưa tích lũy nhiều kiến thức trên “chứng trường”, họ thường phải gia nhập các nhóm Zalo hay Facebook của các môi giới để được “phím hàng”. Tuy nhiên, TCBS có thể cung cấp những công cụ đơn giản để giúp các nhà đầu tư chủ động trong việc chọn cổ phiếu tiềm năng bằng cách sử dụng 2 tính năng hữu ích của TCInvest là Đánh giá xếp hạng doanh nghiệp (TCRating) và Bộ lọc thông minh.
+
+TCRating đánh giá tổng thể doanh nghiệp dựa trên 6 chỉ tiêu chính bao gồm Mô hình kinh doanh, Hiệu quả hoạt động, Sức khỏe tài chính, Định giá, Điểm kỹ thuật và Sức mạnh giá của cổ phiếu. Mỗi chỉ tiêu được mô tả như một đỉnh của hình lục giác dưới đây và được đánh giá trên thang điểm từ 1 đến 5, tương ứng với 1 là Rất kém đến 5 là Rất tốt. Trong số các nhóm chỉ tiêu trên, mô hình kinh doanh là chỉ tiêu định tính về hoạt động kinh doanh của công ty dựa trên các tiêu chí như chất lượng tài sản, chủ sở hữu, ban lãnh đạo công ty, quản trị doanh nghiệp… và được chấm điểm bởi các chuyên gia phân tích của TCBS.
+
+Hình 1: Ví dụ về TCRating
+
+[Image alt text: image.png]
+
+Nguồn: TCInvest, TCBS
+
+Bộ lọc thông minh của TCInvest bao gồm các điều kiện lọc phong phú như tăng trưởng, chỉ số tài chính, TCBS đánh giá, Biến động giá & Khối lượng, Hành vi thị trường, Tín hiệu kỹ thuật, Tín hiệu mua/bán… Với mỗi điều kiện lọc, TCBS cung cấp các tiêu chí lựa chọn đa dạng với kết quả được hiển thị trực quan.
+
+Hình 2: Ví dụ về bộ lọc thông minh
+
+[Image alt text: image.png]
+
+Nguồn: TCInvest, TCBS
+
+Chúng tôi sử dụng 2 công cụ trên cùng với dữ liệu giá của gần 1,700 mã cổ phiếu trên toàn thị trường trong giai đoạn 2010 – 2022 để tìm các cổ phiếu tiềm năng, dựa trên những tiêu chí đơn giản như sau:
+
++) TCRating >=3 tương ứng mức xếp hạng doanh nghiệp từ Trung bình đến Rất tốt
+
++) Giá trị giao dịch trung bình 20 phiên > = 25 tỷ đồng để loại bỏ những cổ phiếu có thanh khoản thấp
+
+Trên nền tảng những cổ phiếu thỏa mãn 2 điều kiện ở trên, chúng tôi sử dụng tín hiệu Phá nền – Cảnh báo muađể xác định điểm giải ngân phù hợp. Cụ thể, giá cổ phiếu tạo nền tích lũy khi có một chuỗi những phiên giao dịch với biên độ hẹp. Khi cổ phiếu có một phiên giao dịch bùng nổ với sự biến động giá và khối lượng đột biến là lúc hình thành xu hướng mới của cổ phiếu. Tùy vào diễn biến giá tăng hoặc giảm sẽ xác định xu hướng trong tương lai. Tín hiệu cảnh báo mua xuất hiện khi thỏa mãn đồng thời các điều kiện sau:
+
+(1) Giá cổ phiếu tích lũy tối thiểu 1 tháng trong biên độ hẹp không quá 10%
+
+(2) Xuất hiện phiên phá vỡ nền tảng với giá tăng hơn 2% so với giá đóng cửa cao nhất của vùng tích lũy
+
+(3) Khối lượng dự kiến ngày hiện tại gấp hơn 3 lần khối lượng trung bình 10 ngày gần nhất
+
+Kết quả, có tới ~150 điểm mua thỏa mãn các tiêu chí kể trên. Để kiểm định tính hiệu quả, chúng tôi thực hiện thống kê lợi nhuận từ những điểm mua kể trên. Kết quả được hiển thị như bảng 1 dưới đây với T là thời điểm xuất hiện tín hiệu phá nền:
+
+Bảng 1: Thống kê xác suất lãi/lỗ và tỷ lệ lãi/lỗ theo các khung thời gian trong giai đoạn 2010 - 2022
+
+[Image alt text: image.png]
+
+Nguồn: TCData, TCBS
+
+Kết quả trên cho thấy xác suất thành công và tỷ suất lợi nhuận của những điểm mua theo phương pháp này có xu hướng gia tăng theo thời gian nắm giữ(từ T+5 đến T+250). Nếu như nhà đầu tư chỉ “lướt sóng” trong vòng 5-20 phiên thì hiệu quả tương đối khiêm tốn nhưng nếu nhà đầu tư nắm giữ cổ phiếu trong trung và dài hạn tức là từ 40 đến 250 phiên sau thời điểm T thì phương pháp này lại tỏ ra tương đối hiệu quả. Xác suất có lãi từ 54% đến 73% với mức lãi từ 16% đến 67% - những con số khá ấn tượng!
+
+Để thận trọng hơn, chúng tôi tiếp tục kiểm định giai đoạn 2010 – 2019, sau khi đã loại ra những năm thị trường chứng khoán có nhịp tăng mạnh là 2016, 2017, 2020 và 2021.
+
+Bảng 2: Thống kê xác suất lãi/lỗ và tỷ lệ lãi/lỗ theo các khung thời gian trong giai đoạn 2010 - 2019
+
+[Image alt text: image.png]
+
+Nguồn: TCData, TCBS
+
+Kết quả ở bảng 2 cho thấy kể cả trong điều kiện thị trường ảm đạm thì phương pháp này tỏ ra vẫn hiệu quả nhưng phải ở khung thời gian nắm giữ dài hơn từ 180 phiên đến 250 phiên kể từ phiên T với xác suất có lãi từ 53% đến 61% và mức lãi từ 19% đến 25%.
+
+Kết luận:
+
+Nhà đầu tư có thể sử dụng Bộ lọc thông minh của TCBS với 3 điều kiện lọc kết hợp như sau để tìm cổ phiếu tiềm năng:
+
+(1) TCRating > = 3
+
+(2) Giá trị giao dịch trung bình 20 phiên >= 25 tỷ đồng
+
+(3) Phá nền - Tín hiệu cảnh báo mua
+
+Tuy nhiên chúng tôi cũng lưu ý rằng tín hiệu Phá nền không xuất hiện thường xuyên nên nhà đầu tư có thể tạo trước một danh mục Dynamic Watchlist với các điều kiện trên bằng cách nhấn vào Tab Thêm vào danh mục hoặc Lưu bộ lọc.
+
+[Image alt text: image.png]
+
+Khi tín hiệu Phá nền – Tín hiệu cảnh báo mua xuất hiện thì mã cổ phiếu tiềm năng sẽ tự động lọt vào danh mục Dynamic Watchlist của nhà đầu tư.
+
+Đọc bài viết gốc trên iWealth Club < https://pardot.tcbs.com.vn/e/887793/content-perma-id-1955832/2ksdp1/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  [Image alt text: User-added image] 
+
+Các bài phân tích chuyên sâu khác:
+
+[Image alt text: User-added image]
+
+Phương pháp đơn giản để xác định vùng mua phù hợp < https://pardot.tcbs.com.vn/e/887793/bs-analysis--contentId-1629937/2ksdp4/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+Khi một cổ phiếu có mức điều chỉnh về những vùng giảm sâu so với đường MA và lại trùng với vùng đáy ngắn hạn của thị trường thì rõ ràng đó là một điểm mua tốt vì lực hồi phục được cộng hưởng cả từ nội tại cơ bản của cổ phiếu cũng như đà hồi phục của thị trường chung ...
+
+[Image alt text: User-added image]
+
+Đầu tư theo dòng tiền thông minh < https://pardot.tcbs.com.vn/e/887793/bs-analysis--contentId-1562791/2ksdp7/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+Việc đầu tư theo sóng ngành khi có dấu hiệu của các phiên tiền vào là một chiến lược hay. Tuy nhiên, chúng tôi vẫn lưu ý nhà đầu tư về việc tìm hiểu từng mã cổ phiếu kỹ lưỡng trước khi quyết định đầu tư để tránh bỏ tiền vào các mã có nền tảng cơ bản kém ...
+
+Các thông tin khác:
+
+ - Quyền lợi tích điểm iXu < https://pardot.tcbs.com.vn/e/887793/ixu/2ksdpb/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Vay ký quỹ lãi suất ưu đãi là 0.5%/năm < https://pardot.tcbs.com.vn/e/887793/dynamic-margin/2ksdpf/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Danh mục và hạn mức vay margin < https://pardot.tcbs.com.vn/e/887793/Tcbs-margin/2ksdpj/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Quản lý danh mục cổ phiếu trên TCInvest < https://pardot.tcbs.com.vn/e/887793/anh-muc-co-phieu-tren-tcinvest/2ksdpm/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Chuyển tiền vào tài khoản chứng khoán < https://pardot.tcbs.com.vn/e/887793/10-url-chuyen-tien-chung-khoan/2ksdpq/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Câu lạc bộ đầu tư và quản lý gia sản iWealth Club < https://pardot.tcbs.com.vn/e/887793/dashboard/2ksdpt/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Thiết lập cảnh báo thị trường < https://pardot.tcbs.com.vn/e/887793/-thiet-lap-canh-bao-thi-truong/2ksdpx/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Tự làm chủ giao diện TCInvest < https://pardot.tcbs.com.vn/e/887793/u-giao-dien-trang-chu-tcinvest/2ksdq1/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Lập kế hoạch tài chính TCWealth < https://pardot.tcbs.com.vn/e/887793/rl-ke-hoach-tai-chinh-tcwealth/2ksdq4/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Sổ lệnh nhanh (lệnh Pro) < https://pardot.tcbs.com.vn/e/887793/uc-5-url-su-dung-so-lenh-nhanh/2ksdq7/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Lệnh dừng chốt lãi, cắt lỗ < https://pardot.tcbs.com.vn/e/887793/-dung--lenh-chot-lai---cat-lo-/2ksdqb/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Lệnh điều kiện < https://pardot.tcbs.com.vn/e/887793/huyen-muc-5-url-lenh-dieu-kien/2ksdqf/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Hướng dẫn sao chép đầu tư iCopier < https://pardot.tcbs.com.vn/e/887793/huyen-muc-5-url-lenh-dieu-kien/2ksdqf/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Biểu phí dịch vụ chứng khoán tại TCBS < https://pardot.tcbs.com.vn/e/887793/i-dich-vu-chung-khoan-tai-tcbs/2ksdqj/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+ - Tra cứu lịch sử giao dịch trên TCInvest < https://pardot.tcbs.com.vn/e/887793/ao-dich-co-phieu-tren-tcinvest/2ksdqm/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities)
+
+Tầng 10 + 12, tòa nhà Techcombank, 191 Bà Triệu, quận Hai Bà Trưng, Hà Nội
+
+Tầng 17, tòa nhà Lim, 9-11 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
+
+Hotline: 1800 588 826 < tel:1800588826 > | Email: cskh@tcbs.com.vn < mailto:cskh@tcbs.com.vn > | Web: www.tcbs.com.vn < https://pardot.tcbs.com.vn/e/887793/2022-07-13/2ksdqq/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+ < https://pardot.tcbs.com.vn/e/887793/home/2ksdqt/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  < https://pardot.tcbs.com.vn/e/887793/iwealth-chatbot/2ksdqx/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  < https://pardot.tcbs.com.vn/e/887793/techcomsecurities/2ksdr1/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  < https://pardot.tcbs.com.vn/e/887793/placing-nbj2/2ksdr4/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 >  < https://pardot.tcbs.com.vn/e/887793/tcwealth/2ksdr7/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > 
+
+Sở dĩ Quý khách nhận được thư điện tử này bởi vì Quý khách đã chấp thuận cho Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities) gửi đến cho Quý khách các thông tin và chương trình khuyến mãi liên quan đến sản phẩm và dịch vụ của Techcom Securities.
+
+Chúng tôi tôn trọng sự riêng tư của Quý khách.
+
+Quý khách có thể lựa chọn cập nhật thông tin < https://pardot.tcbs.com.vn/e/887793/dang-ky-nhan-newsletter/2ksdrb/318685719?h=jq1XkYAEuezY12wo130xYpk2H1kzM_jmBjc-bqfDE48 > hoặc từ chối <  https://pardot.tcbs.com.vn/unsubscribeConfirm/887793/8ea566f37d94a9363067078dcbdbf7b49aaea92e97e86a94e499e1af82442679/318685719  > nhận email
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                             TCBS - Phân tích chuyên sâu                                                                                                                                                                                                                                                                                                                     Đầu tư đơn giản với TCRating và Bộ lọc thông minh của TCBSĐọc bài viết gốc trên iWealth Club                                                                                  
+                                                                                                                                    Trong đầu tư chứng khoán, việc chọn cổ phiếu và quyết định thời điểm mua luôn là những việc không dễ dàng. Đặc biệt đối với các nhà đầu tư chưa có nhiều kinh nghiệm cũng như chưa tích lũy nhiều kiến thức trên “chứng trường”,
+họ thường phải gia nhập các nhóm Zalo hay Facebook của các môi giới để được “phím hàng”. Tuy nhiên, TCBS có thể cung cấp những công cụ đơn giản để giúp các nhà đầu tư chủ động trong việc chọn cổ phiếu tiềm năng bằng cách sử dụng 2 tính năng hữu ích của TCInvest là Đánh giá xếp hạng doanh nghiệp (TCRating) và Bộ lọc thông minh.TCRating đánh giá tổng thể doanh nghiệp dựa trên 6 chỉ tiêu chính bao gồm Mô hình kinh doanh, Hiệu quả hoạt động, Sức khỏe tài chính, Định giá, Điểm kỹ thuật và Sức mạnh giá của cổ phiếu. Mỗi chỉ tiêu được mô tả như một đỉnh của hình lục giác
+dưới đây và được đánh giá trên thang điểm từ 1 đến 5, tương ứng với 1 là Rất kém đến 5 là Rất tốt. Trong số các nhóm chỉ tiêu trên, mô hình kinh doanh là chỉ tiêu định tính về hoạt động kinh doanh của công ty dựa trên các tiêu chí như chất lượng tài sản, chủ sở hữu, ban lãnh đạo công ty, quản trị doanh nghiệp… và được chấm điểm bởi các chuyên gia phân tích của TCBS.Hình 1: Ví dụ về TCRatingNguồn: TCInvest, TCBSBộ lọc thông minh của TCInvest bao gồm các điều kiện lọc phong phú như tăng trưởng, chỉ số tài chính, TCBS đánh giá, Biến động giá & Khối lượng, Hành vi thị trường, Tín hiệu kỹ thuật, Tín hiệu mua/bán… Với mỗi điều kiện lọc, TCBS cung cấp các tiêu chí lựa chọn đa dạng với kết quả được hiển thị trực
+quan.Hình 2: Ví dụ về bộ lọc thông minhNguồn: TCInvest, TCBSChúng tôi sử
+dụng 2 công cụ trên cùng với dữ liệu giá của gần 1,700 mã cổ phiếu trên toàn thị trường trong giai đoạn 2010 – 2022 để tìm các cổ phiếu tiềm năng, dựa trên những tiêu chí đơn giản như sau:+) TCRating >=3 tương ứng mức xếp hạng doanh nghiệp từ Trung bình đến Rất tốt+) Giá trị giao dịch trung bình 20 phiên > = 25 tỷ đồng để loại bỏ những cổ phiếu có thanh khoản thấp                                                                        
+                                                                                                                                             Trên nền tảng những cổ phiếu thỏa mãn 2 điều kiện ở trên, chúng tôi sử dụng tín hiệu Phá nền – Cảnh báo mua để xác định điểm giải ngân phù hợp. Cụ thể, giá cổ phiếu tạo nền tích lũy khi có một chuỗi những phiên giao
+dịch với biên độ hẹp. Khi cổ phiếu có một phiên giao dịch bùng nổ với sự biến động giá và khối lượng đột biến là lúc hình thành xu hướng mới của cổ phiếu. Tùy vào diễn biến giá tăng hoặc giảm sẽ xác định xu hướng trong tương lai. Tín hiệu cảnh báo mua xuất hiện khi thỏa mãn đồng thời các điều kiện sau:(1)   Giá cổ phiếu tích lũy tối thiểu 1 tháng trong biên độ hẹp không quá 10%(2)   Xuất hiện phiên phá vỡ nền tảng với giá tăng hơn 2% so với giá
+đóng cửa cao nhất của vùng tích lũy(3)   Khối lượng dự kiến ngày hiện tại gấp hơn 3 lần khối lượng trung bình 10 ngày gần nhấtKết quả, có tới ~150 điểm mua thỏa mãn các tiêu chí kể trên. Để kiểm định tính hiệu quả, chúng tôi thực hiện thống kê lợi nhuận từ những điểm mua kể trên. Kết quả được hiển thị như bảng 1 dưới đây với T là thời điểm xuất hiện tín hiệu phá nền:Bảng 1: Thống kê xác suất lãi/lỗ và tỷ lệ lãi/lỗ theo các khung thời gian trong giai đoạn 2010 - 2022Nguồn: TCData, TCBSKết quả trên cho
+thấy xác suất thành công và tỷ suất lợi nhuận của những điểm mua theo phương pháp này có xu hướng gia tăng theo thời gian nắm giữ (từ T+5 đến T+250). Nếu như nhà đầu tư chỉ “lướt sóng” trong vòng 5-20 phiên thì hiệu quả tương đối khiêm tốn nhưng nếu nhà đầu tư nắm giữ cổ phiếu trong trung và dài hạn tức là từ 40 đến 250 phiên sau thời điểm T thì phương pháp này lại tỏ ra tương đối hiệu quả. Xác suất có lãi từ 54% đến 73% với mức lãi từ 16% đến 67% - những con số khá ấn tượng!Để thận trọng hơn, chúng tôi tiếp tục kiểm định giai đoạn 2010 –
+2019, sau khi đã loại ra những năm thị trường chứng khoán có nhịp tăng mạnh là 2016, 2017, 2020 và 2021.Bảng 2: Thống kê xác suất lãi/lỗ và tỷ lệ lãi/lỗ theo các khung thời gian trong giai đoạn 2010 - 2019Nguồn: TCData, TCBSKết quả ở bảng 2 cho thấy kể cả trong điều kiện thị trường ảm đạm thì phương pháp này tỏ ra vẫn hiệu quả nhưng phải ở khung thời gian nắm giữ dài hơn từ 180 phiên đến 250 phiên kể từ phiên T với xác suất có lãi từ 53% đến 61% và mức lãi từ 19% đến 25%.Kết luận:Nhà đầu tư có
+thể sử dụng Bộ lọc thông minh của TCBS với 3 điều kiện lọc kết hợp như sau để tìm cổ phiếu tiềm năng:(1)   TCRating > = 3(2)   Giá trị giao dịch trung bình 20 phiên >= 25 tỷ đồng(3)   Phá nền - Tín hiệu cảnh báo muaTuy nhiên chúng
+tôi cũng lưu ý rằng tín hiệu Phá nền không xuất hiện thường xuyên nên nhà đầu tư có thể tạo trước một danh mục Dynamic Watchlist với các điều kiện trên bằng cách nhấn vào Tab Thêm vào danh mục hoặc Lưu bộ lọc.Khi tín hiệu Phá nền – Tín hiệu cảnh báo mua xuất hiện thì mã cổ phiếu tiềm năng sẽ tự động lọt vào danh mục Dynamic Watchlist của nhà đầu
+tư.                                                                                                                                                                                                                      Đọc bài viết gốc trên iWealth Club                                                                                                                                                                                                                                                                                                                                  Các bài phân tích chuyên sâu khác:                                                                                                                                                                               
+                                                                                                                                                                                                         
+                                                                                                                                                             Phương pháp đơn giản để xác định vùng mua phù hợp                       
+                                                                                                                                                                                              Khi một cổ phiếu có mức điều chỉnh về những vùng giảm sâu so với đường MA và lại trùng với vùng đáy ngắn hạn của thị trường thì rõ ràng đó là một điểm mua tốt vì lực hồi phục được cộng hưởng cả từ nội tại cơ
+bản của cổ phiếu cũng như đà hồi phục của thị trường chung ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Đầu tư theo dòng tiền thông minh                                                                                                                                                                                                                        Việc đầu tư theo sóng ngành khi có dấu hiệu của các phiên tiền vào là một chiến lược hay. Tuy nhiên, chúng tôi vẫn lưu ý nhà đầu tư về việc tìm hiểu từng mã cổ phiếu kỹ lưỡng trước khi quyết định đầu tư để tránh bỏ tiền vào các mã có nền tảng cơ bản kém ...                                                                                                                                                                                                                                                                                                                                 Các thông tin khác:                                             Quyền lợi tích điểm iXu                       Vay ký quỹ lãi suất ưu đãi là 0.5%/năm                       Danh mục và hạn mức vay margin                       Quản lý danh mục cổ phiếu trên TCInvest                       Chuyển tiền vào tài khoản chứng khoán                       Câu lạc bộ đầu tư và quản lý gia sản iWealth Club                       Thiết lập cảnh báo thị trường                       Tự làm chủ giao diện TCInvest                       Lập kế hoạch tài chính TCWealth                       Sổ lệnh nhanh (lệnh Pro)                       Lệnh dừng chốt lãi, cắt lỗ                       Lệnh điều kiện                       Hướng dẫn sao chép đầu tư iCopier                       Biểu phí dịch vụ chứng khoán tại TCBS                       Tra cứu lịch sử giao dịch trên TCInvest     
+                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                                                              Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities)Tầng 10 + 12, tòa nhà Techcombank, 191 Bà Triệu, quận Hai Bà Trưng, Hà Nội Tầng 17, tòa nhà Lim, 9-11 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh Hotline: 1800 588 826 | Email: cskh@tcbs.com.vn | Web: www.tcbs.com.vn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Sở dĩ Quý khách nhận được thư điện tử này bởi vì Quý khách đã chấp thuận cho Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities) gửi đến cho Quý khách các thông tin và chương trình khuyến mãi liên quan đến sản phẩm và dịch vụ của Techcom Securities.Chúng tôi tôn trọng sự riêng tư của Quý khách. Quý khách có thể lựa chọn cập nhật thông tin hoặc từ chối nhận email                                                                                                                                                                        
+
+

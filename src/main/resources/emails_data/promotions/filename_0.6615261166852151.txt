@@ -1,0 +1,330 @@
+
+
+.
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+See what’s new in Lucidchart, Lucidspark, and Lucidscale! 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+
+ New features that improve collaboration and alignment ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+  
+ 
+ 
+Quarterly product newsletter 
+ 
+ 
+ What's new 
+ 
+
+ 
+ 
+
+ 
+    
+ 
+
+  
+
+ 
+We’ve been working hard this last quarter to create several new features and integrations for your favorite Lucid products. See them all below! 
+ 
+ 
+  
+ Go to your documents 
+   
+ 
+ 
+ 
+ 
+ 
+Lucidchart updates 
+ 
+  
+ 
+ 
+   
+ 
+ 
+Loom integration 
+ 
+ 
+Record, embed, and play videos directly in your Lucidchart documents. Clearly share context and directions, even when you can’t meet with everyone at the same time. 
+ 
+ 
+ Learn how  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+     
+ 
+ 
+ ServiceNow integration  
+ 
+ 
+ Quickly add clarity to your application portfolio by automatically generating Lucidchart diagrams from ServiceNow data.  
+ 
+ 
+ Get the details  
+ 
+
+  
+ 
+ 
+
+ 
+     
+ 
+ 
+ Tasks are now available  
+ 
+ 
+ Now you can assign tasks to collaborators within documents. Make your diagrams even more actionable.  
+ 
+ 
+ Read more  
+ 
+
+  
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+Lucidspark updates 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ Dynamic Matrix: The powerful way to organize your ideas  
+ 
+ 
+Gather your shapes, sticky notes, or Lucidspark Cards into the Dynamic Matrix. You can then pivot it on multiple axes to see your ideas in new ways. 
+ 
+ 
+ Learn how to use it  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+     
+ 
+ 
+ Lucidspark app for Webex  
+ 
+ 
+ Bring your virtual whiteboard to all Webex calls. Drive engagement and collaboration during brainstorms and other meetings.  
+ 
+ 
+ Learn more  
+ 
+
+  
+ 
+ 
+
+ 
+     
+ 
+ 
+ Loom integration  
+ 
+ 
+ Record and embed videos in your boards to provide context without long-winded emails and unnecessary meetings.  
+ 
+ 
+ Learn how  
+ 
+
+  
+ 
+
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+     
+ 
+ 
+ Tasks  
+ 
+ 
+ Seamlessly turn your ideas into action—assign tasks to collaborators within Lucidspark.  
+ 
+ 
+ Read more  
+ 
+
+  
+ 
+ 
+
+ 
+     
+ 
+ 
+ Quick Cleanup  
+ 
+ 
+ Save time when brainstorming ideas on your board. In just a few clicks, you can bring scattered sticky notes into an organized group.  
+ 
+ 
+ See how it works  
+ 
+
+  
+ 
+
+  
+ 
+ 
+ 
+ 
+ 
+Lucidscale updates 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ HTML embed  
+ 
+ 
+ You can now embed Lucidcscale models on internal wikis or any other HTML pages. Put your models in all the right places.  
+ 
+ 
+ Learn more  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+     
+ 
+ 
+ Added clarity: Lines to summarized shapes  
+ 
+ 
+ Now you can see connections between resource types even when those resources are summarized.  
+ 
+
+  
+ 
+ 
+
+ 
+     
+ 
+ 
+ Loom integration  
+ 
+ 
+ Our integration with Loom works in Lucidscale as well! Record and embed videos directly in your models.  
+ 
+ 
+ Learn how  
+ 
+
+  
+ 
+
+  
+ 
+ 
+Would you like updates on all new features as they’re coming out? Check out the full list of release updates here.  
+ 
+ 
+  
+ Go to your documents 
+   
+ 
+
+
+            
+        
+    
+
+ 
+ 
+    Update your email preferences to choose the types of emails you receive.
+    Lucid Software Inc.
+    10355 South Jordan Gateway, Suite 150 
+    South Jordan, UT 84095 USA 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+ 
+  
+
+
+

@@ -1,0 +1,823 @@
+
+ 
+ 
+
+ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ 
+https://shopee.vn/?utm_content=Logo 
+
+
+https://shopee.vn/mall/?utm_content=Category1 
+Shopee Mall 
+https://shopee.vn/Th%E1%BB%9Di-Trang-N%E1%BB%AF-cat.77?utm_content=Category2 
+Thời Trang 
+https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-T%E1%BB%AD-cat.2365?utm_content=Category3 
+Cong Nghệ 
+https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-Gia-D%E1%BB%A5ng-cat.2353?utm_content=Category4 
+Gia Dụng 
+https://shopee.vn/B%C3%A1ch-Ho%C3%A1-Online-cat.9824?utm_content=Category5 
+Thực Phẩm 
+https://shopee.vn/Voucher-D%E1%BB%8Bch-v%E1%BB%A5-cat.12938?utm_content=Category6 
+Voucher Dịch Vụ
+
+
+https://loyalty.shopee.vn/universal-link/?smtt=9&deep_and_deferred=1 
+Thêm <strong>3</strong> đơn và <strong>1.000.000 ₫</strong> để thăng hạng <strong>Bạc Shopee Rewards</strong> (từ 22 Aug)
+
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Banner 
+
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022#1660898344889?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-GiảMGiáĐộCQuyềN 
+
+
+https://shopee.vn/universal-link/a-i.25211549.3624717197?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-839K 
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Banner 
+
+https://shopee.vn/universal-link/a-i.25211549.10527625099?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-733K 
+
+
+https://shopee.vn/universal-link/a-i.25211549.15309541286?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-1050K 
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Banner 
+
+https://shopee.vn/universal-link/a-i.25211549.5042533020?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-685K 
+
+
+https://shopee.vn/universal-link/a-i.25211549.6359873122?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-839K 
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Banner 
+
+https://shopee.vn/universal-link/a-i.25211549.10728007312?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-644K 
+
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022#1660900357576?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-HunterX 
+
+
+https://shopee.vn/universal-link/a-i.25211549.20220540331?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-TrắNgĐỏ 
+
+https://shopee.vn/universal-link/a-i.25211549.21720535646?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Đen 
+
+https://shopee.vn/universal-link/a-i.25211549.21823462763?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-TrắNgHồNg 
+
+
+https://shopee.vn/universal-link/a-i.25211549.13690844925?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Vàng 
+
+https://shopee.vn/universal-link/a-i.25211549.18823388308?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-HồNg 
+
+https://shopee.vn/universal-link/a-i.25211549.11596357394?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Đen 
+
+
+https://shopee.vn/universal-link/a-i.25211549.12220229755?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-HồNg 
+
+https://shopee.vn/universal-link/a-i.25211549.15086990138?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Đỏ 
+
+https://shopee.vn/universal-link/a-i.25211549.17410319495?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Xanh 
+
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022#anchorId-1660884760701?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Sandal 
+
+
+https://shopee.vn/universal-link/a-i.25211549.17908132301?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-ĐenCam 
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022#anchorId-1660884760701?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Sandal 
+
+https://shopee.vn/universal-link/a-i.25211549.3560211825?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-ĐỏĐen 
+
+
+https://shopee.vn/universal-link/a-i.25211549.16625251561?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-ĐỏXám 
+
+https://shopee.vn/universal-link/m/bitis-sbd-082022#anchorId-1660884760701?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Sandal 
+
+https://shopee.vn/universal-link/a-i.25211549.7442355203?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-ĐenCam 
+
+
+
+
+https://shopee.vn/universal-link/daily_discover?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+ 
+ 
+https://shopee.vn/product/606103095/21631545420 
+
+Áo thun tay lỡ nam nữ in hình Now skyteenn, Áo phô
+
+ 
+ ₫22.000
+₫11.000
+ 
+ 
+9087 đã bán
+ 
+ 50%
+GIẢM
+ 
+ 
+ 
+ 
+https://shopee.vn/product/646880061/21127324384 
+
+Bạch tuộc nhồi bông lật ngược hai mặt biểu hiện cả
+
+ ₫1.000
+ 
+ 
+68 đã bán
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://shopee.vn/product/144949363/17622646036 
+
+Mũ lưỡi trai ❤️ Nón kết thêu chữ phong cách Ulzzan
+
+ 
+ ₫50.000
+₫25.000
+ 
+ 
+15431 đã bán
+ 
+ 50%
+GIẢM
+ 
+ 
+ 
+ 
+https://shopee.vn/product/7669738/13908620813 
+
+Ốp lưng iphone trong lỗ camera bear.bri.ck 6/6plus
+
+ 
+ ₫28.000
+₫9.000
+ 
+ 
+31303 đã bán
+ 
+ 67%
+GIẢM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://shopee.vn/product/37101020/13482385000 
+
+Tee basic ss1 CREWZ áo thun tay lỡ unisex Local Br
+
+ 
+ ₫159.000
+₫79.000
+ 
+ 
+9525 đã bán
+ 
+ 50%
+GIẢM
+ 
+ 
+ 
+ 
+https://shopee.vn/product/446089250/11837015577 
+
+Áo hai dây Lovito L00008 len gân không tay dáng ôm
+
+ 
+ ₫37.500
+₫18.000
+ 
+ 
+13377 đã bán
+ 
+ 52%
+GIẢM
+ 
+ 
+ 
+ 
+
+https://shopee.vn/universal-link/daily_discover?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+
+ 
+ 
+
+
+https://shopee.vn/universal-link/m/ma-giam-gia?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+https://shopee.vn/universal-link/flash_sale/?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+https://shopee.vn/universal-link/m/shopeegame?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+Mua Sắm Cùng Shopee
+
+https://play.google.com/store/apps/details?id=com.shopee.vn 
+
+https://itunes.apple.com/VN/app/id959841449 
+
+https://www.facebook.com/ShopeeVN/ 
+
+https://www.instagram.com/shopee_vn/ 
+
+https://www.youtube.com/channel/UCKcxoGpxOJx3nt83MCG-nuQ 
+
+Subscription Center: https://click.email.shopee.vn/subscription_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563dd3d4a752ab38ae73e61e0eef9ef4e9020aa949567ebcd57ff9e4cd4e7f8017f
+ Profile Center: https://click.email.shopee.vn/profile_center.aspx?qs=89ad78f27b4d7d0cb198c2796cfc9e30ebeb8f04d6888958e64a66b68ff77ecc7179d98cc46c44ba7688137125989ee8
+ One-click Unsubscribe: https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563dd3d4a752ab38ae73e61e0eef9ef4e90a5137cf67f4d73ee916a48a7caafe925
+ Sender address: Shopee Singapore Private Limited 2 Science Park Drive, #03-01, Tower A Ascent Singapore SG 118222 SG
+ 
+
+
+https://shopee.vn/docs/3603 
+Chinh S&aacute;ch Bảo Mật     |   
+https://shopee.vn/docs/3602 
+Điều Khoản Dịch Vụ     |   
+https://view.email.shopee.vn/?qs=fa314076331f591a956b34b82486143f6804a906ce54bf2766c6834c33bfdeff697cc36248c450778fdab59b838a2f7ae6efed11553bc6d9 
+Nhấn vao đay nếu khong xem được nội dung      |   
+https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563dd3d4a752ab38ae73e61e0eef9ef4e90a5137cf67f4d73ee916a48a7caafe925 
+Ngừng nhận bản tin 
+
+Email nay được gửi tự động. Xin đừng trả lời email nay.
+
+Them 
+mailto:news@email.shopee.vn 
+news@email.shopee.vn  vao sổ địa chỉ để đảm bảo bạn nhận được bản tin Shopee trong inbox.
+
+
+Cong Ty TNHH Shopee, Tầng 5, Th&aacute;p 1, Toa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Kh&aacute;nh, Quận Ba Đinh, Thanh phố Ha Nội
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+  
+    
+    
+    
+    
+    
+    
+  
+  
+💝 Quà tặng trị giá 492K 💝 Voucher giảm đến 600K 💝 Đánh kỷ nguyên mới, nâng niu bàn chân Việt!
+    
+      
+      
+    
+    
+      
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                
+                
+                  
+                  
+                    
+                      
+                        
+                          
+                          
+                            
+                            
+                              
+                                
+                                  
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+    
+
+  
+    
+      
+    
+  
+
+
+
+  
+
+
+
+  
+  
+  
+  
+
+
+  
+
+ 
+  
+   
+    
+     Shopee Mall
+    
+     Thời Trang 
+    
+     Công Nghệ 
+    
+     Gia Dụng 
+    
+     Thực Phẩm 
+    
+     Voucher Dịch Vụ
+  
+
+  
+    
+      
+                
+          
+          
+    Thêm 3 đơn và 1.000.000 ₫ để thăng hạng Bạc Shopee Rewards (từ 22 Aug)
+                    
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+        
+      
+    
+  
+  
+    
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Áo thun tay lỡ nam nữ in hình Now skyteenn, Áo phô
+              
+            
+          
+          
+            
+              
+              ₫22.000
+               
+              ₫11.000
+              
+               
+              9087 đã bán
+            
+            
+              
+              
+                50
+                %
+                 
+                GIẢM
+              
+              
+            
+          
+        
+      
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Bạch tuộc nhồi bông lật ngược hai mặt biểu hiện cả
+              
+            
+          
+          
+            
+                 
+              
+              ₫1.000
+              
+               
+              68 đã bán
+            
+            
+              
+            
+          
+        
+      
+       
+      
+    
+    
+       
+      
+    
+    
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Mũ lưỡi trai ❤️ Nón kết thêu chữ phong cách Ulzzan
+              
+            
+          
+           
+            
+              
+              ₫50.000
+               
+              ₫25.000
+              
+               
+              15431 đã bán
+            
+            
+              
+              
+                50
+                %
+                 
+                GIẢM
+              
+              
+            
+          
+        
+      
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Ốp lưng iphone trong lỗ camera bear.bri.ck 6/6plus
+              
+            
+          
+          
+            
+              
+              ₫28.000
+               
+              ₫9.000
+              
+               
+              31303 đã bán
+            
+            
+              
+              
+                67
+                %
+                 
+                GIẢM
+              
+              
+            
+          
+        
+      
+       
+      
+    
+    
+       
+      
+    
+    
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Tee basic ss1 CREWZ áo thun tay lỡ unisex Local Br
+              
+            
+          
+          
+            
+              
+              ₫159.000
+               
+              ₫79.000
+              
+               
+              9525 đã bán
+            
+            
+              
+              
+                50
+                %
+                 
+                GIẢM
+              
+              
+            
+          
+        
+      
+       
+      
+      
+        
+          
+            
+              
+            
+          
+          
+            
+              Áo hai dây Lovito L00008 len gân không tay dáng ôm
+              
+            
+          
+          
+            
+              
+              ₫37.500
+               
+              ₫18.000
+              
+               
+              13377 đã bán
+            
+            
+              
+              
+                52
+                %
+                 
+                GIẢM
+              
+              
+            
+          
+        
+      
+       
+      
+    
+  
+  
+    
+      
+        
+      
+    
+  
+  
+  
+    
+      
+        
+          
+            
+              
+            
+            
+              
+            
+            
+              
+            
+          
+        
+      
+    
+  
+
+  
+    
+      
+    
+    
+      
+    
+    
+      
+    
+  
+
+  
+    
+      
+        Mua Sắm Cùng Shopee
+      
+    
+  
+  
+    
+      
+        
+          
+                       
+            
+              
+                       
+          
+          
+                       
+            
+              
+                           
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          
+                       
+                       
+          
+          
+                       
+                           
+          
+          
+                       
+                          
+          
+        
+      
+    
+  
+
+
+  
+    Subscription Center: https://click.email.shopee.vn/subscription_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563dd3d4a752ab38ae73e61e0eef9ef4e9020aa949567ebcd57ff9e4cd4e7f8017f
+      Profile Center: https://click.email.shopee.vn/profile_center.aspx?qs=89ad78f27b4d7d0cb198c2796cfc9e30ebeb8f04d6888958e64a66b68ff77ecc7179d98cc46c44ba7688137125989ee8
+      One-click Unsubscribe: https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563dd3d4a752ab38ae73e61e0eef9ef4e90a5137cf67f4d73ee916a48a7caafe925
+      Sender address: Shopee Singapore Private Limited 2 Science Park Drive, #03-01, Tower A Ascent Singapore SG 118222 SG
+    
+  
+
+	Chính Sách Bảo Mật    |   Điều Khoản Dịch Vụ    |   
+Nhấn vào đây nếu không xem được nội dung     |   
+Ngừng nhận bản tin
+	
+		Email này được gửi tự động. Xin đừng trả lời email này.
+		Thêm news@email.shopee.vn vào sổ địa chỉ để đảm bảo bạn nhận được bản tin Shopee trong inbox.
+		Công Ty TNHH Shopee, Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+      
+        
+          
+        
+      
+    
+  
+

@@ -1,0 +1,404 @@
+Stories from your activity
+
+-----
+
+
+Question: I can't ping hosts on the same network, connected to the same access point. Why is it so?
+
+Answer from Tony Li
+
+Some AP's have privacy settings that explicitly prevent two clients from talking to one another. That could be what's hitting you.
+Read More: https://www.quora.com/I-cant-ping-hosts-on-the-same-network-connected-to-the-same-access-point-Why-is-it-so/answer/Tony-Li-19
+-----
+Question: Why can't my two home computers ping each other?
+
+Answer from Tony Li
+
+Check the ARP cache. It's entirely possible that one or the other machine has ICMP Echo Reply messages disabled, so is not visible via ping. However, the ping should have trig
+Read More: https://www.quora.com/Why-cant-my-two-home-computers-ping-each-other/answer/Tony-Li-19
+-----
+Question: Why can't I ping another computer on my home network?
+
+Answer from Brannon Wadforth
+
+If you can’t ping that computer - and they can’t ping you - I’d look at the default gateway. Your ‘router’ (default gateway) might drop ICMP packets (packets responsible for ‘
+Read More: https://www.quora.com/Why-cant-I-ping-another-computer-on-my-home-network/answer/Brannon-Wadforth
+-----
+Question: If I ping a PC on same network, the ping request will route on local network or through internet?
+
+Answer from Paul Williams
+
+If everything is configured properly, the system you ping from will know from it's routing table (and netmask and destination address) that the destination is local. Contrary 
+Read More: https://www.quora.com/If-I-ping-a-PC-on-same-network-the-ping-request-will-route-on-local-network-or-through-internet/answer/Paul-Williams-216
+-----
+Question: Why can I sometimes ping another computer in my LAN network, but sometimes I cannot? Is it because of the router problem?
+
+Answer from Glenn Talbott
+
+To add to the list of correct reasons provided by Michael Ben-Yehuda [ https://www.quora.com/profile/Michael-Ben-Yehuda ] I would add that sometimes devices give low priority 
+Read More: https://www.quora.com/Why-can-I-sometimes-ping-another-computer-in-my-LAN-network-but-sometimes-I-cannot-Is-it-because-of-the-router-problem/answer/Glenn-Talbott
+-----
+Question: Why, when we ping an IP address, does it give four replies?
+
+Answer from Phillip Remaker
+
+Ping will only send one reply per request.
+
+The default ping on some platforms sends multiple requests, in case packets are being dropped intermittently.
+
+For example, Windows
+Read More: https://www.quora.com/Why-when-we-ping-an-IP-address-does-it-give-four-replies/answer/Phillip-Remaker
+-----
+Question: What is a Management IP Address?
+
+Answer from Bob Reed
+
+Some computers, servers in particular, have a feature called by various names such as “lights out management (LOM)” or “integrated lights out (ILO)”. This feature allows contr
+Read More: https://www.quora.com/What-is-a-Management-IP-Address/answer/Bob-Reed-20
+-----
+Question: Why are pings used in network communications?
+
+Answer from Sai Harsha
+
+Ping is the software utility to confirm the host is up. It sends ICMP(internet control message protocol) packets and waits for the echo from the host. If the particular ip (ho
+Read More: https://www.quora.com/Why-are-pings-used-in-network-communications/answer/Sai-Harsha-32
+-----
+Question: How do I resolve a "request timed out" when pinging?
+
+Answer from Antony
+
+You asked about how to resolve the request timed out message when you ping. You forgot to mention to which address you are pinging. Is it a website or an internal IP address?
+
+Read More: https://www.quora.com/How-do-I-resolve-a-request-timed-out-when-pinging/answer/Antony-407
+-----
+Question: Why am I not able to access my computer from another computer connected on the same network?
+
+Answer from Rob Folden
+
+Both computers must have a valid IP address on the subnet on which they are connected. Example computer a at 10.0.0.2 and computer b at 10.0.0.3
+
+Assuming Windows machines, Yo
+Read More: https://www.quora.com/Why-am-I-not-able-to-access-my-computer-from-another-computer-connected-on-the-same-network/answer/Rob-Folden
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1658178196821029&et=130&id=3d690dbfba3f448ea8795e95370d364d&source&src=1&st=1658178196826098&stories=1_a0JQxAVsJ8T%7C1_VonZ8xbu6oQ%7C1_10yV1xT5oe4%7C1_1FiwVHwXJ1P%7C1_aYklO5CZ2iH%7C1_d6RnxgqfrUP%7C1_xuQs1zJNm1%7C1_IjkCVWQ02Wm%7C1_4EAhHFciEgj%7C1_9x8JmqtFF4T&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=3d690dbfba3f448ea8795e95370d364d&t=1658178196938895&token=ac834d9bb985f0441049ae2c023d00ebd104e84ca9f2d85a428cad9f567f7ee97d80f45afa2af50c4477ad69bb099eece35fb467ed5bed53c8440953694a3e75&type=130&uid=610629155
+
+
+
+
+
+
+
+
+Answer: Some AP's have privacy settings that explicitly prevent two clients fr.​.​.​
+
+Stories from your activity
+
+
+
+
+
+
+
+
+
+
+
+I can't ping hosts on the same network, connected to the same access point. Why is it so?
+
+
+
+ 
+
+
+
+
+Tony Li, Internet construction crew
+
+Written Sep 15, 2014
+
+
+
+Some AP's have privacy settings that explicitly prevent two clients from talking to one another. That could be what's hitting you. Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+Why can't my two home computers ping each other?
+
+
+
+ 
+
+
+
+
+Tony Li, Internet construction crew
+
+Written Dec 3, 2015
+
+
+
+Check the ARP cache. It's entirely possible that one or the other machine has ICMP Echo Reply messages disabled, so is not visible via ping. However, the ping should have t... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why can't I ping another computer on my home network?
+
+
+
+ 
+
+
+
+
+Brannon Wadforth, Software Consultant
+
+Written Sep 11, 2020
+
+
+
+If you can’t ping that computer - and they can’t ping you - I’d look at the default gateway. Your ‘router’ (default gateway) might drop ICMP packets (packets responsible for ‘pinging’).
+... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+If I ping a PC on same network, the ping request will route on local network or through internet?
+
+
+
+ 
+
+
+
+
+Paul Williams, Certifiable Bookworm 
+
+Updated Jan 19, 2017
+
+
+
+If everything is configured properly, the system you ping from will know from it's routing table (and netmask and destination address) that the destination is local. Contra... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why can I sometimes ping another computer in my LAN network, but sometimes I cannot? Is it because of the router problem?
+
+
+
+ 
+
+
+
+
+Glenn Talbott, Learned Computer Architecture a Long Time Ago
+
+Written Jan 23, 2019
+
+
+
+To add to the list of correct reasons provided by Michael Ben-Yehuda I would add that sometimes devices give low priority to pings & ping responses, your target computer ma... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why, when we ping an IP address, does it give four replies?
+
+
+
+ 
+
+
+
+
+Phillip Remaker, connecting your computers since 1988
+
+Written Aug 3, 2015
+
+
+
+Ping will only send one reply per request.  The default ping on some platforms sends multiple requests, in case packets are being dropped intermittently. ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is a Management IP Address?
+
+
+
+ 
+
+
+
+
+Bob Reed, macOS Systems Administrator
+
+Written Feb 20, 2017
+
+
+
+Some computers, servers in particular, have a feature called by various names such as “lights out management (LOM)” or “integrated lights out (ILO)”. This feature allows co... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why are pings used in network communications?
+
+
+
+ 
+
+
+
+
+Sai Harsha, worked at Student.
+
+Written Apr 16, 2017
+
+
+
+Ping is the software utility to confirm the host is up. It sends ICMP(internet control message protocol) packets and waits for the echo from the host. If the particular ip ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I resolve a "request timed out" when pinging?
+
+
+
+ 
+
+
+
+
+Antony, former ISP Technician
+
+Written Jul 17, 2021
+
+
+
+You asked about how to resolve the request timed out message when you ping. You forgot to mention to which address you are pinging. Is it a website or an internal IP address?
+... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why am I not able to access my computer from another computer connected on the same network?
+
+
+
+ 
+
+
+
+
+Rob Folden, Taco Truck Driver at Dos Bros Tacos
+
+Written May 23, 2018
+
+
+
+Both computers must have a valid IP address on the subnet on which they are connected. Example computer a at 10.0.0.2 and computer b at 10.0.0.3
+Assuming Windows machines, Y... Read More »
+
+
+
+
+
+
+ 
+
+Search More on Quora
+
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+

@@ -1,0 +1,114 @@
+Stories from your activity
+
+-----
+
+Question: Is Prime OS safe to use?
+
+
+Answer from Devendra Meena
+
+
+Safe?
+
+1. If you don’t know much and things an antivirus is can really remove virus on Android - Then yes, it’s unsafe and it might kill you.
+2. It’s safe, just an android 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDIwODI5OTU0MiJ9&al_pri=8&aoid=Xvq5qFDyA3K&aoty=1&aty=4&cp=1&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=Xvq5qFDyA3K&uid=3jcQmF94xLr&v=0
+-----
+Question: Which is the safest OS?
+
+
+Answer from Mukul Gautam
+
+
+There is so such OS which you can say is a secure operating system, but yes you can bet on Linux is more secure among all currently present operating systems.
+
+Reason is i 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDIyNjk4NjI3OCJ9&al_pri=8&aoid=3oaq4s51N9U&aoty=1&aty=4&cp=2&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=3oaq4s51N9U&uid=3jcQmF94xLr&v=0
+-----
+Question: Is it a bad idea to have three different OS on the same machine?
+
+
+Answer from Michael Bryant
+
+
+Thanks for the A2A!
+
+I've had upwards of 6 different (mostly Linux) systems on my laptop at once. The only real issues you run into are disk space (for what are hopefully  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDE5NzMwMDAxIn0%3D&al_pri=8&aoid=4gZ8YnHxYUT&aoty=1&aty=4&cp=3&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=4gZ8YnHxYUT&uid=3jcQmF94xLr&v=0
+-----
+Question: Is Nothing OS safe?
+
+
+Answer from Sumit Pal
+
+
+Yes nothing os is safe but as a new company dont belive it because you will see bugs also the company is emerging and try to polish its software but i suggest you wait and 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDM2ODgzMDY0MiJ9&al_pri=8&aoid=RKmTBfSRbZH&aoty=1&aty=4&cp=4&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=RKmTBfSRbZH&uid=3jcQmF94xLr&v=0
+-----
+Question: Is using Google Chrome on zorin OS safe?
+
+
+Answer from Shaun Turton
+
+
+In security there is the CIA Triad - Confidentiality, Integrity, Availability.
+
+Using Chrome violates the first point of the triad - confidentiality. Google tracks every s 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDMwODAxNjc2MSJ9&al_pri=8&aoid=de12rwGuhBu&aoty=1&aty=4&cp=5&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=de12rwGuhBu&uid=3jcQmF94xLr&v=0
+-----
+Question: What is a microkernel in an operating system?
+
+
+Answer from Roberto Santocho
+
+
+HarmonyOS is a brand new operating system for television sets that was just announced by Huawei. It is essentially Google’s Android operating system running on top of a mi 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDE2MTU2Nzc1NCJ9&al_pri=8&aoid=7nVUPdceSP&aoty=1&aty=4&cp=6&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=7nVUPdceSP&uid=3jcQmF94xLr&v=0
+-----
+Question: Which OS should I use?
+
+
+Answer from Imran Munshi
+
+
+You are a web developer, so any OS works for you. For game development, Windows might be better suited since that's the target, for developing cross platform applications  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDE5NjQ2MDQ2In0%3D&al_pri=8&aoid=aaeubkT7LmP&aoty=1&aty=4&cp=7&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=aaeubkT7LmP&uid=3jcQmF94xLr&v=0
+-----
+Question: What does “fail-safe” OS mean?
+
+
+Answer from Valerio Cietto
+
+
+When a program fails the OS is still reactive to user input, as less data as possible is lost and other applications aren't disrupted.
+
+Android is a good example of that a 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDY2NzcwNjA5In0%3D&al_pri=8&aoid=R8JexM058e2&aoty=1&aty=4&cp=8&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=R8JexM058e2&uid=3jcQmF94xLr&v=0
+-----
+Question: Is Chrome OS Flex safe?
+
+
+Answer from J Cheng
+
+
+Nothing is 100%. However, consider the following:
+
+1. Hardened Linux kernels - ChromeOS is essentially a variant of Linux with hardened kernels for security
+2. Open Source 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDM2OTAwNDUwNSJ9&al_pri=8&aoid=YWFgqiQ9Kxh&aoty=1&aty=4&cp=9&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=YWFgqiQ9Kxh&uid=3jcQmF94xLr&v=0
+-----
+Question: Will HongMeng OS (Ark OS) replace Android?
+
+
+Answer from David Annett
+
+
+Replace, no. In fact I doubt the name HongMeng will be used for long, it will need a more neutral sounding name for marketing in the western markets. If you have ever spen 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwxNDI1ODExODUifQ%3D%3D&al_pri=8&aoid=860uj8ibAG2&aoty=1&aty=4&cp=10&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source=7&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty=1&ty_data=860uj8ibAG2&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1670110748294990&et=130&id=cbb6f9e48cc64840878d534cccd32938&source&src=1&st=1670110748299648&stories=1_Xvq5qFDyA3K%7C1_3oaq4s51N9U%7C1_4gZ8YnHxYUT%7C1_RKmTBfSRbZH%7C1_de12rwGuhBu%7C1_7nVUPdceSP%7C1_aaeubkT7LmP%7C1_R8JexM058e2%7C1_YWFgqiQ9Kxh%7C1_860uj8ibAG2&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=cbb6f9e48cc64840878d534cccd32938&t=1670110748347259&token=d9a98c0e7ff40474bc7165ec3c80a44db77269363605c0dd85c0f35277c785fc5e7cd602259187d788d4f35e87414e3deb65ee1a42e7a0752ba9e26c489b943f&type=130&uid=610629155More related to "What is a safe sequence in OS?"Safe? 1. If you don’t know much and things an antivirus is can really remove virus on Android - Then yes, it’s unsafe and it might kill you. 2. It’s safe, just an android OS made for PC, x86 fork.Stories from your activityIs Prime OS safe to use?Devendra Meena, Tech ExpertAnswered April 9, 2020Safe?If you don’t know much and things an antivirus is can really remove virus on Android - Then yes, it’s unsafe and it might kill you.It’s safe, just an android OS made f...Read more »Which is the safest OS?Mukul Gautam, B.E Computer Science, Institute of Engineering and Science IPS Academy (2020)Answered July 11, 2020There is so such OS which you can say is a secure operating system, but yes you can bet on Linux is more secure among all currently present operating systems.Reason is its ...Read more »Is it a bad idea to have three different OS on the same machine?Michael Bryant, Jumped around for a while between top distros, uses Arch and SolusUpdated February 20, 2016Thanks for the A2A!I've had upwards of 6 different (mostly Linux) systems on my laptop at once. The only real issues you run into are disk space (for what are hopefully obv...Read more »Is Nothing OS safe?Sumit Pal, studied Computer Science (2015)Answered July 15Yes nothing os is safe but as a new company dont belive it because you will see bugs also the company is emerging and try to polish its software but i suggest you wait and ...Read more »Is using Google Chrome on zorin OS safe?Shaun Turton, Owner at Revolution Cybersecurity (2017-present)Answered September 14, 2021In security there is the CIA Triad - Confidentiality, Integrity, Availability.Using Chrome violates the first point of the triad - confidentiality. Google tracks every sing...Read more »What is a microkernel in an operating system?Roberto Santocho, M.S. Computer Science & Pre-Law, Polytechnic Institute (1984)Answered August 17, 2019HarmonyOS is a brand new operating system for television sets that was just announced by Huawei. It is essentially Google’s Android operating system running on top of a mic...Read more »Which OS should I use?Imran Munshi, I can "C" you but you can't "C" meAnswered February 16, 2016You are a web developer, so any OS works for you. For game development, Windows might be better suited since that's the target, for developing cross platform applications L...Read more »What does “fail-safe” OS mean?Valerio Cietto, Linux loverAnswered December 17, 2017When a program fails the OS is still reactive to user input, as less data as possible is lost and other applications aren't disrupted.Android is a good example of that as a...Read more »Is Chrome OS Flex safe?J ChengAnswered July 15Nothing is 100%. However, consider the following:Hardened Linux kernels - ChromeOS is essentially a variant of Linux with hardened kernels for securityOpen Source - There a...Read more »Will HongMeng OS (Ark OS) replace Android?David Annett, Embedded systems engineer, EV enthusiast.Answered May 21, 2019Replace, no. In fact I doubt the name HongMeng will be used for long, it will need a more neutral sounding name for marketing in the western markets. If you have ever spent...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

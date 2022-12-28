@@ -1,0 +1,424 @@
+Stories from your activity
+
+-----
+
+
+Question: Can a database table exist without a primary key?
+
+Answer from Jack Pine
+
+The simple answer that I can tell you for sure is that Microsoft SQL Server and Microsoft Access do not require that a table have a primary key. I am pretty sure the same hold
+Read More: https://www.quora.com/Can-a-database-table-exist-without-a-primary-key/answer/Jack-Pine-2
+-----
+Question: Should a database table always have a primary key?
+
+Answer from Barry McConnell
+
+Short answer, no. To properly understand that answer you have to know what the purpose of a primary key is and then ask does every table exhibit a need for that.
+
+A primary ke
+Read More: https://www.quora.com/Should-a-database-table-always-have-a-primary-key/answer/Barry-McConnell-1
+-----
+Question: Everyone has a unique name, so why can't I use it as a primary key in a database?
+
+Answer from Steve Zara
+
+People change their names. They may change their name because of marriage, or for religious reasons. They may change their names to help with a career such as acting. They may
+Read More: https://www.quora.com/Everyone-has-a-unique-name-so-why-cant-I-use-it-as-a-primary-key-in-a-database/answer/Steve-Zara-1
+-----
+Question: Can a table have a foreign key without a primary key?
+
+Answer from Andrew Rout
+
+Yes, as long as the column it is referencing has a unique constraint.
+
+If you’re having this problem however, your data is denormalized. Try to avoid this if possible.
+Read More: https://www.quora.com/Can-a-table-have-a-foreign-key-without-a-primary-key/answer/Andrew-Rout-3
+-----
+Question: Can we create a foreign key without a primary key?
+
+Answer from David Jaques-Watson
+
+Some great answers below.
+
+Only thing I can add is that it's not usually recommended.
+
+This is because the only thing holding it together (preventing the relationship breaking
+Read More: https://www.quora.com/Can-we-create-a-foreign-key-without-a-primary-key/answer/David-Jaques-Watson
+-----
+Question: Can a table be without a primary key?
+
+Answer from Guy Geens
+
+Yes, but you shouldn’t make such a table.
+
+You can create a table without a primary key - or even without any index at all - in many relational database systems.
+
+When you do 
+Read More: https://www.quora.com/Can-a-table-be-without-a-primary-key/answer/Guy-Geens
+-----
+Question: What happens if a database primary key overflows?
+
+Answer from Art Kagel
+
+That’s going to depend on the RDBMS. For example, IBM’s Informix offers three autoincrementing types that can be used as a surrogate primary key:
+
+ * SERIAL - 32bit binary int
+Read More: https://www.quora.com/What-happens-if-a-database-primary-key-overflows/answer/Art-Kagel
+-----
+Question: If life was a database, what would be the primary key?
+
+Answer from David Enoma
+
+A database does not have a primary key. A table has a primary key and I think you’d probably want to frame your question as “If life was a table…”. However, that would not be 
+Read More: https://www.quora.com/If-life-was-a-database-what-would-be-the-primary-key/answer/David-Enoma-1
+-----
+Question: Can a primary key be not unique?
+
+Answer from Gabriel Bell
+
+No.
+
+And also hell no.
+
+Think of the primary key as the address of each row of data within the table — within the database.
+
+Compare that to the address of your house within y
+Read More: https://www.quora.com/Can-a-primary-key-be-not-unique/answer/Gabe12fi-12fi
+-----
+Question: What is the primary key field used for in a database?
+
+Answer from Ogbemudia Osayawe
+
+A primary key is a constraint placed on a database table column, which ensure that the column cannot be NULL and it cannot have duplicate values, it is usually used as the uni
+Read More: https://www.quora.com/What-is-the-primary-key-field-used-for-in-a-database/answer/Ogbemudia-Osayawe
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1663548267867492&et=130&id=662782845b704dd0811e6bd629627ab8&source&src=1&st=1663548267878471&stories=1_IpMWn1voWh8%7C1_mDiNSJeNCXq%7C1_dnBiZ6pka18%7C1_93h2ITMNeBF%7C1_99Ml6G9S9KA%7C1_1GQnpcuqgra%7C1_8USAgOloJe6%7C1_LYmRM81gL8P%7C1_4K3ltKDC3Oj%7C1_8VG1QN6y6CQ&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=662782845b704dd0811e6bd629627ab8&t=1663548268508192&token=00aaf07d65f927b1d0df940cd281130e93ecdf63a6a171e118ff6c57bbe5301decd6296386dc0002beddd1e20bd331367f330da55bfd190ca78fb397d40274c2&type=130&uid=610629155
+
+
+
+
+
+
+
+
+Answer: The simple answer that I can tell you for sure is that Microsoft SQL S.​.​.​
+
+Stories from your activity
+
+
+
+
+
+
+
+
+
+
+
+Can a database table exist without a primary key?
+
+
+
+ 
+
+
+
+
+Jack Pine, IT Systems and Projects Manager at Northwell Health (2008-present)
+
+Written Sep 10, 2019
+
+
+
+The simple answer that I can tell you for sure is that Microsoft SQL Server and Microsoft Access do not require that a table have a primary key. I am pretty sure the same h... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+Should a database table always have a primary key?
+
+
+
+ 
+
+
+
+
+Barry McConnell, 40+ years designing databases of every sort
+
+Written Feb 13, 2018
+
+
+
+Short answer, no. To properly understand that answer you have to know what the purpose of a primary key is and then ask does every table exhibit a need for that.
+A primary k... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Everyone has a unique name, so why can't I use it as a primary key in a database?
+
+
+
+ 
+
+
+
+
+Steve Zara, Ph.D. from Imperial College, University of London (1985)
+
+Written Jan 14, 2019
+
+
+
+People change their names. They may change their name because of marriage, or for religious reasons. They may change their names to help with a career such as acting. They ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can a table have a foreign key without a primary key?
+
+
+
+ 
+
+
+
+
+Andrew Rout, Owner at Halcyon Studios
+
+Written Jul 25, 2020
+
+
+
+Yes, as long as the column it is referencing has a unique constraint.
+If you’re having this problem however, your data is denormalized. Try to avoid this if possible. Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can we create a foreign key without a primary key?
+
+
+
+ 
+
+
+
+
+David Jaques-Watson, former Senior Data Architect at Queensland University of Technology (2019-2020)
+
+Written Dec 31, 2018
+
+
+
+Some great answers below.
+Only thing I can add is that it's not usually recommended.
+This is because the only thing holding it together (preventing the relationship breaking ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can a table be without a primary key?
+
+
+
+ 
+
+
+
+
+Guy Geens, Java Developer (1999-present)
+
+Written Apr 14, 2020
+
+
+
+Yes, but you shouldn’t make such a table.
+You can create a table without a primary key - or even without any index at all - in many relational database systems.
+When you do s... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What happens if a database primary key overflows?
+
+
+
+ 
+
+
+
+
+Art Kagel, Started my career working with a timeseries database system.
+
+Written May 6
+
+
+
+That’s going to depend on the RDBMS. For example, IBM’s Informix offers three autoincrementing types that can be used as a surrogate primary key:
+SERIAL - 32bit binary integ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+If life was a database, what would be the primary key?
+
+
+
+ 
+
+
+
+
+David Enoma, Bioinformatics Research Assistant at Covenant University (2020-present)
+
+Written Jun 13, 2017
+
+
+
+A database does not have a primary key. A table has a primary key and I think you’d probably want to frame your question as “If life was a table…”. However, that would not ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Can a primary key be not unique?
+
+
+
+ 
+
+
+
+
+Gabriel Bell, lives in UK, atheist, liberal, him/he
+
+Written Jul 3
+
+
+
+No.
+And also hell no.
+Think of the primary key as the address of each row of data within the table — within the database.
+Compare that to the address of your house within your... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the primary key field used for in a database?
+
+
+
+ 
+
+
+
+
+Ogbemudia Osayawe, Software Engineer  at Saloodo (2018-present)
+
+Written Jan 1, 2019
+
+
+
+A primary key is a constraint placed on a database table column, which ensure that the column cannot be NULL and it cannot have duplicate values, it is usually used as the ... Read More »
+
+
+
+
+
+
+ 
+
+Search More on Quora
+
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+

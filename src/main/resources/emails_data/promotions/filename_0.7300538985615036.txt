@@ -1,0 +1,1201 @@
+A brief summary of [Dạy Nhau Học][1] since your last visit on June 2
+
+19 New Topics
+1 Unread Notifications
+42 New Users
+
+--------------------------------------------------------------------------------
+
+### Popular Topics
+
+[Logging – Mắt thần của bạn trên hệ thống thực][2]
+
+ 
+--------------------------------------------------------------------------------
+
+
+[Data engineer là Gia Cát Lượng trong cty?][3]
+
+ Haha, chính xác là culi. 
+Mấy ông sếp cần biểu đồ, dữ liệu trồi sụt bao nhiêu %, lý do trồi sụt là gì. 
+Mà trong công ty, mấy người đứng đầu mỗi bộ phận, chính là người vẽ ra các biểu đồ báo cáo đó. Chẳng có Data Engineer, Analytics gì. Chắc phải tầm Headquarter của tập đoàn mới có. 
+Chứ tôi đi làm có thấy đâu, ai quản lý bộ phận nào thì tự vẽ biểu đồ cho báo cáo của mình - Tại sao biểu đồ có sự thay đổi, tại sao không đạt mục tiêu…Lý do lý trấu gì ghi vào để trình bày cho cấp trên. 
+Từ báo cáo các bộ phận -> giám đốc nhà máy tổng hợp thành báo cáo của ổng, ông ta đi trình bày với các giám đốc nhà máy khác của tập đoàn, với tổng giám đốc khu vực. 
+Mà có ông giám đốc PowerPoint không rành, Excel không rành, toàn dí cấp dưới vẽ biểu đồ cho. Vẫn là giám đốc ngon lành 5-7 năm, chủ yếu là dí việc thôi hê hê. Được cái là ổng có tài trình bày báo cáo rất hay, nói sao cho cấp trên hiểu và thông qua báo cáo mỗi tuần, mỗi tháng…
+--------------------------------------------------------------------------------
+
+
+[Hỏi về cách viết nhanh trong html][4]
+
+ Gõ rồi nhấn Ctrl+Space để nó xổ ra popup như này mới được. 
+![image](//daynhauhoc.s3.dualstack.ap-southeast-1.amazonaws.com/original/3X/a/a/aa9b6e48ca20b3f853367ed75906ac4873aefc97.png) 
+
+Live server không liên quan.
+--------------------------------------------------------------------------------
+
+
+[Quy hoạch động dãy con tăng - giảm dài nhất][5]
+
+ Bạn hãy bắt đầu với bài dãy con tăng dần dài nhất trước :slight_smile:
+--------------------------------------------------------------------------------
+
+
+[Có cách nào để code directx bằng devc++ không?][6]
+
+ Chào em! 
+Nếu em nói code DX bằng VS mà phí thì anh nghĩ em chưa từng đụng vào đồ họa máy tính. 
+Code đồ họa mà còn là code DX thì nhất định phải dùng VS vì những lợi ích rất lớn mà nó mang lại, có thể kể ra: 
+1/ Cài sẵn Windows SDK bản mới nhất, code DX gắn liền với Windows SDK 
+2/ Intellisense, hay nếu em có tiền có thể mua luôn Rider hay Visual Assist (chỉ hỗ trợ cho VS) 
+3/ Có sẵn trình debug CPU, và sau này em có thể cài cả GPU Profiler, cực kỳ cần thiết trong lập trình đồ họa. 
+Và còn rất nhiều chức năng khác mà DevCpp ko thể nào bằng được. 
+Hơn nữa nếu em mới học đồ họa mà nhảy vào DX12 là quá sức, vì DX12 tương tác sâu hơn nữa với card đồ họa, nên em sẽ phải tự điều chỉnh nhiều hơn DX11. Vì vậy em nên học DirectX 11 trước, ít nhất cũng phải hiểu lập trình đồ họa, các kỹ thuật render cơ bản là thế nào, rồi mới nhảy sang DirectX 12 
+Anh đã có post nói về tài liệu học đồ họa, em tham khảo nhé: So sánh unity và unreal engine
+--------------------------------------------------------------------------------
+
+
+
+
+### Popular Posts
+
+hitman17528 - [So sánh unity và unreal engine][7]
+
+ Nếu muốn viết 1 game engine thì em phải bắt đầu từ OpenGL/DirectX, hiểu đầy đủ các kỹ thuật render. Rồi bắt đầu thêm vào các thành phần như UI, physic, AI, sound, … 
+Em có thể đọc thêm cuốn này nếu muốn viết 1 game engine, hoặc hiểu 1 game engine và game được tạo thành như thế nào:
+--------------------------------------------------------------------------------
+
+hitman17528 - [So sánh unity và unreal engine][8]
+
+ C++ thì ko có mấy game engine hỗ trợ vì nó khó, ngoại trừ việc tự phát triển lấy 1 game engine rồi làm game. Cách này thì rất hardcore nhưng nó lại rất tốt cho sự phát triển của em trong ngành. Nếu em muốn bắt đầu thì học OpenGL/DirectX rồi lên github search game engine, vd Banshee, Lumix Engine, ngồi đọc source rồi bắt đầu chế thêm cho bản thân.
+--------------------------------------------------------------------------------
+
+hitman17528 - [So sánh unity và unreal engine][9]
+
+ Muốn học DirectX/OpenGL thì trước tiên em phải hiểu cách OS hoạt động, vd Linux/Windows. Linux thì anh ko dùng nên anh ko biết tài liệu nào hay. Nhưng Windows thì em có thể tìm cuốn Programming Windows, bản 5 (nhớ là bản 5, qua bản 6 nó dùng C#), của Charles Petzold. 
+Sau đó thì em có thể học qua các tài liệu sau: 
+DirectX11: 
+            
+ 
+
+
+OpenGL: 
+
+ 
+
+
+Toán hỗ trợ:
+--------------------------------------------------------------------------------
+
+hitman17528 - [So sánh unity và unreal engine][10]
+
+ Vì đây là thư viện low-level em. Ko phải kiểu mấy thư viện high-level chỉ cần include rồi xài đâu. 
+Hiểu về OS sẽ giúp em debug tốt hơn
+--------------------------------------------------------------------------------
+
+hitman17528 - [So sánh unity và unreal engine][11]
+
+ Chào em! 
+Câu trả lời hoàn toàn phụ thuộc vào thể loại game em muốn làm. Nếu em muốn làm web game, mobile game hay game nhỏ nhẹ thì nên chọn Unity vì nó dễ tiếp cận và dễ tối ưu. Còn Unreal phù hợp để làm những thể loại game đồ họa nặng trên PC và Console (PC/Xbox/PS…) 
+Dĩ nhiên Unreal cũng có thể làm game mobile nhưng tối ưu là khó vô cùng. Nó đòi hỏi lượng kiến thức C++ ko hề nhỏ để làm cho tối ưu. Bạn baoo đã include câu trả lời trước đó của anh, em tham khảo nhé.
+--------------------------------------------------------------------------------
+
+
+**New for you**
+
+* [Lỗi GDAL trong project Django][12] - 2 - [programming]
+* [Hỏi về cách thiết kế các phương thức cho class][13] - 5 - [randomq]
+* [Set width cho icon font-awesome][14] - 4 - [programming]
+* [Hỏi về phép toán mod với số chia âm][15] - 2 - [programming]
+* [Gửi thông tin trên form vào 1 tài khoản zalo như thế nào?][16] - 3 - [programming]
+
+
+
+[1]: https://daynhauhoc.com/
+[2]: https://daynhauhoc.com/t/logging-mat-than-cua-ban-tren-he-thong-thuc/126844
+[3]: https://daynhauhoc.com/t/data-engineer-la-gia-cat-luong-trong-cty/126872
+[4]: https://daynhauhoc.com/t/hoi-ve-cach-viet-nhanh-trong-html/126880
+[5]: https://daynhauhoc.com/t/quy-hoach-dong-day-con-tang-giam-dai-nhat/126905
+[6]: https://daynhauhoc.com/t/co-cach-nao-de-code-directx-bang-devc-khong/126891
+[7]: https://daynhauhoc.com/t/so-sanh-unity-va-unreal-engine/126833
+[8]: https://daynhauhoc.com/t/so-sanh-unity-va-unreal-engine/126833
+[9]: https://daynhauhoc.com/t/so-sanh-unity-va-unreal-engine/126833
+[10]: https://daynhauhoc.com/t/so-sanh-unity-va-unreal-engine/126833
+[11]: https://daynhauhoc.com/t/so-sanh-unity-va-unreal-engine/126833
+[12]: https://daynhauhoc.com/t/loi-gdal-trong-project-django/126834
+[13]: https://daynhauhoc.com/t/hoi-ve-cach-thiet-ke-cac-phuong-thuc-cho-class/126849
+[14]: https://daynhauhoc.com/t/set-width-cho-icon-font-awesome/126888
+[15]: https://daynhauhoc.com/t/hoi-ve-phep-toan-mod-voi-so-chia-am/126845
+[16]: https://daynhauhoc.com/t/gui-thong-tin-tren-form-vao-1-tai-khoan-zalo-nhu-the-nao/126909
+
+
+
+This summary is sent from [Dạy Nhau Học][1] when we haven't seen you in a while. Change [your email settings][17], or [click here][18] to unsubscribe.
+
+[17]: https://daynhauhoc.com/my/preferences/emails
+[18]: https://daynhauhoc.com/email/unsubscribe/79315dea35c442ccbb3591d9423897ea73f7b41b2aafc012cbda0af2ce23f71b
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+  A brief summary since your last visit on June 2
+
+
+
+  
+    
+
+  
+    
+  
+
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            
+               
+            
+          
+        
+      
+    
+    
+      
+        
+          
+            
+
+
+Since your last visit
+
+
+
+
+
+  
+      
+        19
+      
+      
+        1
+      
+      
+        42
+      
+  
+  
+      
+        New Topics
+      
+      
+        Unread Notifications
+      
+      
+        New Users
+      
+  
+
+
+
+Popular Topics
+
+
+            
+          
+        
+      
+      
+        
+          
+            
+
+
+
+  
+    
+      
+        
+          writes
+        
+      
+      
+        
+          July 14
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            Logging – Mắt thần của bạn trên hệ thống thực
+          
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Ntech Developers
+          Ntech_Developers
+      
+    
+  
+
+
+
+  
+    
+      
+        
+  
+      
+      NTechDevelopers - Programs must be written for people to read, and only... – 14 Jul 22
+  
+  
+    
+
+Logging – Mắt thần của bạn trên hệ thống thực - NTechDevelopers
+
+Bạn đã từng rơi vào tình trạng khi sử dụng một ứng dụng xảy ra lỗi nhưng bộ não cá vàng của bạn lại không thể nhớ mình đã làm gì và tại sao lại bị lỗi như vậy? Bạn là một lập trình viên phát triển ứng dụng phần mềm và đã từng gặp
+
+  Est. reading time: 14 minutes
+    
+
+  
+  
+    
+    
+  
+  
+
+      
+    
+  
+
+
+
+  
+    
+      
+        
+        3
+      
+      
+        
+        0
+      
+      
+            
+      
+      
+        
+          Read More
+        
+      
+    
+  
+
+
+  
+     
+  
+
+
+
+
+
+
+
+  
+    
+      
+        
+          dev chat
+        
+      
+      
+        
+          July 17
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            Data engineer là Gia Cát Lượng trong cty?
+          
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Phi Pha
+          foto
+      
+        
+          
+        
+    
+  
+
+
+
+  
+    
+      
+        Anh chị cho em hỏi những vị trí liên quan đến data như data engineer, data analysis và những công việc liên quan đến data warehouse, data mining, … trong cty được xem như Gia Cát Lượng, Công Tôn Sách đúng không ạ? Cánh tay đắt lực chuyên gia cố vấn, hiến kế cho ban lãnh đạo.
+      
+    
+  
+
+
+
+  
+    
+      
+        
+        13
+      
+      
+        
+        5
+      
+      
+            
+            
+            
+            
+            
+      
+      
+        
+          Read More
+        
+      
+    
+  
+
+
+  
+     
+  
+
+
+
+
+
+
+
+  
+    
+      
+        
+          programming
+        
+      
+      
+        
+          July 17
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            Hỏi về cách viết nhanh trong html
+          
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            jenaT
+          yencon
+      
+        
+          
+        
+    
+  
+
+
+
+  
+    
+      
+        Mình thấy trên mạng hướng dẫn những thao tác như gõ ! sẽ ra cấu trúc của file html hay gõ tên thẻ*số lượng sẽ ra số lượng thẻ mong muốn (như trong hình).
+
+
+      
+    
+  
+
+
+
+  
+    
+      
+        
+        8
+      
+      
+        
+        3
+      
+      
+            
+            
+            
+      
+      
+        
+          Read More
+        
+      
+    
+  
+
+
+  
+     
+  
+
+
+
+
+
+
+
+  
+    
+      
+        
+          programming
+        
+      
+      
+        
+          July 20
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            Quy hoạch động dãy con tăng - giảm dài nhất
+          
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            •Bạch Long
+          Bach_Long
+      
+    
+  
+
+
+
+  
+    
+      
+        http://vinhdinhcoder.net/Problem/Details/5063
+các anh giúp em ý tưởng bài này với ạ, em cảm ơn
+      
+    
+  
+
+
+
+  
+    
+      
+        
+        6
+      
+      
+        
+        3
+      
+      
+            
+            
+            
+      
+      
+        
+          Read More
+        
+      
+    
+  
+
+
+  
+     
+  
+
+
+
+
+
+
+
+  
+    
+      
+        
+          programming
+        
+      
+      
+        
+          July 18
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            Có cách nào để code directx bằng devc++ không?
+          
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            THĂNG 
+          Thang_depchai.Boi2k8
+      
+    
+  
+
+
+
+  
+    
+      
+        Mọi người ơi cho em hỏi với. Có cách nào để code directx 12 bằng devc++ không ạ (hay codeblocks). Do em thấy chỉ dùng vs 2021 mà code directx thì phí quá. Em cảm ơn.
+      
+    
+  
+
+
+
+  
+    
+      
+        
+        8
+      
+      
+        
+        4
+      
+      
+            
+            
+            
+            
+      
+      
+        
+          Read More
+        
+      
+    
+  
+
+
+  
+     
+  
+
+
+
+
+
+
+            
+          
+        
+      
+    
+    
+      
+      
+        
+          
+            
+               
+            
+          
+        
+      
+    
+  
+
+
+
+
+  Popular Posts
+
+
+
+  
+     
+    
+
+
+
+
+  
+    
+      
+        Nếu muốn viết 1 game engine thì em phải bắt đầu từ OpenGL/DirectX, hiểu đầy đủ các kỹ thuật render. Rồi bắt đầu thêm vào các thành phần như UI, physic, AI, sound, …
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Quan Nguyen
+          hitman17528
+      
+      
+        
+          So sánh unity và unreal engine
+        
+        
+          Read More
+        
+      
+    
+  
+
+
+
+  
+     
+  
+
+
+
+
+
+
+  
+    
+      
+        C++ thì ko có mấy game engine hỗ trợ vì nó khó, ngoại trừ việc tự phát triển lấy 1 game engine rồi làm game. Cách này thì rất hardcore nhưng nó lại rất tốt cho sự phát triển của em trong ngành. Nếu em muốn bắt đầu thì học OpenGL/DirectX rồi lên github search game engine, vd Banshee, Lumix Engine, ngồi đọc source rồi bắt đầu chế thêm cho bản thân.
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Quan Nguyen
+          hitman17528
+      
+      
+        
+          So sánh unity và unreal engine
+        
+        
+          Read More
+        
+      
+    
+  
+
+
+
+  
+     
+  
+
+
+
+
+
+
+  
+    
+      
+        Muốn học DirectX/OpenGL thì trước tiên em phải hiểu cách OS hoạt động, vd Linux/Windows. Linux thì anh ko dùng nên anh ko biết tài liệu nào hay. Nhưng Windows thì em có thể tìm cuốn Programming Windows, bản 5 (nhớ là bản 5, qua bản 6 nó dùng C#), của Charles Petzold.
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Quan Nguyen
+          hitman17528
+      
+      
+        
+          So sánh unity và unreal engine
+        
+        
+          Read More
+        
+      
+    
+  
+
+
+
+  
+     
+  
+
+
+
+
+
+
+  
+    
+      
+        Vì đây là thư viện low-level em. Ko phải kiểu mấy thư viện high-level chỉ cần include rồi xài đâu.
+Hiểu về OS sẽ giúp em debug tốt hơn
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Quan Nguyen
+          hitman17528
+      
+      
+        
+          So sánh unity và unreal engine
+        
+        
+          Read More
+        
+      
+    
+  
+
+
+
+  
+     
+  
+
+
+
+
+
+
+  
+    
+      
+        Chào em!
+Câu trả lời hoàn toàn phụ thuộc vào thể loại game em muốn làm. Nếu em muốn làm web game, mobile game hay game nhỏ nhẹ thì nên chọn Unity vì nó dễ tiếp cận và dễ tối ưu. Còn Unreal phù hợp để làm những thể loại game đồ họa nặng trên PC và Console (PC/Xbox/PS…)
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+    
+  
+
+
+
+  
+    
+      
+        
+      
+      
+            Quan Nguyen
+          hitman17528
+      
+      
+        
+          So sánh unity và unreal engine
+        
+        
+          Read More
+        
+      
+    
+  
+
+
+
+  
+     
+  
+
+
+
+
+    
+     
+  
+
+
+
+
+
+
+  New for you
+
+
+  
+     
+    
+
+
+  
+
+
+
+    
+      
+        
+          Lỗi GDAL trong project Django
+        
+        
+          programming
+        
+      
+      
+            
+      
+      
+        
+        3
+      
+      
+        
+        1
+      
+    
+
+     
+
+
+
+
+
+    
+      
+        
+          Hỏi về cách thiết kế các phương thức cho class
+        
+        
+          randomq
+        
+      
+      
+            
+            
+      
+      
+        
+        7
+      
+      
+        
+        4
+      
+    
+
+     
+
+
+
+
+
+    
+      
+        
+          Set width cho icon font-awesome
+        
+        
+          programming
+        
+      
+      
+            
+            
+      
+      
+        
+        5
+      
+      
+        
+        3
+      
+    
+
+     
+
+
+
+
+
+    
+      
+        
+          Hỏi về phép toán mod với số chia âm
+        
+        
+          programming
+        
+      
+      
+            
+            
+      
+      
+        
+        3
+      
+      
+        
+        1
+      
+    
+
+     
+
+
+
+
+
+    
+      
+        
+          Gửi thông tin trên form vào 1 tài khoản zalo như thế nào?
+        
+        
+          programming
+        
+      
+      
+            
+            
+      
+      
+        
+        4
+      
+      
+        
+        2
+      
+    
+
+     
+
+
+
+
+
+
+
+    
+     
+  
+
+
+
+
+
+
+    
+     
+  
+
+
+
+
+
+
+
+  
+    
+  This summary is sent from Dạy Nhau Học when we haven't seen you in a while. Change your email settings, or click here to unsubscribe.
+    
+  
+
+
+
+
+
+
+
+
+                                   
+                         
+
+
+
+

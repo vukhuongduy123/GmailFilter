@@ -1,0 +1,96 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: The GeForce RTX 3090 has 24 GB of VRAM. Who would need a graphics card of 24 GB VRAM?
+
+Answer from Andrew McGregor
+
+I once did a calculation of how much VRAM it would take to render everything you can see out the window of an airplane or helicopter flying low over a large city.
+
+The answer?
+Read More: http://www.quora.com/The-GeForce-RTX-3090-has-24-GB-of-VRAM-Who-would-need-a-graphics-card-of-24-GB-VRAM?top_ans=236775667
+-----
+Question: Do programmers still have high salaries?
+
+Answer from Firoze Muhammad Zahidur Rahman
+
+It depends on what kind of programmer are you. If you are tagged with php/mysql only or something like general android programmer or ios developer for which there are plenty o
+Read More: http://www.quora.com/Do-programmers-still-have-high-salaries?top_ans=49099790
+-----
+Question: I discharged my friend’s laptop once by mistake. He claims this would significantly decrease the battery life and wants me to offer to buy his laptop. Is this a reasonable request?
+
+Answer from Franklin Veaux
+
+A2A: No.
+
+Completely discharging a lithium ion battery does shorten its life, yes, but modern laptop batteries are generally qualified for 500 complete charge/discharge cycles
+Read More: http://www.quora.com/I-discharged-my-friend-s-laptop-once-by-mistake-He-claims-this-would-significantly-decrease-the-battery-life-and-wants-me-to-offer-to-buy-his-laptop-Is-this-a-reasonable-request?top_ans=231076750
+-----
+Question: Why do colleges still teach C and C++ when you can't even build anything with these programming languages?
+
+Answer from Joe Qian
+
+C and C++ are very complex programming languages. I’m a Chinese and learned C++ in university and I can tell you that the teacher even did not have enough time to explain all 
+Read More: http://www.quora.com/Why-do-colleges-still-teach-C-and-C++-when-you-cant-even-build-anything-with-these-programming-languages?top_ans=198149441
+-----
+Question: Why is it so hard for older developers to keep going with technology?
+
+Answer from Vlad Patryshev
+
+1. People get lazy with age. They don’t admit it, but they do get lazy. Too lazy to learn.
+2. People get wiser, and start understanding that all that “new stuff” comes and goe
+Read More: http://www.quora.com/Why-is-it-so-hard-for-older-developers-to-keep-going-with-technology?top_ans=231569325
+-----
+Question: Is Ripple XRP ever going to be worth a significant amount?
+
+Answer from Alan Smith
+
+Ripple (XRP) plays dual roles as a payment platform and a currency. The platform is an open-source platform that is created to allow quick and cheap transactions.
+
+Unlike its 
+Read More: http://www.quora.com/Is-Ripple-XRP-ever-going-to-be-worth-a-significant-amount?top_ans=234210413
+-----
+Question: I ejected my USB 3.0 external drive 'unsafely' many times, yet I've never lost any data. Why is that?
+
+Answer from Jaroslav Labský
+
+Just a coincidence. I witnessed a situation when a guy needed to quickly print a document. He connected a flash drive, moved the doc to the flash. He waited until it was finis
+Read More: http://www.quora.com/I-ejected-my-USB-3-0-external-drive-unsafely-many-times-yet-Ive-never-lost-any-data-Why-is-that?top_ans=52500443
+-----
+Question: Why did C++ or C not create a framework for the web?
+
+Answer from Garry Taylor
+
+There are C and C++ web frameworks:
+
+facil-io - The C Web Application Framework [ facil-io ]
+
+and
+
+CppCMS - High Performance C++ Web Framework [ cppcms-com/wikipp/en/page/main
+Read More: http://www.quora.com/Why-did-C-or-C-not-create-a-framework-for-the-web?top_ans=222919526
+-----
+Question: If Bitcoin goes x2 how much will Ethereum go up?
+
+Answer from Marius Kramer
+
+If Bitcoin goes from $8,000 now to $16,000 until the end of the year, Ethereum will probably go from $180 now to $600 easily, a 3x.
+
+If we have a real alt-season alongside Bit
+Read More: http://www.quora.com/If-Bitcoin-goes-x2-how-much-will-Ethereum-go-up?top_ans=173109911
+-----
+Question: I recently heard this flat-earth argument: "If the Earth were spinning 1,000 mph, a hovering helicopter would get left behind as the Earth rotated away underneath it, or it could simply wait for its destination to come to it." How do I respond?
+
+Answer from Danielle Fraser
+
+The short answer is that the atmosphere and the helicopter are also moving at the same speed. To do this sort of thing the helicopter would have to accelerate to the rotationa
+Read More: http://www.quora.com/I-recently-heard-this-flat-earth-argument-If-the-Earth-were-spinning-1-000-mph-a-hovering-helicopter-would-get-left-behind-as-the-Earth-rotated-away-underneath-it-or-it-could-simply-wait-for-its-destination-to-come-to-it-How-do-I-respond?top_ans=240632414
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1601456825264840&et=2&id=7bd2a22a76124354aea0015f360472e5&request_id=730131128359264670&source&src=1&st=1601456825264840&stories=1_myobr8Plyxa%7C1_XI652zgrRL6%7C1_18viF7Rs9hZ%7C1_z6uzgQJY6Gr%7C1_qlKWt2fUZWH%7C1_MUYHqcQRHc4%7C1_YrIbv4pP2P8%7C1_aNsOMsALMCW%7C1_IAMFGJWLvRj%7C1_aaDPqXCmYp7&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=7bd2a22a76124354aea0015f360472e5&t=1601456825358284&token=375bfb7d5868a8fb9e2eb67f8e483997a6a355a5651197e675f1875504570bf616ad5b558510b901c070ed4f6a47e8c983e1bdbcc98e57b18dbe837342b32e80&type=2&uid=610629155Answer: I once did a calculation of how much VRAM it would take to render ever.​.​.​Duy's DigestTop Stories For YouThe GeForce RTX 3090 has 24 GB of VRAM. Who would need a graphics card of 24 GB VRAM? Andrew McGregorWritten Sep 2I once did a calculation of how much VRAM it would take to render everything you can see out the window of an airplane or helicopter flying low over a large city.The answer?20 GB.... Read More »Do programmers still have high salaries? Firoze Muhammad Zahidur Rahman, CEO at Loosely Coupled Technologies (2017-present)Updated Jul 10, 2017It depends on what kind of programmer are you. If you are tagged with php/mysql only or something like general android programmer or ios developer for which there are plent... Read More »I discharged my friend’s laptop once by mistake. He claims this would significantly decrease the battery life and wants me to offer to buy his laptop. Is this a reasonable request? Franklin Veaux, Professional WriterWritten Aug 2A2A: No.Completely discharging a lithium ion battery does shorten its life, yes, but modern laptop batteries are generally qualified for 500 complete charge/discharge cycles.... Read More »Why do colleges still teach C and C++ when you can't even build anything with these programming languages? Joe Qian, 10+years studentWritten Feb 15C and C++ are very complex programming languages. I’m a Chinese and learned C++ in university and I can tell you that the teacher even did not have enough time to explain a... Read More »Why is it so hard for older developers to keep going with technology? Vlad Patryshev, Worked in Assemblers, Fortran, Cobol, Algol, Forth, C, C++, Java, Python.Written Aug 5People get lazy with age. They don’t admit it, but they do get lazy. Too lazy to learn.People get wiser, and start understanding that all that “new stuff” comes and goes. A... Read More »Is Ripple XRP ever going to be worth a significant amount? Alan SmithWritten Aug 19Ripple (XRP) plays dual roles as a payment platform and a currency. The platform is an open-source platform that is created to allow quick and cheap transactions.Unlike its... Read More »I ejected my USB 3.0 external drive 'unsafely' many times, yet I've never lost any data. Why is that? Jaroslav Labský, studied Electrical Engineering at Brno University Of Technology (2009)Written Aug 4, 2017Just a coincidence. I witnessed a situation when a guy needed to quickly print a document. He connected a flash drive, moved the doc to the flash. He waited until it was fi... Read More »Why did C++ or C not create a framework for the web? Garry Taylor, Been programming since 8 bit computersUpdated Aug 6There are C and C++ web frameworks:facil-io - The C Web Application FrameworkandCppCMS - High Performance C++ Web Framework... Read More »If Bitcoin goes x2 how much will Ethereum go up? Marius Kramer, No. 1 Cryptocurrency writer on Quora worldwideWritten Oct 10, 2019If Bitcoin goes from $8,000 now to $16,000 until the end of the year, Ethereum will probably go from $180 now to $600 easily, a 3x.If we have a real alt-season alongside Bi... Read More »I recently heard this flat-earth argument: "If the Earth were spinning 1,000 mph, a hovering helicopter would get left behind as the Earth rotated away underneath it, or it could simply wait for its destination to come to it." How do I respond? Danielle FraserWritten Sep 24The short answer is that the atmosphere and the helicopter are also moving at the same speed. To do this sort of thing the helicopter would have to accelerate to the rotati... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

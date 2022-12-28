@@ -1,0 +1,146 @@
+< https://pardot.tcbs.com.vn/e/887793/guest-login-openAccount-true/2mhqfy/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+TCBS - Phân tích chuyên sâu < https://pardot.tcbs.com.vn/e/887793/s-tcbs-analysis-/2mhqg2/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+**Thị trường quốc tế nào có mối quan hệ tương quan cao nhất với VN-Index?
+----------------------------------------------------
+
+Đọc bài viết gốc trên iWealth Club < https://pardot.tcbs.com.vn/e/887793/uan-cao-nhat-voi-vn-index-1540/2mhqg5/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk >  [Image alt text: User-added image] 
+
+Tìm kiếm các dấu hiệu dự đoán diễn biến của thị trường chứng khoán luôn là một chủ đề được quan tâm bởi các nhà đầu tư. Tại Việt Nam, một nền kinh tế đang phát triển với độ mở lớn với thế giới, nhiều chuyên gia khi dự đoán diễn biến của VN-Index thường dẫn chiếu tới diễn biến của các thị trường chứng khoán nước ngoài có ảnh hưởng lớn như Mỹ, Trung Quốc, Nhật Bản, Hàn Quốc…
+
+Vậy mối liên hệ của những chỉ số này đối với VN-Index như thế nào? Liệu nhà đầu tư có nên nhìn vào diễn biến của những chỉ số này để dự đoán VN-Index hay không? Bài nghiên cứu này đã sử dụng mô hình tương quan diễn biến các chỉ số thị trường chứng khoán trong 5 năm gần nhất (2017-2022) để phân tích dưới nhiều khía cạnh, xin gửi đến các nhà đầu tư những nhận định đáng chú ý nhất.
+
+Đầu tiên, các thị trường chứng khoán được lựa chọn để nghiên cứu tương quan với VN-Index được lựa chọn từ các quốc gia có ảnh hưởng lớn trên toàn cầu, hoặc có kết nối cao về dòng vốn đầu tư hoặc giao thương với Việt Nam, cụ thể như sau:
+
+- Mỹ: Chỉ số Dow Jones Industrial Average (“DJIA”) xác định từ danh sách 30 mã cổ phiếu blue-chip được niêm yết trên Sàn chứng khoán New York và Nasdaq
+
+- Châu Âu: Chỉ số 100 chứng khoán của Financial Times (“FTSE 100”) xác định từ 100 công ty có vốn hóa lớn nhất niêm yết trên SGDCK London.
+
+- Hồng Kông: Hang seng Index (“HSI”) xác định từ 50 công ty lớn nhất và có tính thanh cao nhất trong SGDCK HongKong
+
+- Hàn Quốc: Korea Composite Stock Price Index (“KOSPI”) chỉ số của tất cả các cổ phiếu được giao dịch trên SGDCK Hàn Quốc
+
+- Trung Quốc: Chỉ số Shanghai – SSE Composite (“SSEC”) xác định từ tất cả các cổ phiếu được giao dịch trên SGDCK Thượng Hải.
+
+- Nhật Bản: Chỉ số NIKKEI 225 phản ánh diễn biến giá của 225 công ty có giá trị vốn hóa lớn nhất tại Nhật.
+
+Bài nghiên cứu sẽ đáng giá mức độ tương quan giữa biến động giá của VN-Index với biến động giá của các chỉ số tham chiếu qua các khung thời gian tương ứng theo ngày, tuần và tháng.
+
+Để tìm kiếm sự ảnh hưởng trễ của các chỉ số (lagged), bài nghiên cứu này áp dụng sự thay đổi của VN-Index với chỉ số tham chiếu sau 1 ngày, 1 tuần và 1 tháng. Qua đó, giá trị R bình phương (R2) được tính toán và phân tích.
+
+Hiểu một cách đơn giản, R2 là thước đo độ tương quan nói chung của các chỉ số. Như vậy, các trường hợp cần lưu ý bao gồm:
+
+- Hệ số R2 nhỏ: Chỉ số có độ tương quan thấp đối với chỉ số so sánh
+
+- Hệ số R2 lớn: Chỉ số có độ tương quan cao đối với chỉ số so sánh
+
+Tổng kết kết quả hệ số tương quan của biến động VN-Index với các chỉ số so sánh theo các khung thời gian được trình bày tại Hình 1 dưới đây:
+
+[Image alt text: image.png]
+
+Hình 1: Mức độ tương quan (giá trị R2) của VN-Index với các chỉ số tham chiếu theo biến động ngày, tuần, tháng và độ trễ sau 1 ngày, 1 tuần, 1 tháng (TCBS tổng hợp)
+
+Kết quả hình 1 cho thấy gần như không có sự tương quan đáng kể nào giữa biến động các chỉ số tham chiếu với VN-Index xét theo ngày, tại cả 3 khung độ trễ. Tuy nhiên khi xét đến biến động tuần và tháng, mức độ tương quan bắt đầu gia tăng. Đặc biệt, biến động thị trường Dow Jones và KOSPI (Hàn Quốc) đã có sự tương quan đáng lưu tâm với VN-Index với mức R2 lớn hơn 30% theo biến động tháng.
+
+Xét đến mức độ trễ tại khung thời gian biến động tuần và tháng, chủ yếu R2 đạt giá trị cao tại mốc “trễ 1 ngày” tức là mức phản ứng ngay lập tức giữa các thị trường, và gần như không có tương quan gì nếu “trễ 1 tháng”. Điều này cũng tương đối hợp lý do độ tương quan với thế giới của VN-Index là khá cao trong vòng 5 năm qua với độ mở lớn của nền kinh tế Việt Nam, các thị trường sẽ phản ứng rất nhanh.
+
+Điểm thú vị là, biến động tháng ở mốc “trễ 1 tuần” có sự tương quan nhất định giữa VN-Index với Dow Jone (32.7%) và phần nào là KOSPI (27%), đem đến những thông tin hữu ích cho nhà đầu tư khi đánh giá theo biến động tháng của các chỉ số.
+
+Các biểu đồ chi tiết dưới đây cho chúng ta cái nhìn sâu hơn về của các khung thời gian có sự tương quan cao kèm minh họa về phương trình hồi quy tuyến tính (nếu có).
+
+[Image alt text: Slide2.jpg]
+
+Hình 2: Chi tiết tương quan biến động tháng giữa VN-Index và các chỉ số tham chiếu theo độ trễ 1 ngày (Nguồn: TCData, TCBS tổng hợp)
+
+[Image alt text: Slide3.jpg]
+
+Hình 3: Chi tiết tương quan biến động tháng giữa VN-Index và các chỉ số tham chiếu theo độ trễ 7 ngày (Nguồn: TCData, TCBS tổng hợp)
+
+Kết quả Hình 2 cho thấy chỉ số Dow Jones và KOSPI có mức độ tương quan cùng chiều lớn nhất xét trên biến động tháng (tức mức tăng giảm 30 ngày liền trước) so với VN-Index, giá trị hệ số góc trong tương ứng trong mô hình hồi quy lần lượt là 0.81 và 0.65. Nếu xét đến độ trễ 1 tuần (Hình 3), Dow Jones ảnh hưởng rõ rệt hơn với R2=33% và hệ số góc bằng 0.75.
+
+Kết luận
+
+Với số liệu nghiên cứu 5 năm gần nhất, biến động của thị trường chứng khoán Việt Nam, được đại diện bởi VN-Index, được đánh giá rằng không có sự tương quan đáng kể nào xét trên biến động theo ngày và theo tuần đối với các thị trường quốc tế.
+
+Tuy nhiên, nếu xét trên biến động tháng, có cơ sở thống kê cho thấy rằng Dow Jones và KOSPI có tương quan đáng kể tới VN-Index. Đặc biệt, xét trong mức độ trễ 1 tuần, VN-Index cũng cho thấy sự tương quan với Dow Jones, điều này có thể giúp nhà đầu tư theo dõi chỉ số tham chiếu này để dự đoán diễn biến tiếp theo của VN-Index.
+
+Bên cạnh việc ảnh hưởng của thị trường chứng khoán Mỹ là tương đối sâu rộng tới các thị trường khác trên thế giới, kết luận liên quan đến KOSPI có thể lý giải phần nào bới việc Hàn Quốc đang là nước hàng đầu về đầu tư trực tiếp và gián tiếp vào Việt Nam, ảnh hưởng đáng kể tới dòng vốn tham gia vào VN-Index.
+
+Hy vọng bài nghiên cứu này có thể đóng góp phần nào giá trị trong quá trình ra quyết định đầu tư của các độc giả, chúc các bạn đầu tư thành công!
+
+Đọc bài viết gốc trên iWealth Club < https://pardot.tcbs.com.vn/e/887793/uan-cao-nhat-voi-vn-index-1540/2mhqg5/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk >  [Image alt text: User-added image] 
+
+CÁC BÀI PHÂN TÍCH CHUYÊN SÂU KHÁC
+
+Phân tích beta hai chiều (dual beta) tại thị trường Việt Nam < https://pardot.tcbs.com.vn/e/887793/bs-analysis--contentId-1629937/2mhqg8/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+[Image alt text: industrydownside.png]
+
+Kiểm định chiến lược giao dịch của “siêu trader” Nhật BNF tại thị trường Việt Nam < https://pardot.tcbs.com.vn/e/887793/bs-analysis--contentId-1562791/2mhqgc/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+[Image alt text: image.png]
+
+CÁC VIDEO HỮU ÍCH VỀ ĐẦU TƯ VÀ SẢN PHẨM CỦA TCBS
+
+Series Video: Cẩm nang đầu tư trái phiếu < https://pardot.tcbs.com.vn/e/887793/rZR7glQsyUVdniT-mIkNjtJyyzb9C3/2mhqgg/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > Series Video: Vén màn chiến lược giao dịch < https://pardot.tcbs.com.vn/e/887793/rZR7glQsyi5gJg8nIjUzNEReUEVN6R/2mhqgk/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+Các thông tin khác:
+
+ - Quyền lợi tích điểm iXu < https://pardot.tcbs.com.vn/e/887793/ixu/2mhqgn/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Vay ký quỹ lãi suất ưu đãi là 0.5%/năm < https://pardot.tcbs.com.vn/e/887793/dynamic-margin/2mhqgr/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Danh mục và hạn mức vay margin < https://pardot.tcbs.com.vn/e/887793/Tcbs-margin/2mhqgv/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Quản lý danh mục cổ phiếu trên TCInvest < https://pardot.tcbs.com.vn/e/887793/anh-muc-co-phieu-tren-tcinvest/2mhqgy/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Chuyển tiền vào tài khoản chứng khoán < https://pardot.tcbs.com.vn/e/887793/10-url-chuyen-tien-chung-khoan/2mhqh2/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Câu lạc bộ đầu tư và quản lý gia sản iWealth Club < https://pardot.tcbs.com.vn/e/887793/dashboard/2mhqh5/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Thiết lập cảnh báo thị trường < https://pardot.tcbs.com.vn/e/887793/-thiet-lap-canh-bao-thi-truong/2mhqh8/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Tự làm chủ giao diện TCInvest < https://pardot.tcbs.com.vn/e/887793/u-giao-dien-trang-chu-tcinvest/2mhqhc/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Lập kế hoạch tài chính TCWealth < https://pardot.tcbs.com.vn/e/887793/rl-ke-hoach-tai-chinh-tcwealth/2mhqhg/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Sổ lệnh nhanh (lệnh Pro) < https://pardot.tcbs.com.vn/e/887793/uc-5-url-su-dung-so-lenh-nhanh/2mhqhk/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Lệnh dừng chốt lãi, cắt lỗ < https://pardot.tcbs.com.vn/e/887793/-dung--lenh-chot-lai---cat-lo-/2mhqhn/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Lệnh điều kiện < https://pardot.tcbs.com.vn/e/887793/huyen-muc-5-url-lenh-dieu-kien/2mhqhr/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Hướng dẫn sao chép đầu tư iCopier < https://pardot.tcbs.com.vn/e/887793/huyen-muc-5-url-lenh-dieu-kien/2mhqhr/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Biểu phí dịch vụ chứng khoán tại TCBS < https://pardot.tcbs.com.vn/e/887793/i-dich-vu-chung-khoan-tai-tcbs/2mhqhv/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+ - Tra cứu lịch sử giao dịch trên TCInvest < https://pardot.tcbs.com.vn/e/887793/ao-dich-co-phieu-tren-tcinvest/2mhqhy/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities)
+
+Tầng 27, tầng 28 và tầng 29, Tòa C5 D'Capitale, số 119 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội
+
+Tầng 17, tòa nhà Lim, 9-11 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí Minh
+
+Email: cskh@tcbs.com.vn < mailto:cskh@tcbs.com.vn > | Web: www.tcbs.com.vn < https://pardot.tcbs.com.vn/e/887793/2022-09-10/2mhqj2/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+ < https://pardot.tcbs.com.vn/e/887793/techcomsecurities/2mhqj5/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk >  < https://pardot.tcbs.com.vn/e/887793/-Footer-utm-campaign-mtk-sodep/2mhqj8/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk >  < https://pardot.tcbs.com.vn/e/887793/c-TechcomSecurities-featured/2mhqjc/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+Sở dĩ Quý khách nhận được thư điện tử này bởi vì Quý khách đã chấp thuận cho Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities) gửi đến cho Quý khách các thông tin và chương trình khuyến mãi liên quan đến sản phẩm và dịch vụ của Techcom Securities.
+
+Chúng tôi tôn trọng sự riêng tư của Quý khách. 
+
+Quý khách có thể lựa chọn cập nhật thông tin < https://pardot.tcbs.com.vn/e/887793/dang-ky-nhan-newsletter/2mhqjg/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > hoặc từ chối nhận email < https://pardot.tcbs.com.vn/e/887793/M1pA-email-xxxxx-vsd105c-xxxxx/2mhqjk/364219042?h=Q1e6UAJP5ocoUPUDiTgh78WNKsQvV4QetKjmhS61Lyk > 
+
+https://pardot.tcbs.com.vn/unsubscribeConfirm/887793/8ea566f37d94a9363067078dcbdbf7b49aaea92e97e86a94e499e1af82442679/364219042
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                             TCBS - Phân tích chuyên sâu                                                                                                                                                                                                                                                                                                                     Thị trường quốc tế nào có mối quan hệ tương quan cao nhất với VN-Index?Đọc bài viết gốc trên iWealth Club                                                                 
+                                                                                                                                                     Tìm kiếm các dấu hiệu dự đoán diễn biến của thị trường chứng khoán luôn là một chủ đề được quan tâm bởi các nhà đầu tư. Tại Việt Nam, một nền kinh tế đang phát triển với độ mở lớn với thế giới, nhiều
+chuyên gia khi dự đoán diễn biến của VN-Index thường dẫn chiếu tới diễn biến của các thị trường chứng khoán nước ngoài có ảnh hưởng lớn như Mỹ, Trung Quốc, Nhật Bản, Hàn Quốc…Vậy mối liên hệ của những chỉ số này đối với VN-Index như thế nào? Liệu nhà đầu tư có nên nhìn vào diễn biến của những chỉ số này để dự đoán VN-Index hay không? Bài nghiên cứu này đã sử dụng mô hình tương quan diễn biến các chỉ số thị trường chứng khoán trong 5 năm gần nhất (2017-2022) để phân tích dưới nhiều khía cạnh, xin gửi đến các nhà đầu tư những nhận định đáng chú ý nhất.
+Đầu tiên, các thị trường chứng khoán được lựa chọn để nghiên cứu tương quan với VN-Index được lựa chọn từ các quốc gia có ảnh hưởng lớn trên toàn cầu, hoặc có kết nối cao về dòng vốn đầu tư hoặc giao thương với Việt Nam, cụ thể như sau: - Mỹ: Chỉ số Dow Jones Industrial Average (“DJIA”) xác định từ danh sách 30 mã cổ phiếu blue-chip được niêm yết trên Sàn chứng khoán New York và Nasdaq - Châu Âu: Chỉ số 100 chứng khoán của Financial Times (“FTSE 100”) xác định từ 100 công ty có vốn hóa lớn nhất niêm yết trên SGDCK London. - Hồng Kông: Hang seng Index (“HSI”) xác định từ 50 công ty lớn nhất và có tính thanh cao nhất trong SGDCK HongKong - Hàn Quốc: Korea Composite Stock Price Index (“KOSPI”)
+chỉ số của tất cả các cổ phiếu được giao dịch trên SGDCK Hàn Quốc - Trung Quốc: Chỉ số Shanghai – SSE Composite (“SSEC”) xác định từ tất cả các cổ phiếu được giao dịch trên SGDCK Thượng Hải. - Nhật Bản: Chỉ số NIKKEI 225 phản ánh diễn biến giá của 225 công ty có giá trị vốn hóa lớn nhất tại Nhật. Bài nghiên cứu sẽ đáng giá mức độ tương quan giữa biến động giá của VN-Index với biến động giá của các chỉ số tham chiếu qua các khung thời gian tương ứng theo ngày, tuần và tháng. Để tìm kiếm sự ảnh hưởng trễ của các chỉ số (lagged), bài nghiên cứu này áp dụng sự thay đổi của VN-Index với chỉ số tham chiếu sau 1 ngày, 1 tuần và 1 tháng. Qua đó, giá trị R bình phương (R2)
+được tính toán và phân tích. Hiểu một cách đơn giản, R2 là thước đo độ tương quan nói chung của các chỉ số. Như vậy, các trường hợp cần lưu ý bao gồm: - Hệ số R2 nhỏ: Chỉ số có độ tương quan thấp đối với chỉ số so sánh - Hệ số R2 lớn: Chỉ số có độ tương quan cao đối với chỉ số so sánh Tổng kết kết quả hệ số tương quan của biến động VN-Index với các chỉ số so sánh theo các khung thời gian được trình bày tại Hình 1 dưới đây: Hình 1: Mức độ tương quan (giá trị R2) của VN-Index với các chỉ số tham chiếu theo biến động ngày, tuần, tháng và
+độ trễ sau 1 ngày, 1 tuần, 1 tháng (TCBS tổng hợp) Kết quả hình 1 cho thấy gần như không có sự tương quan đáng kể nào giữa biến động các chỉ số tham chiếu với VN-Index xét theo ngày, tại cả 3 khung độ trễ. Tuy nhiên khi xét đến biến động tuần và tháng, mức độ tương quan bắt đầu gia tăng. Đặc biệt, biến động thị trường Dow Jones và KOSPI (Hàn Quốc) đã có sự tương quan đáng lưu tâm với VN-Index với mức R2 lớn hơn 30% theo biến động tháng.                                                                                                                                                                                                                      Xét đến mức độ trễ tại khung thời gian biến động tuần và tháng, chủ yếu R2 đạt giá trị cao tại mốc “trễ 1 ngày” tức là mức phản ứng ngay lập tức giữa các thị trường, và gần như không có tương quan gì nếu “trễ 1 tháng”. Điều này cũng tương đối hợp lý do độ tương quan với thế giới của VN-Index là khá cao trong vòng 5 năm qua với độ mở lớn của nền kinh tế Việt Nam, các thị trường
+sẽ phản ứng rất nhanh. Điểm thú vị là, biến động tháng ở mốc “trễ 1 tuần” có sự tương quan nhất định giữa VN-Index với Dow Jone (32.7%) và phần nào là KOSPI (27%), đem đến những thông tin hữu ích cho nhà đầu tư khi đánh giá theo biến động tháng của các chỉ số. Các biểu đồ chi tiết dưới đây cho chúng ta cái nhìn sâu hơn về của các khung thời gian có sự tương quan cao kèm minh họa về phương trình hồi quy tuyến tính (nếu có). Hình 2: Chi tiết tương quan biến động tháng giữa VN-Index và các chỉ số tham chiếu theo độ trễ 1 ngày (Nguồn: TCData, TCBS tổng hợp) Hình 3: Chi tiết tương quan biến động tháng giữa VN-Index và các chỉ số tham chiếu theo độ trễ 7 ngày (Nguồn: TCData, TCBS tổng hợp) Kết quả Hình 2 cho thấy chỉ số Dow Jones và KOSPI có mức độ tương quan cùng chiều lớn nhất xét trên biến động tháng (tức mức tăng giảm 30 ngày liền trước) so với VN-Index, giá trị hệ số góc trong tương ứng trong mô hình hồi quy lần lượt là 0.81 và 0.65. Nếu xét đến độ trễ 1 tuần (Hình 3), Dow Jones ảnh hưởng rõ rệt hơn với R2=33% và hệ số góc bằng 0.75.Kết luận Với số liệu nghiên cứu 5 năm gần nhất, biến động của
+thị trường chứng khoán Việt Nam, được đại diện bởi VN-Index, được đánh giá rằng không có sự tương quan đáng kể nào xét trên biến động theo ngày và theo tuần đối với các thị trường quốc tế. Tuy nhiên, nếu xét trên biến động tháng, có cơ sở thống kê cho thấy rằng Dow Jones và KOSPI có tương quan đáng kể tới VN-Index. Đặc biệt, xét trong mức độ trễ 1 tuần, VN-Index cũng cho thấy sự tương quan với Dow Jones, điều này có thể giúp nhà đầu tư theo dõi chỉ số tham chiếu này để dự đoán diễn biến tiếp theo của VN-Index. Bên cạnh việc ảnh hưởng của thị trường chứng khoán Mỹ là tương đối sâu rộng tới các thị trường khác trên thế giới, kết luận liên quan đến KOSPI có thể lý giải
+phần nào bới việc Hàn Quốc đang là nước hàng đầu về đầu tư trực tiếp và gián tiếp vào Việt Nam, ảnh hưởng đáng kể tới dòng vốn tham gia vào VN-Index. Hy vọng bài nghiên cứu này có thể đóng góp phần nào giá trị trong quá trình ra quyết định đầu tư của các độc giả, chúc các bạn đầu tư thành công!                                                                                                                                                                                                                      Đọc bài viết gốc trên iWealth Club                                                                                                                                                                                                                                                                                                                                  CÁC BÀI PHÂN TÍCH
+CHUYÊN SÂU KHÁC                                                                                                                                                                                                                                                                                                                                 Phân tích beta hai chiều (dual beta) tại thị trường Việt Nam                                                                                                                                                                                                                                                                                                                                                                                                                          
+                                                            Kiểm định chiến lược giao dịch của “siêu trader” Nhật BNF tại thị trường Việt Nam                                                                                       
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                 CÁC VIDEO HỮU ÍCH VỀ ĐẦU TƯ VÀ SẢN PHẨM CỦA TCBS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                          Series Video: Cẩm nang đầu tư trái phiếu                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                          Series Video: Vén màn chiến lược giao dịch                                                                                                                                                                                                                                                                                                                                 Các thông tin khác:                                             Quyền lợi tích điểm iXu                       Vay ký quỹ lãi suất ưu đãi là 0.5%/năm                       Danh mục và hạn mức vay margin                       Quản lý danh mục cổ phiếu trên TCInvest                       Chuyển tiền vào tài khoản chứng khoán                       Câu lạc bộ đầu tư và quản lý gia sản iWealth Club                       Thiết lập cảnh báo thị trường                       Tự làm chủ giao diện TCInvest                       Lập kế hoạch tài chính TCWealth                       Sổ lệnh nhanh (lệnh Pro)                       Lệnh dừng chốt lãi, cắt lỗ                       Lệnh điều kiện                       Hướng dẫn sao chép đầu tư iCopier                       Biểu phí dịch vụ chứng khoán tại TCBS                       Tra cứu lịch sử giao dịch trên TCInvest     
+                                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                         
+                                                                                                                                                            Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities)Tầng 27, tầng 28 và tầng 29, Tòa C5 D'Capitale, số 119 Trần Duy Hưng, Quận Cầu Giấy, Hà Nội Tầng 17, tòa nhà Lim, 9-11 Tôn Đức Thắng, Bến Nghé, Quận 1, Thành phố Hồ Chí MinhEmail: cskh@tcbs.com.vn | Web: www.tcbs.com.vn                                                                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             Sở dĩ Quý khách nhận được thư điện tử này bởi vì Quý khách đã chấp thuận cho Công ty cổ phần Chứng Khoán Kỹ Thương (Techcom Securities) gửi đến cho Quý khách các thông tin và chương trình khuyến mãi liên quan đến sản phẩm và dịch vụ của Techcom Securities. Chúng tôi tôn trọng sự riêng tư của Quý khách. Quý khách có thể lựa chọn cập nhật thông tin hoặc từ chối nhận emailhttps://pardot.tcbs.com.vn/unsubscribeConfirm/887793/8ea566f37d94a9363067078dcbdbf7b49aaea92e97e86a94e499e1af82442679/364219042          
+                                                                                                                                                           
+
+

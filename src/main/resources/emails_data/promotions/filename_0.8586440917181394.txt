@@ -1,0 +1,291 @@
+
+    
+        
+            label{font-weight: bold}
+            a{text-decoration: none;font-weight: 600;color: #0088CC;}
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        Một tuần mới đã bắt đầu. vLance xin gửi tới bạn 8 công việc  vừa được đăng. Hãy gửi chào giá ngay hôm nay để có cơ hội sớm nhất được khách hàng lựa chọn.
+        Bạn có biết? Những việc mới này được hệ thống tự động phân loại dựa theo kỹ năng và chuyên môn của bạn. Để có cơ hội nhận những công việc phù hợp nhất, bạn chỉ cần điền chính xác những các kỹ năng, lĩnh vực chuyên môn của mình, đồng thời cập nhật đầy đủ các thông tin trong hồ sơ việc làm.
+        Chúc bạn một tuần mới làm việc hiệu quả.
+        
+                                                                            
+                    Designer
+                    Bán thời gian
+                    Lập trình phần mềm | 200.000 VNĐ - 300.000 VNĐ | TP. Hồ Chí Minh
+                    - Thiết kế giao diện web theo yêu cầu
+- Nghiên cứu phát triển các sản phẩm theo những bản tóm tắt thiết kế... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Auto tạo profile đa luồng
+                    
+                    Lập trình phần mềm | 500.000 VNĐ - 3.000.000 VNĐ | Toàn Quốc
+                    Auto tạo profile bằng js và imacros.
+Công việc trao đổi cụ thể... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Viết phần mềm quản lý
+                    Bán thời gian
+                    Lập trình phần mềm | 10.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Mình cần viết phần mềm quản lý doanh nghiệp, Nghiệp vụ chính :
+- Quản lý nhân sự
+- Quản lý hợp đồng
+- Quản lý tài liệu
+- Quản lý khách hàng 
+kèm theo báo cáo/ thống kê doanh thu,KH sử dụng sản ph... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Chương trình Nestjs back-end
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 25.000.000 VNĐ | Hà Nội
+                    Xây dựng ứng dụng phụ trợ bằng cách sử dụng nestjs. nó sẽ kết nối với postgresql để thao tác dữ liệu... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Trang web Angular
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 25.000.000 VNĐ | Toàn Quốc
+                    Xây dựng một trang web góc cạnh động. Đọc json và tạo trang web tự động... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Sửa lỗi &quot;object reference not set to an instance of an object&quot;
+                    Bán thời gian
+                    Lập trình phần mềm | 500.000 VNĐ - 600.000 VNĐ | Toàn Quốc
+                    Hiện tại máy mình có 1 phần mềm tự nhiên bị lỗi &quot;object reference not set to an instance of an object&quot; , bạn nào có chuyên môn giúp mình xử lý với nhé... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    TOOL AUTO LINE
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Cần thuê viết tool line với yêu cầu như sau :
++auto generator LINE account và lưu trữ được 20k account (chi phí reg acc mình sẽ chịu trách nhiệm)
++gửi sms nhanh ( trong vòng 15 phút gửi được sms từ ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                    
+        
+        
+                                                                                                                                                                                                
+                    Kỹ sư quản trị mạng
+                    Toàn thời gian
+                    Lập trình phần mềm | 8.000.000 VNĐ - 12.000.000 VNĐ | TP. Hồ Chí Minh
+                    -	Quản trị hệ thống mạng theo tiêu chuẩn Cisco 
+-	Thiết kế và quản lý triển khai hệ thống hạ tầng mạng theo tiêu chuẩn 
+-	Phân tích, xử lý, khắc phục sự cố mạng và tối ưu hệ thống có liên quan
+-	Lê... Xem thêm
+                    Gửi hồ sơ
+                
+                            Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+
+
+    
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        Một tuần mới đã bắt đầu. vLance xin gửi tới bạn 8 công việc  vừa được đăng. Hãy gửi chào giá ngay hôm nay để có cơ hội sớm nhất được khách hàng lựa chọn.
+        Bạn có biết? Những việc mới này được hệ thống tự động phân loại dựa theo kỹ năng và chuyên môn của bạn. Để có cơ hội nhận những công việc phù hợp nhất, bạn chỉ cần điền chính xác những các kỹ năng, lĩnh vực chuyên môn của mình, đồng thời cập nhật đầy đủ các thông tin trong hồ sơ việc làm.
+        Chúc bạn một tuần mới làm việc hiệu quả.
+        
+                                                                            
+                    Designer
+                    Bán thời gian
+                    Lập trình phần mềm | 200.000 VNĐ - 300.000 VNĐ | TP. Hồ Chí Minh
+                    - Thiết kế giao diện web theo yêu cầu
+- Nghiên cứu phát triển các sản phẩm theo những bản tóm tắt thiết kế... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Auto tạo profile đa luồng
+                    
+                    Lập trình phần mềm | 500.000 VNĐ - 3.000.000 VNĐ | Toàn Quốc
+                    Auto tạo profile bằng js và imacros.
+Công việc trao đổi cụ thể... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Viết phần mềm quản lý
+                    Bán thời gian
+                    Lập trình phần mềm | 10.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Mình cần viết phần mềm quản lý doanh nghiệp, Nghiệp vụ chính :
+- Quản lý nhân sự
+- Quản lý hợp đồng
+- Quản lý tài liệu
+- Quản lý khách hàng 
+kèm theo báo cáo/ thống kê doanh thu,KH sử dụng sản ph... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Chương trình Nestjs back-end
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 25.000.000 VNĐ | Hà Nội
+                    Xây dựng ứng dụng phụ trợ bằng cách sử dụng nestjs. nó sẽ kết nối với postgresql để thao tác dữ liệu... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Trang web Angular
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 25.000.000 VNĐ | Toàn Quốc
+                    Xây dựng một trang web góc cạnh động. Đọc json và tạo trang web tự động... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Sửa lỗi "object reference not set to an instance of an object"
+                    Bán thời gian
+                    Lập trình phần mềm | 500.000 VNĐ - 600.000 VNĐ | Toàn Quốc
+                    Hiện tại máy mình có 1 phần mềm tự nhiên bị lỗi "object reference not set to an instance of an object" , bạn nào có chuyên môn giúp mình xử lý với nhé... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    TOOL AUTO LINE
+                    
+                    Lập trình phần mềm | 10.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Cần thuê viết tool line với yêu cầu như sau :
++auto generator LINE account và lưu trữ được 20k account (chi phí reg acc mình sẽ chịu trách nhiệm)
++gửi sms nhanh ( trong vòng 15 phút gửi được sms từ ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                    
+        
+        
+                                                                                                                                                                                                
+                    Kỹ sư quản trị mạng
+                    Toàn thời gian
+                    Lập trình phần mềm | 8.000.000 VNĐ - 12.000.000 VNĐ | TP. Hồ Chí Minh
+                    -	Quản trị hệ thống mạng theo tiêu chuẩn Cisco 
+-	Thiết kế và quản lý triển khai hệ thống hạ tầng mạng theo tiêu chuẩn 
+-	Phân tích, xử lý, khắc phục sự cố mạng và tối ưu hệ thống có liên quan
+-	Lê... Xem thêm
+                    Gửi hồ sơ
+                
+                            Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+

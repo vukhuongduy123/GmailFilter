@@ -1,0 +1,96 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: A new software developer spent 4 days to make a simple HTML button and CSS, should I fire him?
+
+Answer from Gee Fishel
+
+Maybe, but probably not.
+
+First it depends on what you mean by “make a simple HTML button and CSS.”
+
+If it took him 4 days to create a new html page with just a simple button 
+Read More: http://www.quora.com/A-new-software-developer-spent-4-days-to-make-a-simple-HTML-button-and-CSS-should-I-fire-him?top_ans=65514595
+-----
+Question: I just graduated with a 2.88 overall GPA. My degree is bachelor in accounting. My accounting GPA is 2.96. What are my prospects of getting a job in this economy?
+
+Answer from Bob McDonald
+
+In 35 years of hiring people, I never inquired about, nor heard of anyone else, referring to a GPA. Once this Coronavirus mess is over, your prospects of getting a job are exc
+Read More: http://www.quora.com/I-just-graduated-with-a-2-88-overall-GPA-My-degree-is-bachelor-in-accounting-My-accounting-GPA-is-2-96-What-are-my-prospects-of-getting-a-job-in-this-economy?top_ans=216632481
+-----
+Question: Is buying a MacBook just an obsession or is it worth it? There are many alternatives which are cheaper and work seamlessly. Why are many people, especially software developers, using a MacBook?
+
+Answer from Alejandro Julien
+
+Software engineer here. After being a Windows / Linux user for ages, I gave in to Macs. Let me make a quick run down.
+
+ * Mac OS is BSD based. Which means it's UNIX. Many of t
+Read More: http://www.quora.com/Is-buying-a-MacBook-just-an-obsession-or-is-it-worth-it-There-are-many-alternatives-which-are-cheaper-and-work-seamlessly-Why-are-many-people-especially-software-developers-using-a-MacBook?top_ans=224072610
+-----
+Question: After learning HTML, CSS, and JavaScript, what are the next languages I should learn to be a full-stack web developer?
+
+Answer from Garry Taylor
+
+If you’ve learned a bit of HTML, CSS, and JavaScript and want to go “full stack” then you need to learn a language to run on the backend.
+
+Personally, these days, I think the 
+Read More: http://www.quora.com/After-learning-HTML-CSS-and-JavaScript-what-are-the-next-languages-I-should-learn-to-be-a-full-stack-web-developer?top_ans=211818883
+-----
+Question: If Thanos landed on Egos planet looking for the last power stone stored there, and Ego wanted to keep it, what happens?
+
+Answer from Abhishek Duvvuri
+
+Thanos is dead.
+
+Ego is a Celestial. He is one of the few that can wield the Stones without issue. If he wanted to keep a Stone, he’d use it against anyone trying to take it i
+Read More: http://www.quora.com/If-Thanos-landed-on-Egos-planet-looking-for-the-last-power-stone-stored-there-and-Ego-wanted-to-keep-it-what-happens?top_ans=209208459
+-----
+Question: Is freeCodeCamp a scam?
+
+Answer from Joseph Skrzysowski
+
+I'm sure the answers to this can be arbitrary, but I'll give my perspective. Before attending a Bootcamp I took 2 months to get a head start and signed up for freeCodeCamp. I 
+Read More: http://www.quora.com/Is-freeCodeCamp-a-scam?top_ans=57735688
+-----
+Question: Why do programmers read books on how to program rather than watch tutorials?
+
+Answer from Gerry Rzeppa
+
+Why do programmers read books on how to program rather than watch tutorials?
+
+I suspect it is because most programmers are well-above-average readers and reading books is ther
+Read More: http://www.quora.com/Why-do-programmers-read-books-on-how-to-program-rather-than-watch-tutorials?top_ans=217052471
+-----
+Question: The Bitcoin halving just occurred and nothing spectacular happened. What is the point?
+
+Answer from David Schwartz
+
+That is the point. Unlike monetary policy in, say, dollars where trillions of new ones can be created when politically expedient, bitcoin’s monetary policy is predictable and 
+Read More: http://www.quora.com/The-Bitcoin-halving-just-occurred-and-nothing-spectacular-happened-What-is-the-point?top_ans=214966566
+-----
+Question: If Tony Stark was so impressed with Peter Parker’s web fluid, why didn’t he pay him for the formula or utilize for Stark industry?
+
+Answer from Stephen Sutton
+
+There are a few reasons for Tony to use only the lightest touch with Parker.
+
+For one, Tony has to know that if he offered to buy Peter's soul, the kid would sell it for a hug
+Read More: http://www.quora.com/If-Tony-Stark-was-so-impressed-with-Peter-Parker-s-web-fluid-why-didn-t-he-pay-him-for-the-formula-or-utilize-for-Stark-industry?top_ans=208370868
+-----
+Question: Can the US ban China from using C++, Java, or Python? Is there any legal issue?
+
+Answer from Alec Cawley
+
+If they tried to, how could they enforce it? It can be downloaded from the internet, and if you block addresses in China, it is trivial to work round with a VPN. Not to mentio
+Read More: http://www.quora.com/Can-the-US-ban-China-from-using-C-Java-or-Python-Is-there-any-legal-issue?top_ans=222469209
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1596014175706130&et=2&id=add875e6a7c64f86843dde421df764ef&request_id=2153372029105551327&source&src=1&st=1596014175706130&stories=1_a25mKlVfEJr%7C1_IGv0fYmAakY%7C1_IhTvHZz1Q5Q%7C1_bRPRBYRuf5r%7C1_bgoW4pdMXZx%7C1_cN34LSSEyB%7C1_FN7DS8hcf6B%7C1_38xBDgXEEN6%7C1_RQTrDBnTBNr%7C1_9Wn6Nibi5jh&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=add875e6a7c64f86843dde421df764ef&t=1596014175781393&token=ec1e4a93aa866a79437edab79e537fa924e904b93e612f52d83bd94ba249835cc969643f8692cca39f7550b0476bb6647124aed6634713035c6eed82152ea033&type=2&uid=610629155
+Answer: Maybe, but probably not.​  First it depends on what you mean by “make a.​.​.​Duy's DigestTop Stories For YouA new software developer spent 4 days to make a simple HTML button and CSS, should I fire him? Gee Fishel, 20+ years of software development, from gaming to government to the enterprise.Written Dec 6, 2017Maybe, but probably not.First it depends on what you mean by “make a simple HTML button and CSS.”If it took him 4 days to create a new html page with just a simple button a... Read More »I just graduated with a 2.88 overall GPA. My degree is bachelor in accounting. My accounting GPA is 2.96. What are my prospects of getting a job in this economy? Bob McDonald, former Asst County Admin Officer at San Bernardino County (1996-2002)Written May 20In 35 years of hiring people, I never inquired about, nor heard of anyone else, referring to a GPA. Once this Coronavirus mess is over, your prospects of getting a job are ... Read More »Is buying a MacBook just an obsession or is it worth it? There are many alternatives which are cheaper and work seamlessly. Why are many people, especially software developers, using a MacBook? Alejandro Julien, OS X fan, BUT Android fan too. Steering clear of the reality distortion field.Written Jun 26Software engineer here. After being a Windows / Linux user for ages, I gave in to Macs. Let me make a quick run down.Mac OS is BSD based. Which means it's UNIX. Many of the... Read More »After learning HTML, CSS, and JavaScript, what are the next languages I should learn to be a full-stack web developer? Garry Taylor, Been programming since 8 bit computersWritten Apr 26If you’ve learned a bit of HTML, CSS, and JavaScript and want to go “full stack” then you need to learn a language to run on the backend.Personally, these days, I think the... Read More »If Thanos landed on Egos planet looking for the last power stone stored there, and Ego wanted to keep it, what happens? Abhishek Duvvuri, I've watched all of the MCU, from the tv shows to the moviesWritten Apr 13Thanos is dead.Ego is a Celestial. He is one of the few that can wield the Stones without issue. If he wanted to keep a Stone, he’d use it against anyone trying to take it ... Read More »Is freeCodeCamp a scam? Joseph Skrzysowski, Certification  Full Stack & Web Servers, Rutgers Coding Bootcamp (2017)Written Sep 23, 2017I'm sure the answers to this can be arbitrary, but I'll give my perspective. Before attending a Bootcamp I took 2 months to get a head start and signed up for freeCodeCamp.... Read More »Why do programmers read books on how to program rather than watch tutorials? Gerry Rzeppa, Director of Research & Development (1980-present)Written May 22Why do programmers read books on how to program rather than watch tutorials?I suspect it is because most programmers are well-above-average readers and reading books is the... Read More »The Bitcoin halving just occurred and nothing spectacular happened. What is the point? David Schwartz, Early Bitcoin developer and community member, CTO at RippleWritten May 12That is the point. Unlike monetary policy in, say, dollars where trillions of new ones can be created when politically expedient, bitcoin’s monetary policy is predictable a... Read More »If Tony Stark was so impressed with Peter Parker’s web fluid, why didn’t he pay him for the formula or utilize for Stark industry? Stephen SuttonUpdated Apr 10There are a few reasons for Tony to use only the lightest touch with Parker.For one, Tony has to know that if he offered to buy Peter's soul, the kid would sell it for a hu... Read More »Can the US ban China from using C++, Java, or Python? Is there any legal issue? Alec Cawley, Used several languages, mostly at low level.Written Jun 18If they tried to, how could they enforce it? It can be downloaded from the internet, and if you block addresses in China, it is trivial to work round with a VPN. Not to men... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

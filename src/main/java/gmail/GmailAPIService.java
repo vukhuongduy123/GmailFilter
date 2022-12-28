@@ -2,13 +2,19 @@ package gmail;
 
 import com.google.api.services.gmail.Gmail;
 import com.google.api.services.gmail.model.*;
+import lombok.Getter;
+import lombok.Setter;
 
 import java.io.IOException;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Stream;
 
+@Getter
+@Setter
 public class GmailAPIService {
-	public static final String DEFAULT_USER = "me";
+	private Gmail gmailService;
+	private final Map<Integer, String> pageToken = new HashMap<>();
+	int currentPage = -1;
 
 	private enum LabelProperties {
 		FILTER_HARM("filter: harm(duyvk)", "#434343", "#666666", "1"),
@@ -34,6 +40,7 @@ public class GmailAPIService {
 	}
 
 	private GmailAPIService() {
+		pageToken.put(0, null);
 	}
 
 	public static final GmailAPIService gmailAPIService = new GmailAPIService();
@@ -42,19 +49,40 @@ public class GmailAPIService {
 		return gmailAPIService;
 	}
 
-	public ListMessagesResponse getMessageList(Gmail gmailService, String userId,
-											   String query) throws
-															IOException {
+	public ListMessagesResponse next(String userId, String query) throws
+																  IOException {
+		currentPage += 1;
 		Gmail.Users.Messages.List request =
-				gmailService.users().messages().list(userId).setQ(query);
+				gmailService.users()
+							.messages()
+							.list(userId)
+							.setQ(query)
+							.setMaxResults(50L);
+		if (pageToken.get(currentPage) != null) {
+			request.setPageToken(pageToken.get(currentPage));
+		}
 		ListMessagesResponse messagesResponse = request.execute();
-		request.setPageToken(messagesResponse.getNextPageToken());
+		pageToken.put(currentPage + 1, messagesResponse.getNextPageToken());
 		return messagesResponse;
 	}
 
-	public Message getMessage(Gmail gmailService, String userId, String messageId, String format) throws
-																						  IOException {
+	public ListMessagesResponse previous(String userId, String query) throws
+																	  IOException {
+		currentPage -= 1;
+		Gmail.Users.Messages.List request =
+				gmailService.users()
+							.messages()
+							.list(userId)
+							.setQ(query)
+							.setMaxResults(50L);
+		if (pageToken.get(currentPage) != null) {
+			request.setPageToken(pageToken.get(currentPage));
+		}
+		return request.execute();
+	}
 
+	public Message getMessage(String userId, String messageId, String format) throws
+																			  IOException {
 		return gmailService.users().messages().get(userId, messageId).setFormat(format).execute();
 	}
 
@@ -70,7 +98,7 @@ public class GmailAPIService {
 	}
 
 	public Message setMessageLabels(Gmail gmailService, String userId,
-										   String messageId, String labelName) throws IOException {
+									String messageId, String labelName) throws IOException {
 		LabelProperties labelProperties =
 				Stream.of(LabelProperties.values())
 					  .filter(e -> e.toString().equalsIgnoreCase(labelName))
@@ -83,7 +111,10 @@ public class GmailAPIService {
 		ModifyMessageRequest modifyMessageRequest = new ModifyMessageRequest();
 		modifyMessageRequest.setAddLabelIds(List.of(label.getId()));
 		modifyMessageRequest.setRemoveLabelIds(
-				getMessage(gmailService, userId, messageId, "minimal").getLabelIds());
-		return gmailService.users().messages().modify(userId, messageId, modifyMessageRequest).execute();
+				getMessage(userId, messageId, "minimal").getLabelIds());
+		return gmailService.users()
+						   .messages()
+						   .modify(userId, messageId, modifyMessageRequest)
+						   .execute();
 	}
 }

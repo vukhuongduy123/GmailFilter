@@ -1,0 +1,108 @@
+Stories from your activity
+
+-----
+
+Question: How does CRED make money through user transactions?
+
+
+Answer from Piyush Jain
+
+
+Cred does not make money by user transactions. It makes money by creating a community of most credit worthy individuals, study their spend pattern maybe and then sell them 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDIxOTc0MzE0OSJ9&al_pri=8&aoid=qPyq7mofSUT&aoty=1&aty=4&cp=1&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=qPyq7mofSUT&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the difference between a weak entity and a subtype in an ER model?
+
+
+Answer from Mark Twaine
+
+
+A weak entity is one dependent on the other. For example, you cannot have a “room” without a “house”, the room being a weak entity.
+
+A sub-type bears some resemblance to a 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDE2ODY5MzAwMyJ9&al_pri=8&aoid=yC4bZXaf7h&aoty=1&aty=4&cp=2&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=yC4bZXaf7h&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the difference between strong and weak entity?
+
+
+Answer from Zach Freeman
+
+
+In short: a weak entity set does not have a primary key that would allow you to determine a unique row - it needs a relationship to a strong entity set to do this. A stron 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDU4Njc1OTk1In0%3D&al_pri=8&aoid=jVZYiWe22qm&aoty=1&aty=4&cp=3&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=jVZYiWe22qm&uid=3jcQmF94xLr&v=0
+-----
+Question: Where does Cred get credit card details from?
+
+
+Answer from Parijat Garg
+
+
+When you sign up for Cred, you provide basic information such as name, phone number and email ID. While you do it, you also give your consent and authorize CRED to get acc 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDIxNTg4MjkzNSJ9&al_pri=8&aoid=RTttNoC6Iz7&aoty=1&aty=4&cp=4&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=RTttNoC6Iz7&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the difference between UPI, Paytm, and YONO SBI when we have to transfer money? Which one is better?
+
+
+Answer from Vineesh Chandran
+
+
+UPI is a fund transfer mechanism which is provided by National Payment Corporation of India. Currently Bhim UPI, Paytm, Gpay, Mobikwik, Amazon pay, Whatsapp etc. are using 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDI4MjY5NzI0MCJ9&al_pri=8&aoid=j93KlMVkg81&aoty=1&aty=4&cp=5&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=j93KlMVkg81&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the disadvantage of using the CRED app for paying a credit card bill?
+
+
+Answer from Avinash Choubey
+
+
+I would like to tell the disadvantage which may happen but the onus is on you also regarding this. This is my personal experience and this experience shouldn’t defer you u 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDI3OTIwNDYyNSJ9&al_pri=8&aoid=XQqR4p2f99y&aoty=1&aty=4&cp=6&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=XQqR4p2f99y&uid=3jcQmF94xLr&v=0
+-----
+Question: How long to does it take for a payment to reflect in credit card statement if I pay through NEFT of other bank account?
+
+
+Answer from Kushal Gupta
+
+
+NEFT Transfers usually take about 30mins to 1 hour to get credited into the beneficiary account (Credit Card A/C) as per the timings/batches of NEFT as declared.
+
+It usual 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDE3MjM0MzYxMiJ9&al_pri=8&aoid=zID6vrYndo4&aoty=1&aty=4&cp=7&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=zID6vrYndo4&uid=3jcQmF94xLr&v=0
+-----
+Question: If I have a weak entity and strong entity, what is the relation between them identifying or not identifying?
+
+
+Answer from Jan Hidders
+
+
+It depends. First note that between a weak entity and a strong entity there might be multiple relationships, and of these there might be more then one marked as identifyin 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDY3MTczNDU4In0%3D&al_pri=8&aoid=99T70Dzn4IU&aoty=1&aty=4&cp=8&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=99T70Dzn4IU&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the best UPI payment application in India?
+
+
+Answer from Bansi Shah
+
+
+A2A
+
+As per the data available on the official website of NPCI for May 2021, here’s the list:
+
+The most used app for UPI is Phonepe in the month of May (the month for whic 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDI5MTUwNDUxNiJ9&al_pri=8&aoid=bmfANwye10j&aoty=1&aty=4&cp=9&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=bmfANwye10j&uid=3jcQmF94xLr&v=0
+-----
+Question: What are the benefits of the CRED app that others don't?
+
+
+Answer from Ram Chandra Mahato
+
+
+All benefits are gone now. Only useless rewards and sicoiscountsunts on pointless products which they are getting advertising revenue from are available. Waste of time
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwzNDQ2NTE3MzkifQ%3D%3D&al_pri=8&aoid=Y77Q2Q402qZ&aoty=1&aty=4&cp=10&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source=7&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty=1&ty_data=Y77Q2Q402qZ&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1670369513285328&et=130&id=cc3129812aec4d72b6a8f2ee8eb428d9&source&src=1&st=1670369513287554&stories=1_qPyq7mofSUT%7C1_yC4bZXaf7h%7C1_jVZYiWe22qm%7C1_RTttNoC6Iz7%7C1_j93KlMVkg81%7C1_XQqR4p2f99y%7C1_zID6vrYndo4%7C1_99T70Dzn4IU%7C1_bmfANwye10j%7C1_Y77Q2Q402qZ&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=cc3129812aec4d72b6a8f2ee8eb428d9&t=1670369513295679&token=1323c2012d11d5a1e1945d9e4d08a632c72e6b82d42f524803f777b373dc365c4a2d5707dea5386851644d15486ba66abd9b535694bc13bcf9403656ff3822bd&type=130&uid=610629155More related to "Can a weak entity be dependent on another weak entity in ER-Model?"Cred does not make money by user transactions. It makes money by creating a community of most credit worthy individuals, study their spend pattern maybe and then sell them financial products like i…Stories from your activityHow does CRED make money through user transactions?Piyush Jain, former CEO at Valuecart.in (2017-2018)Answered June 5, 2020Cred does not make money by user transactions. It makes money by creating a community of most credit worthy individuals, study their spend pattern maybe and then sell them ...Read more »What is the difference between a weak entity and a subtype in an ER model?Mark Twaine, an architect, a project manager, a cat herderUpdated September 20, 2019A weak entity is one dependent on the other. For example, you cannot have a “room” without a “house”, the room being a weak entity.A sub-type bears some resemblance to a we...Read more »What is the difference between strong and weak entity?Zach Freeman, Instructor, Masters Program in Computer Science at University of Chicago (2014-p...Answered October 2, 2017In short: a weak entity set does not have a primary key that would allow you to determine a unique row - it needs a relationship to a strong entity set to do this. A strong...Read more »Where does Cred get credit card details from?Parijat Garg, CIBIL,Credit Scores, Loans, Banks, credit cards, FintechsAnswered May 17, 2020When you sign up for Cred, you provide basic information such as name, phone number and email ID. While you do it, you also give your consent and authorize CRED to get acce...Read more »What is the difference between UPI, Paytm, and YONO SBI when we have to transfer money? Which one is better?Vineesh Chandran, works at State Bank of India (2019-present)Answered May 15, 2021UPI is a fund transfer mechanism which is provided by National Payment Corporation of India. Currently Bhim UPI, Paytm, Gpay, Mobikwik, Amazon pay, Whatsapp etc. are using ...Read more »What is the disadvantage of using the CRED app for paying a credit card bill?Avinash Choubey, Software Engineer at Cerner Healthcare Solutions (2014-present)Answered April 28, 2021I would like to tell the disadvantage which may happen but the onus is on you also regarding this. This is my personal experience and this experience shouldn’t defer you us...Read more »How long to does it take for a payment to reflect in credit card statement if I pay through NEFT of other bank account?Kushal Gupta, Usage exposure of more than Ten Credit CardsAnswered October 6, 2019NEFT Transfers usually take about 30mins to 1 hour to get credited into the beneficiary account (Credit Card A/C) as per the timings/batches of NEFT as declared.It usually ...Read more »If I have a weak entity and strong entity, what is the relation between them identifying or not identifying?Jan Hidders, Database researcherUpdated December 22, 2017It depends. First note that between a weak entity and a strong entity there might be multiple relationships, and of these there might be more then one marked as identifying...Read more »What is the best UPI payment application in India?Bansi Shah, works at PayKunAnswered June 24, 2021A2AAs per the data available on the official website of NPCI for May 2021, here’s the list:The most used app for UPI is Phonepe in the month of May (the month for which the...Read more »What are the benefits of the CRED app that others don't?Ram Chandra Mahato, Toll Free Call=892-639-7791=-customer Care Number at Plot No.98/09, 100 Feet Roa...Answered March 16All benefits are gone now. Only useless rewards and sicoiscountsunts on pointless products which they are getting advertising revenue from are available. Waste of timeRead more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

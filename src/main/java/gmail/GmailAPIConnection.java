@@ -7,14 +7,9 @@ import com.google.api.client.googleapis.javanet.GoogleNetHttpTransport;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.jackson2.JacksonFactory;
 import com.google.api.services.gmail.Gmail;
-import org.apache.http.client.HttpClient;
-import org.apache.http.client.config.RequestConfig;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.impl.client.HttpClientBuilder;
 import org.json.JSONObject;
 
 import javax.annotation.CheckReturnValue;
-import java.awt.*;
 import java.io.*;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
@@ -29,15 +24,13 @@ public class GmailAPIConnection {
 														  "\\src\\main\\resources\\credentials" +
 														  ".json");
 	private static final String OATH_URL = "https://accounts.google.com/o/oauth2/token";
-	private static final String CODE_URL = "https://accounts.google" +
-										   ".com/o/oauth2/v2/auth?scope=https://mail.google.com&access_type=offline&redirect_uri=http://localhost&response_type=code&client_id=599356532863-f1p2f218clkgbt7m365l2vfdieg8nf4i.apps.googleusercontent.com";
 
 	private GmailAPIConnection() {
 	}
 
 
 	@CheckReturnValue
-	public static Gmail getGmailService() throws
+	public static Gmail getGmailService(String code) throws
 										  IOException,
 										  GeneralSecurityException,
 										  URISyntaxException {
@@ -46,11 +39,6 @@ public class GmailAPIConnection {
 																			 new FileInputStream(
 																					 CREDENTIALS_FILE)));
 
-		// get code
-		Desktop.getDesktop().browse(new URI(CODE_URL));
-		System.out.println("Enter your code: ");
-		Scanner scanner = new Scanner(System.in);
-		String code = scanner.nextLine();
 		Map<String, Object> codeParams = new HashMap<>();
 		codeParams.put("code", code);
 		codeParams.put("client_id", clientSecrets.getDetails().getClientId());

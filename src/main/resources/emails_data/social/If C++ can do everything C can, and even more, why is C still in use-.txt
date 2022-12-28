@@ -1,0 +1,109 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: If C++ can do everything C can, and even more, why is C still in use?
+
+Answer from Matthew L Reigada
+
+If C++ can do everything C can, and even more, why is C still in use?
+
+It’s going to be an unpopular answer, but the answer is culture.
+
+Humans aren’t perfectly objective judg
+Read More: http://www.quora.com/If-C-can-do-everything-C-can-and-even-more-why-is-C-still-in-use?top_ans=113480152
+-----
+Question: When I was 18 years old, my sister was half my age. Now I am 82 years old. How old is my sister now?
+
+Answer from Yashar Ibrahimkhalilov
+
+9Hi! The question you asked is pretty simple, little bit tricky. Some people will answer 41 because the half of 82 is 41, and that’s incorrect. Because age increases by 1 each
+Read More: http://www.quora.com/When-I-was-18-years-old-my-sister-was-half-my-age-Now-I-am-82-years-old-How-old-is-my-sister-now?top_ans=226434294
+-----
+Question: Has a PhD supervisor ever told you that they no longer want to have you as a student?
+
+Answer from Vincentius Rumawas
+
+I started my PhD in 2008. It should be a 4-year program. I come from Indonesia, and I was studying in Norway.
+
+My supervisor told me to go home to my home country, not only on
+Read More: http://www.quora.com/Has-a-PhD-supervisor-ever-told-you-that-they-no-longer-want-to-have-you-as-a-student?top_ans=240337754
+-----
+Question: What is the most dangerous C++ line of code?
+
+Answer from Dean McGinty Sands, III
+
+The most dangerous of ANY code is a well-documented example copy and pasted from StackOverflow, modified to fit your needs, but leaving the comments the same.
+
+You have made t
+Read More: http://www.quora.com/What-is-the-most-dangerous-C-line-of-code?top_ans=243766662
+-----
+Question: Should a 15-year-old have a computer in their room for gaming/homework/etc., or is it better to have it in the family office?
+
+Answer from Tyler Garcia
+
+For gods sake it’s a computer not a nuclear bomb, let them have it in their room. Besides, have you ever tried to game or do homework with family in the room? It’s distracting
+Read More: http://www.quora.com/Should-a-15-year-old-have-a-computer-in-their-room-for-gaming-homework-etc-or-is-it-better-to-have-it-in-the-family-office?top_ans=239025851
+-----
+Question: Why do I need to use Vim or Emacs in 2018?
+
+Answer from Chen Bin
+
+Because Emacs is much more powerful.
+
+Let’s compare Emacs with Sublime Text. Sublime Text is regarded as one of best text editors by web developers.
+
+As a javascript developer
+Read More: http://www.quora.com/Why-do-I-need-to-use-Vim-or-Emacs-in-2018?top_ans=73422811
+-----
+Question: I want to make 2D and 3D games, a game engine, some websites, and maybe a programming language later on. Where do I start? What languages should I learn?
+
+Answer from Chris Nash
+
+I have quite a few questions as to why you want to do all of those things, but to answer your question:
+
+ * You’ll need to earn a Software Engineering degree
+That’s not comple
+Read More: http://www.quora.com/I-want-to-make-2D-and-3D-games-a-game-engine-some-websites-and-maybe-a-programming-language-later-on-Where-do-I-start-What-languages-should-I-learn?top_ans=218784096
+-----
+Question: What percentage of Nuclear Power stations are having dangerous leaks?
+
+Answer from Graham Ross Leonard Cowan
+
+Zero, of course.
+
+Every gigawatt of nuclear power capacity, every week it is allowed to operate, deprives the government that has allowed this of a million or so in natural ga
+Read More: http://www.quora.com/What-percentage-of-Nuclear-Power-stations-are-having-dangerous-leaks?top_ans=246580606
+-----
+Question: How does the sun not burn up all of its hydrogen and subsequent fused elements almost instantaneously? The sun is literally on fire 100% of the time, fusing hydrogen to helium, helium to carbon, etc.. How does it not burn up all at once?
+
+Answer from François-Xavier Cappon
+
+The pressure inside the Sun is only enough to fuse a given quantity of hydrogen every second.
+
+There are two opposing forces inside a star.
+
+The first force is gravity. The ma
+Read More: http://www.quora.com/How-does-the-sun-not-burn-up-all-of-its-hydrogen-and-subsequent-fused-elements-almost-instantaneously-The-sun-is-literally-on-fire-100-of-the-time-fusing-hydrogen-to-helium-helium-to-carbon-etc-How-does-it-not-burn?top_ans=246535044
+-----
+Question: I want to become very fluent in Python by the end of the year. What are the things I should do to achieve this?
+
+Answer from Mike West
+
+Nothing.
+
+You aren’t going to become fluent in Python by the end of the year.
+
+But, you can’t start off learning the basics.
+
+There are some really good YouTube courses out th
+Read More: http://www.quora.com/I-want-to-become-very-fluent-in-Python-by-the-end-of-the-year-What-are-the-things-I-should-do-to-achieve-this?top_ans=245911857
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/tc?aoid&aoty=14&aty=4&cp=0&id=0b642228e45b4a60947a762442b8dbc3
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=0b642228e45b4a60947a762442b8dbc3&t=1605085233889618&token=ac22d272870c9cc071dfe54b2bb5c182346adf065c2faf6414d252e3f8395f25ebeae41e9015e7146c39df19261920b6ccd5f1410e557eee2d30e61aa1c6642f&type=2&uid=610629155
+Answer: If C++ can do everything C can, and even more, why is C still in use.​.​.​Duy's DigestTop Stories For YouIf C++ can do everything C can, and even more, why is C still in use? Matthew L Reigada, Software Engineer (2014-present)Written Dec 20, 2018If C++ can do everything C can, and even more, why is C still in use?It’s going to be an unpopular answer, but the answer is culture.Humans aren’t perfectly objective judge... Read More »When I was 18 years old, my sister was half my age. Now I am 82 years old. How old is my sister now? Yashar Ibrahimkhalilov, studied Mathematics & Computer ProgrammingUpdated Aug 199Hi! The question you asked is pretty simple, little bit tricky. Some people will answer 41 because the half of 82 is 41, and that’s incorrect. Because age increases by 1 e... Read More »Has a PhD supervisor ever told you that they no longer want to have you as a student? Vincentius RumawasWritten Sep 23I started my PhD in 2008. It should be a 4-year program. I come from Indonesia, and I was studying in Norway.My supervisor told me to go home to my home country, not only once, but... Read More »What is the most dangerous C++ line of code? Dean McGinty Sands, III, Former Mid-Level Embedded developer. C is a harsh mistress.Written Oct 12The most dangerous of ANY code is a well-documented example copy and pasted from StackOverflow, modified to fit your needs, but leaving the comments the same.You have made ... Read More »Should a 15-year-old have a computer in their room for gaming/homework/etc., or is it better to have it in the family office? Tyler GarciaWritten Sep 15For gods sake it’s a computer not a nuclear bomb, let them have it in their room. Besides, have you ever tried to game or do homework with family in the room? It’s distract... Read More »Why do I need to use Vim or Emacs in 2018? Chen Bin, vi guy, author of "Master Emacs in One Year"Updated Jul 18, 2018Because Emacs is much more powerful.Let’s compare Emacs with Sublime Text. Sublime Text is regarded as one of best text editors by web developers.As a javascript developer,... Read More »I want to make 2D and 3D games, a game engine, some websites, and maybe a programming language later on. Where do I start? What languages should I learn? Chris Nash, BS Software Engineering, Cogswell College (1994)Written May 31I have quite a few questions as to why you want to do all of those things, but to answer your question:You’ll need to earn a Software Engineering degreeThat’s not completel... Read More »What percentage of Nuclear Power stations are having dangerous leaks? Graham Ross Leonard CowanWritten Oct 28Zero, of course.Every gigawatt of nuclear power capacity, every week it is allowed to operate, deprives the government that has allowed this of a million or so in natural g... Read More »How does the sun not burn up all of its hydrogen and subsequent fused elements almost instantaneously? The sun is literally on fire 100% of the time, fusing hydrogen to helium, helium to carbon, etc.. How does it not burn up all at once? François-Xavier CapponWritten Oct 28The pressure inside the Sun is only enough to fuse a given quantity of hydrogen every second.There are two opposing forces inside a star.The first force is gravity. The mas... Read More »I want to become very fluent in Python by the end of the year. What are the things I should do to achieve this? Mike WestUpdated Nov 3Nothing.You aren’t going to become fluent in Python by the end of the year.But, you can’t start off learning the basics.There are some really good YouTube courses out there... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

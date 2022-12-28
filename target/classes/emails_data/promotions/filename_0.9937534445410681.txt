@@ -1,0 +1,112 @@
+Stories from your activity
+
+-----
+
+Question: Can an SSD be coupled with regular HDD for a RAID 1 configuration in NAS?
+
+
+Answer from Vladislav Zorov
+
+
+I think it should be possible - SSDs expose the same "interface" as hard drives do, so the RAID controller shouldn't have a problem with that.
+
+However, I'm not sure it's  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDE4NDA3MTQ3In0%3D&al_pri=8&aoid=mRBzzNOvBvW&aoty=1&aty=4&cp=1&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=mRBzzNOvBvW&uid=3jcQmF94xLr&v=0
+-----
+Question: If we mix SSD and HDD on JBOD (not RAID 0) configuration, will we get a performance penalty?
+
+
+Answer from Robert Lee
+
+
+No, not if you really do keep them as independent disks and exported them as such. If you set things up just right, you may in fact see a significant performance improveme 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDI1Mjk2MzUzMiJ9&al_pri=8&aoid=LHicsZ7KE32&aoty=1&aty=4&cp=2&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=LHicsZ7KE32&uid=3jcQmF94xLr&v=0
+-----
+Question: If SSDs are "much better" than HDDs, why are HDDs still produced and used, and not entirely replaced with SSDs?
+
+
+Answer from Nelson Butterworth
+
+
+HDDs are still superior in data capacity vs. physical size vs. cost, long-term cold storage of data, and long-term reliability.
+
+Capacity vs. size vs. cost: Can SSDs techn 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDM2Njc5ODA5NyJ9&al_pri=8&aoid=Xw8i3DleJrA&aoty=1&aty=4&cp=3&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=Xw8i3DleJrA&uid=3jcQmF94xLr&v=0
+-----
+Question: What can an HDD do that an SSD can’t?
+
+
+Answer from Beauregard Burnside III
+
+
+—- Memory Size
+
+The HDD can store much more data.
+
+—- Endurance
+
+The HDD can be written to an unlimited amount of times, the only limitation being the mechanical drive wit 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDIwMDI0ODAzMyJ9&al_pri=8&aoid=oK2JFrCO2ma&aoty=1&aty=4&cp=4&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=oK2JFrCO2ma&uid=3jcQmF94xLr&v=0
+-----
+Question: Does StoreMI V2 only combine NVMe SSDs and HDDs, or can it combine normal 2.5 SATA SSDs or HDDs?
+
+
+Answer from Armaan Patel
+
+
+A computer has basically two types of memory. there's primary memory and secondary memory. now primary memory is temporary, which is ram. but secondary memory is permanent 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDI4Nzk1NDU2MiJ9&al_pri=8&aoid=bqOL1gG4B2F&aoty=1&aty=4&cp=5&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=bqOL1gG4B2F&uid=3jcQmF94xLr&v=0
+-----
+Question: What’s the point of using RAID configurations when these days we can purchase HDDs of 16 TB?
+
+
+Answer from Per Westermark
+
+
+You need to look closer at the different RAID. Redundant Array of Independent/Inexpensive Disks.
+
+RAID-0 is basically RAID times 0 - which means zero. Not RAID. You stripe 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDM0ODQ5Mzg2MCJ9&al_pri=8&aoid=3aNCVpMGQpi&aoty=1&aty=4&cp=6&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=3aNCVpMGQpi&uid=3jcQmF94xLr&v=0
+-----
+Question: Is it possible to add a slow speed, low failure rate mode to HDDs, so that when one HDD fails a RAID-5 array, data can be retrieved safely without a second HDD failing?
+
+
+Answer from Nada Palmer
+
+
+It doesn't matter for RAID data recovery [ https://www.salvagedata.com/raid-data-recovery/ ]. The RAID controller communicates with each drive separately. When performing  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDM3NzI0MTcwNSJ9&al_pri=8&aoid=MjRthsoSFYF&aoty=1&aty=4&cp=7&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=MjRthsoSFYF&uid=3jcQmF94xLr&v=0
+-----
+Question: What are the advantages of using an SSD in a RAID array over a single SSD?
+
+
+Answer from Dapid Candra
+
+
+RAID array is supposed to provide data redundancy to eliminate probability of data loss and, in a lot of cases, improve performance. With RAID, losing one drive should not 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDM3OTQ5NDA4MyJ9&al_pri=8&aoid=8NL8tJf5huS&aoty=1&aty=4&cp=8&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=8NL8tJf5huS&uid=3jcQmF94xLr&v=0
+-----
+Question: Is it worth switching from SATA SSD to PCIe SSD?
+
+
+Answer from Juan Pablo Resino García
+
+
+You must first look for speed SSD on writing and reading. A slower SSD on a PCIe card SSD drives will not increase performance on speeding your computer. Usually PCIe SATA 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDEzODkzNjk3NiJ9&al_pri=8&aoid=1K2eQXhfNAH&aoty=1&aty=4&cp=9&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=1K2eQXhfNAH&uid=3jcQmF94xLr&v=0
+-----
+Question: Can an SSD be partitioned multiple times/twice and put in RAID 0 with an HDD? Will it speed up the HDD, because the SSD will do two-thirds of the work with the HDD doing one-third?
+
+
+Answer from Brett Bergan
+
+
+RAID is a technology that implies sharing a workload equally or evenly among two or more drives. What you are suggesting is more along the lines of Optane or AMD’s StoreMI 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwxMTkzMjQzNTIifQ%3D%3D&al_pri=8&aoid=8wgNIc5R236&aoty=1&aty=4&cp=10&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source=7&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty=1&ty_data=8wgNIc5R236&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1666915695558784&et=130&id=dd3c09a7862044eea0cc44220b2b3632&source&src=1&st=1666915695564309&stories=1_mRBzzNOvBvW%7C1_LHicsZ7KE32%7C1_Xw8i3DleJrA%7C1_oK2JFrCO2ma%7C1_bqOL1gG4B2F%7C1_3aNCVpMGQpi%7C1_MjRthsoSFYF%7C1_8NL8tJf5huS%7C1_1K2eQXhfNAH%7C1_8wgNIc5R236&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=dd3c09a7862044eea0cc44220b2b3632&t=1666915695582307&token=c869212fdd9caf041cfd9236830dcb9ed120cc6c328b5fccf69b420b759272f36ede8d5cc926c0134cc2212dfee28a2f73d3633580df93901ff9027bd8168f39&type=130&uid=610629155More related to "Can a RAID array have a mix of HDDs and SSDs?"I think it should be possible - SSDs expose the same "interface" as hard drives do, so the RAID controller shouldn't have a problem with that. However, I'm not sure it's advisable - in RAID 1 you …Stories from your activityCan an SSD be coupled with regular HDD for a RAID 1 configuration in NAS?Vladislav Zorov, programming enthusiast.Answered January 6, 2016I think it should be possible - SSDs expose the same "interface" as hard drives do, so the RAID controller shouldn't have a problem with that.However, I'm not sure it's adv...Read more »If we mix SSD and HDD on JBOD (not RAID 0) configuration, will we get a performance penalty?Robert LeeAnswered December 5, 2020No, not if you really do keep them as independent disks and exported them as such. If you set things up just right, you may in fact see a significant performance improvemen...Read more »If SSDs are "much better" than HDDs, why are HDDs still produced and used, and not entirely replaced with SSDs?Nelson ButterworthAnswered July 6HDDs are still superior in data capacity vs. physical size vs. cost, long-term cold storage of data, and long-term reliability.Capacity vs. size vs. cost: Can SSDs technica...Read more »What can an HDD do that an SSD can’t?Beauregard Burnside IIIUpdated March 21, 2020—- Memory SizeThe HDD can store much more data.—- EnduranceThe HDD can be written to an unlimited amount of times, the only limitation being the mechanical drive with an es...Read more »Does StoreMI V2 only combine NVMe SSDs and HDDs, or can it combine normal 2.5 SATA SSDs or HDDs?Armaan Patel, lives in Riyadh, Saudi Arabia (2019-present)Answered June 8, 2021A computer has basically two types of memory. there's primary memory and secondary memory. now primary memory is temporary, which is ram. but secondary memory is permanent,...Read more »What’s the point of using RAID configurations when these days we can purchase HDDs of 16 TB?Per Westermark, R&D EngineerAnswered April 6You need to look closer at the different RAID. Redundant Array of Independent/Inexpensive Disks.RAID-0 is basically RAID times 0 - which means zero. Not RAID. You stripe mu...Read more »Is it possible to add a slow speed, low failure rate mode to HDDs, so that when one HDD fails a RAID-5 array, data can be retrieved safely without a second HDD failing?Nada PalmerAnswered August 16It doesn't matter for RAID data recovery. The RAID controller communicates with each drive separately. When performing I/O operations on a RAID array consisting of multiple...Read more »What are the advantages of using an SSD in a RAID array over a single SSD?Dapid Candra, Supporting users since DOS 3.3Answered August 25RAID array is supposed to provide data redundancy to eliminate probability of data loss and, in a lot of cases, improve performance. With RAID, losing one drive should not ...Read more »Is it worth switching from SATA SSD to PCIe SSD?Juan Pablo Resino García, studied at Sociology (2003)Answered May 5, 2019You must first look for speed SSD on writing and reading. A slower SSD on a PCIe card SSD drives will not increase performance on speeding your computer. Usually PCIe SATA ...Read more »Can an SSD be partitioned multiple times/twice and put in RAID 0 with an HDD? Will it speed up the HDD, because the SSD will do two-thirds of the work with the HDD doing one-third?Brett Bergan, Building PC's for 25 yearsAnswered January 25, 2019RAID is a technology that implies sharing a workload equally or evenly among two or more drives. What you are suggesting is more along the lines of Optane or AMD’s StoreMI ...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

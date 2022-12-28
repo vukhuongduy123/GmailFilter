@@ -1,0 +1,409 @@
+Stories from your activity
+
+-----
+
+
+Question: What is a user requirement, system requirement, functional requirement, non-functional requirement, business requirement? Is a user requirement same as functional requirement?
+
+Answer from Chuck Cobb
+
+No, a user requirement is some kind of functionality that is directly observable by a user. An example might be “The system must be able to display a transaction history for a
+Read More: https://www.quora.com/What-is-a-user-requirement-system-requirement-functional-requirement-non-functional-requirement-business-requirement-Is-a-user-requirement-same-as-functional-requirement/answer/Chuck-Cobb-3
+-----
+Question: Why is it important to distinguish between user requirements and system requirements?
+
+Answer from Richard Morris
+
+User requirements are the business reason/ justification from or building a system. Without a business sponsor there is no reason to spend any money on a system. System requir
+Read More: https://www.quora.com/Why-is-it-important-to-distinguish-between-user-requirements-and-system-requirements/answer/Richard-Morris-444
+-----
+Question: What is the relationship between system requirements, user requirements, functional requirements, and nonfunctional requirements?
+
+Answer from Rochus Keller
+
+There are already a couple of similar questions with answers.
+
+Have e.g. a look at Rochus Keller's answer to What is a user requirement, system requirement, functional require
+Read More: https://www.quora.com/What-is-the-relationship-between-system-requirements-user-requirements-functional-requirements-and-nonfunctional-requirements/answer/Rochus-Keller
+-----
+Question: What is the difference between user requirements and business requirements in software development?
+
+Answer from David Henstock
+
+A business requirement is a description of something the business needs to occur. These are normally high level requirements like
+
+ * The application must be usable outside of
+Read More: https://www.quora.com/What-is-the-difference-between-user-requirements-and-business-requirements-in-software-development/answer/David-Henstock-1
+-----
+Question: Why is it important to make a distinction between developing the user requirements and developing system requirements in the requirements engineering process?
+
+Answer from Mark Brown
+
+Because user requirements drive system requirements. How many stations are we going to need? Will we require item locking? What kind of hand held scanner do you want to use an
+Read More: https://www.quora.com/Why-is-it-important-to-make-a-distinction-between-developing-the-user-requirements-and-developing-system-requirements-in-the-requirements-engineering-process/answer/Mark-Brown-359
+-----
+Question: What is the difference between system requirements specification, software requirements specification and functional requirements specification, and how do they all fit all in a software development documentation model?
+
+Answer from Chuck Cobb
+
+How do they all fit in a software development model?
+
+All of those documents are associated with a traditional plan-driven approach to project management (what many people cal
+Read More: https://www.quora.com/What-is-the-difference-between-system-requirements-specification-software-requirements-specification-and-functional-requirements-specification-and-how-do-they-all-fit-all-in-a-software-development-documentation-model/answer/Chuck-Cobb-3
+-----
+Question: What is a system requirement?
+
+Answer from Thomas Borders
+
+A system requirement is an absolute minimum specification.
+
+Example, if your operating system requires 2GB or RAM in order to run, that doesn’t mean that it will run well, it 
+Read More: https://www.quora.com/What-is-a-system-requirement/answer/Thomas-Borders-5
+-----
+Question: What are the users and system requirements for developing a database?
+
+Answer from Grant Fritchey
+
+You already have one excellent answer (upvoted), but I’d like to add to it.
+
+In addition to understanding your requirements for a business, you also need to understand how tho
+Read More: https://www.quora.com/What-are-the-users-and-system-requirements-for-developing-a-database/answer/Grant-Fritchey
+-----
+Question: What are system requirements?
+
+Answer from Niranjan Gaddam
+
+System requirements are the configuration that a system must have in order for a hardware or software application to run smoothly and efficiently. Failure to meet these requir
+Read More: https://www.quora.com/What-are-system-requirements/answer/Niranjan-Gaddam
+-----
+Question: How do I define system requirements when writing user stories?
+
+Answer from Wilson Leung
+
+A user story is a description of a functional requirement and the rationale for the existence of that requirement (i.e. user need). Because the rationale is always with the re
+Read More: https://www.quora.com/How-do-I-define-system-requirements-when-writing-user-stories/answer/Wilson-Leung-34
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1660266652113108&et=130&id=492f8383288a48b9a515e2fd07329eac&source&src=1&st=1660266652120133&stories=1_4pZQ04DCsy8%7C1_ITRmjA1xNux%7C1_RITPDlPwOki%7C1_odaT3dmeC6S%7C1_mg85Nki59Uu%7C1_YiZ5JqTUm7T%7C1_Yj6ydUmsxJK%7C1_oA7nnsFpv5y%7C1_G4rtG4hIE6%7C1_3y8V5zRKQJ7&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=492f8383288a48b9a515e2fd07329eac&t=1660266652365858&token=e8736373adc05decaacd94ab2a3c42e8859a2ec9044b7289621b57ce67393d02f1d152a8ef9ca895b08e90760d4f72293c8e035122c0fa3b397282e857d872cb&type=130&uid=610629155
+
+
+
+
+
+
+
+
+Answer: No, a user requirement is some kind of functionality that is directly.​.​.​
+
+Stories from your activity
+
+
+
+
+
+
+
+
+
+
+
+What is a user requirement, system requirement, functional requirement, non-functional requirement, business requirement? Is a user requirement same as functional requirement?
+
+
+
+ 
+
+
+
+
+Chuck Cobb, Agile Project Mgt Author and Instructor (Over 100K Students)
+
+Written Jan 30
+
+
+
+No, a user requirement is some kind of functionality that is directly observable by a user. An example might be “The system must be able to display a transaction history fo... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+Why is it important to distinguish between user requirements and system requirements?
+
+
+
+ 
+
+
+
+
+Richard Morris, former Database Analyst at Microsoft (2000-2017)
+
+Written Jun 16, 2021
+
+
+
+User requirements are the business reason/ justification from or building a system. Without a business sponsor there is no reason to spend any money on a system. System req... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the relationship between system requirements, user requirements, functional requirements, and nonfunctional requirements?
+
+
+
+ 
+
+
+
+
+Rochus Keller, Systems Engineering and Management Consultant (1995-present)
+
+Written Apr 4, 2019
+
+
+
+There are already a couple of similar questions with answers.
+Have e.g. a look at Rochus Keller's answer to What is a user requirement, system requirement, functional requir... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the difference between user requirements and business requirements in software development?
+
+
+
+ 
+
+
+
+
+David Henstock, Software developer since the turn of the century
+
+Written Nov 5, 2017
+
+
+
+A business requirement is a description of something the business needs to occur. These are normally high level requirements like
+The application must be usable outside of t... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why is it important to make a distinction between developing the user requirements and developing system requirements in the requirements engineering process?
+
+
+
+ 
+
+
+
+
+Mark Brown, former Senior Software Engineer, Mgr Virtual Engineering
+
+Written Jun 11, 2020
+
+
+
+Because user requirements drive system requirements. How many stations are we going to need? Will we require item locking? What kind of hand held scanner do you want to use... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is the difference between system requirements specification, software requirements specification and functional requirements specification, and how do they all fit all in a software development documentation model?
+
+
+
+ 
+
+
+
+
+Chuck Cobb, Agile Project Mgt Author and Instructor (Over 100K Students)
+
+Written Nov 2, 2017
+
+
+
+How do they all fit in a software development model?
+All of those documents are associated with a traditional plan-driven approach to project management (what many people ca... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What is a system requirement?
+
+
+
+ 
+
+
+
+
+Thomas Borders, IT Help Desk (2017-present)
+
+Written May 8, 2017
+
+
+
+A system requirement is an absolute minimum specification.
+Example, if your operating system requires 2GB or RAM in order to run, that doesn’t mean that it will run well, it... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are the users and system requirements for developing a database?
+
+
+
+ 
+
+
+
+
+Grant Fritchey, 30+ years in DBMS. Microsoft MVP, AWS Community Builder
+
+Written Jun 5, 2019
+
+
+
+You already have one excellent answer (upvoted), but I’d like to add to it.
+In addition to understanding your requirements for a business, you also need to understand how th... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are system requirements?
+
+
+
+ 
+
+
+
+
+Niranjan Gaddam, PC Gamer, Senior Analyst at Wipro
+
+Written Jul 19, 2019
+
+
+
+System requirements are the configuration that a system must have in order for a hardware or software application to run smoothly and efficiently. Failure to meet these req... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I define system requirements when writing user stories?
+
+
+
+ 
+
+
+
+
+Wilson Leung, Software Engineer  (2008-present)
+
+Written Sep 28, 2017
+
+
+
+A user story is a description of a functional requirement and the rationale for the existence of that requirement (i.e. user need). Because the rationale is always with the... Read More »
+
+
+
+
+
+
+ 
+
+Search More on Quora
+
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+

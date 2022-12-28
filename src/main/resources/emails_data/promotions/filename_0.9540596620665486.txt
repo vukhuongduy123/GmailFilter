@@ -1,0 +1,295 @@
+
+    
+        
+            label{font-weight: bold}
+            a{text-decoration: none;font-weight: 600;color: #0088CC;}
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance xin gửi tới bạn 8 công việc mới nhất, được khách hàng đăng lên trong ngày hôm nay. Hãy gửi chào giá để có thể bắt đầu công việc sớm nhất.
+        Bạn có biết? Để có cơ hội nhận những công việc phù hợp nhất với bạn, hãy cập nhật đầy đủ các kỹ năng, lĩnh vực chuyên môn trong hồ sơ việc làm của bạn.
+        Chúc bạn một ngày làm việc hiệu quả.
+        
+                                                                
+                    Kết nối GSM, API trả và nhận kết quả
+                    
+                    Lập trình phần mềm | 3.000.000 VNĐ - 5.000.000 VNĐ | Toàn Quốc
+                    Kết nối GSM, API trả và nhận kết quả từ GSM , Simbank... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    IT Freelancer: Thiết kế AE, Corel
+                        Bán thời gian
+                    Lập trình phần mềm | 10.000.000 VNĐ - 15.000.000 VNĐ | Hà Nội
+                    - Tham gia giảng dạy khóa học cho học viên.
+
+- Có kinh nghiệm trong công việc đang tham gia.
+
+- Có khả năng truyền đạt kiến thức.
+
+- Thu nhập 30% trên tổng mỗi khóa học.
+
+- Có thể chủ động thờ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Chỉnh sửa chức năng cho phần mềm quản lý tiền lương
+                    
+                    Lập trình phần mềm | 1.000.000 VNĐ - 5.000.000 VNĐ | TP. Hồ Chí Minh
+                    Mình cần bạn F phụ code chỉnh sửa các chức năng của phần mềm quản lý tiền lương có sẵn của bên mình.
+Yêu cầu:
+1. thành thạo code, debug ứng dụng web C# [Link đã bị ẩn. Bấm xem chi tiết công việc để ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Lập trình sử dụng Zalo API để gửi tin nhắn
+                    
+                    Việc lập trình khác | 3.000.000 VNĐ - 10.000.000 VNĐ | Hà Nội
+                    Lập trình phần gửi tin nhắn đến zalo, cắm vào phần mềm kế toán chạy desktop.
+Sử dụng Zalo API để gửi tin nhắn thông báo số dư đến khách hàng.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Mình đang cần xây dựng 1 app quản lý khách hàng CRM và quản lý thông tin dự án bất động sản
+                    
+                    Ứng dụng di động | 10.000.000 VNĐ - 20.000.000 VNĐ | Hà Nội
+                    Mình đang cần xây dựng 1 app quản lý khách hàng CRM và quản lý thông tin dự án bất động sản.
+
+Hiện tại phần backend trên website bên mình đã có rồi và mình muốn xây dựng app để nhân sự bên mình sử d... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tối ưu website
+                    
+                    Lập trình web | 1.000.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Mình cần một bạn dev hỗ trợ sửa trang web, hiện web thường xuyên bị lỗi hình ảnh. Cụ thể là ảnh đã tải lên trươc đó nhưng lại bị lỗi không hiển thị... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    SỬA LỖI GIAO DIỆN THANH TOÁN CHO WEBSITE BÁN TÀI LIỆU
+                    
+                    Lập trình web | 200.000 VNĐ - 200.000 VNĐ | Toàn Quốc
+                    Dạ em chào các anh chị ạ! Hiện tại bên em đang cần sửa lại một lỗi trong giao diện thanh toán cho website bán tài liệu. Yêu cầu cụ thể được nêu trong ảnh đính kèm. 
+Dạ nếu anh chị nào quan tâm thì có... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    GUI EMAIL,hoặc gửi ZALO TRONG PHP
+                    
+                    Lập trình web | 500.000 VNĐ - 1.500.000 VNĐ | Toàn Quốc
+                    Hiện tại khách hàng mình có ứng dụng, cần viết nội dung gửi đơn hàng, hoặc thông báo trự tiếp từ web qua email hoặc qua zalo,vấn đề gửi email trước đây xử lý được nhưng từ ngày 30/05 google đã chặn nê... Xem thêm
+                    Gửi hồ sơ
+                
+                                        
+        
+        
+                                                                                                                                                                                Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+
+
+    
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance xin gửi tới bạn 8 công việc mới nhất, được khách hàng đăng lên trong ngày hôm nay. Hãy gửi chào giá để có thể bắt đầu công việc sớm nhất.
+        Bạn có biết? Để có cơ hội nhận những công việc phù hợp nhất với bạn, hãy cập nhật đầy đủ các kỹ năng, lĩnh vực chuyên môn trong hồ sơ việc làm của bạn.
+        Chúc bạn một ngày làm việc hiệu quả.
+        
+                                                                
+                    Kết nối GSM, API trả và nhận kết quả
+                    
+                    Lập trình phần mềm | 3.000.000 VNĐ - 5.000.000 VNĐ | Toàn Quốc
+                    Kết nối GSM, API trả và nhận kết quả từ GSM , Simbank... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    IT Freelancer: Thiết kế AE, Corel
+                        Bán thời gian
+                    Lập trình phần mềm | 10.000.000 VNĐ - 15.000.000 VNĐ | Hà Nội
+                    - Tham gia giảng dạy khóa học cho học viên.
+
+- Có kinh nghiệm trong công việc đang tham gia.
+
+- Có khả năng truyền đạt kiến thức.
+
+- Thu nhập 30% trên tổng mỗi khóa học.
+
+- Có thể chủ động thờ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Chỉnh sửa chức năng cho phần mềm quản lý tiền lương
+                    
+                    Lập trình phần mềm | 1.000.000 VNĐ - 5.000.000 VNĐ | TP. Hồ Chí Minh
+                    Mình cần bạn F phụ code chỉnh sửa các chức năng của phần mềm quản lý tiền lương có sẵn của bên mình.
+Yêu cầu:
+1. thành thạo code, debug ứng dụng web C# [Link đã bị ẩn. Bấm xem chi tiết công việc để ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Lập trình sử dụng Zalo API để gửi tin nhắn
+                    
+                    Việc lập trình khác | 3.000.000 VNĐ - 10.000.000 VNĐ | Hà Nội
+                    Lập trình phần gửi tin nhắn đến zalo, cắm vào phần mềm kế toán chạy desktop.
+Sử dụng Zalo API để gửi tin nhắn thông báo số dư đến khách hàng.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Mình đang cần xây dựng 1 app quản lý khách hàng CRM và quản lý thông tin dự án bất động sản
+                    
+                    Ứng dụng di động | 10.000.000 VNĐ - 20.000.000 VNĐ | Hà Nội
+                    Mình đang cần xây dựng 1 app quản lý khách hàng CRM và quản lý thông tin dự án bất động sản.
+
+Hiện tại phần backend trên website bên mình đã có rồi và mình muốn xây dựng app để nhân sự bên mình sử d... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tối ưu website
+                    
+                    Lập trình web | 1.000.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Mình cần một bạn dev hỗ trợ sửa trang web, hiện web thường xuyên bị lỗi hình ảnh. Cụ thể là ảnh đã tải lên trươc đó nhưng lại bị lỗi không hiển thị... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    SỬA LỖI GIAO DIỆN THANH TOÁN CHO WEBSITE BÁN TÀI LIỆU
+                    
+                    Lập trình web | 200.000 VNĐ - 200.000 VNĐ | Toàn Quốc
+                    Dạ em chào các anh chị ạ! Hiện tại bên em đang cần sửa lại một lỗi trong giao diện thanh toán cho website bán tài liệu. Yêu cầu cụ thể được nêu trong ảnh đính kèm. 
+Dạ nếu anh chị nào quan tâm thì có... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    GUI EMAIL,hoặc gửi ZALO TRONG PHP
+                    
+                    Lập trình web | 500.000 VNĐ - 1.500.000 VNĐ | Toàn Quốc
+                    Hiện tại khách hàng mình có ứng dụng, cần viết nội dung gửi đơn hàng, hoặc thông báo trự tiếp từ web qua email hoặc qua zalo,vấn đề gửi email trước đây xử lý được nhưng từ ngày 30/05 google đã chặn nê... Xem thêm
+                    Gửi hồ sơ
+                
+                                        
+        
+        
+                                                                                                                                                                                Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+

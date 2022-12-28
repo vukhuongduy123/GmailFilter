@@ -1,0 +1,111 @@
+Stories from your activity
+
+-----
+
+Question: How does the source host IP layer know the IP address of the destination host before sending the IP packet?
+
+
+Answer from Nicolas Guerinet
+
+
+For an access to a website on the internet.
+Considering that my DNS server is 8.8.8.8 (Google public DNS server) & that my computer is a DHCP client. 
+
+1. I connect to the 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDExNjAyNzQwIn0%3D&al_pri=8&aoid=FejV0mn577Z&aoty=1&aty=4&cp=1&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=FejV0mn577Z&uid=3jcQmF94xLr&v=0
+-----
+Question: How do internet packets know which way to go?
+
+
+Answer from Bernard Doyle
+
+
+The short answer is that they don’t know. The job is done by devices known as routers when their ultimate destination is outside the originating LAN. When the ultimate des 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDIyMDMwODEwMCJ9&al_pri=8&aoid=bDARsIpyMoj&aoty=1&aty=4&cp=2&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=bDARsIpyMoj&uid=3jcQmF94xLr&v=0
+-----
+Question: How do internet packets know how to reach their end destination?
+
+
+Answer from David Fitzgerald
+
+
+The packets themselves do not know or care. The sender may care. If so, the sender uses TCP. If the sender does not care, it can use UDP. The sender typically has already  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDM3MTc3MzMwIn0%3D&al_pri=8&aoid=mNJimd6quJQ&aoty=1&aty=4&cp=3&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=mNJimd6quJQ&uid=3jcQmF94xLr&v=0
+-----
+Question: How does an internet packet know it's done hopping on routers and has reached the final destination? When it gets there, does it make a system call to the socket or what exactly happens so that it enters the server?
+
+
+Answer from Steven J Owens
+
+
+The packet doesn’t “do” anything, it’s static data that is analyzed and acted upon by programs running in the computers, including routers, that receive it.
+
+Each computer 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDEyMDE3ODM2MiJ9&al_pri=8&aoid=8j1X5sqaVRd&aoty=1&aty=4&cp=4&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=8j1X5sqaVRd&uid=3jcQmF94xLr&v=0
+-----
+Question: How does a sending computer know the IP address of a destination computer?
+
+
+Answer from Alan Armstrong
+
+
+Its local DNS server finds that from the URL. Common ones are stored locally, all the rest around the world are accessed as needed via quick-find links and stored for poss 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDM0OTAxMjkyMyJ9&al_pri=8&aoid=84asMoMxxwj&aoty=1&aty=4&cp=5&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=84asMoMxxwj&uid=3jcQmF94xLr&v=0
+-----
+Question: How does a router know the subnet mask of a destination ip address?
+
+
+Answer from Vignesh
+
+
+Subnet mask of destination IP is not required ( as rightly mentioned in previous comments).Let me explain you how it works without knowing destination subnet mask with bel 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDE3MDIxODY3In0%3D&al_pri=8&aoid=qi9LfkPZej8&aoty=1&aty=4&cp=6&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=qi9LfkPZej8&uid=3jcQmF94xLr&v=0
+-----
+Question: How does a computer know the MAC address of its receiver?
+
+
+Answer from Terry Lambert
+
+
+This is what a TCP/IP ethernet packet looks like:
+
+All most computers at the software level actually care about is the IP address. MAC addresses happen at he PHY layer — t 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDcxNjcwNTQ5In0%3D&al_pri=8&aoid=XGAWote5332&aoty=1&aty=4&cp=7&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=XGAWote5332&uid=3jcQmF94xLr&v=0
+-----
+Question: How does a router determine the destination IP address of an incoming packet?
+
+
+Answer from GaryL
+
+
+It’s part of the Ethernet Frame the packet is wrapped in. It contains the source and destination IP’s
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDM5MDUwNTYxOCJ9&al_pri=8&aoid=1H5Kqdtyj3Q&aoty=1&aty=4&cp=8&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=1H5Kqdtyj3Q&uid=3jcQmF94xLr&v=0
+-----
+Question: When a router receives a packet, how does it know which PC to send it to, because private networks share the same public IP address? Does the router receive the packet and send it straight to the PC knowing it’s MAC address or it’s port address?
+
+
+Answer from Andrew McGregor
+
+
+You can only receive an incoming packet in a network with a NAPT like that if you have sent one on the reverse path, or otherwise done some setup.
+
+NAPT stands for “networ 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDIxNzU4MzUyOSJ9&al_pri=8&aoid=qshEwGy1ZId&aoty=1&aty=4&cp=9&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=qshEwGy1ZId&uid=3jcQmF94xLr&v=0
+-----
+Question: What really happens to an IP packet when we say it is lost in the Internet?
+
+
+Answer from Shawn Kleinart
+
+
+A few reasons, roughly in order of probability:
+
+1. Dropped due to congestion (insufficient capacity on any specific circuit). Most all router interfaces have some buffer  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXw5NDc1ODEwOSJ9&al_pri=8&aoid=o3abpESXx0j&aoty=1&aty=4&cp=10&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source=7&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty=1&ty_data=o3abpESXx0j&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1668676626461914&et=130&id=a96fe2516cc649cabda8583e110fd8c4&source&src=1&st=1668676626466107&stories=1_FejV0mn577Z%7C1_bDARsIpyMoj%7C1_mNJimd6quJQ%7C1_8j1X5sqaVRd%7C1_84asMoMxxwj%7C1_qi9LfkPZej8%7C1_XGAWote5332%7C1_1H5Kqdtyj3Q%7C1_qshEwGy1ZId%7C1_o3abpESXx0j&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=a96fe2516cc649cabda8583e110fd8c4&t=1668676626498408&token=99b4ce74e49ed9d20017dbe42d47214a7a29830185535e37e4b90f0558014f40ed182ba24284814b56dac79280f4798d46a6973c7cbdf6cf85e317705e304f07&type=130&uid=610629155More related to "How do the IP packets know its way to the destination?"For an access to a website on the internet. Considering that my DNS server is 8.8.8.8 (Google public DNS server) & that my computer is a DHCP client. 1. I connect to the internet. DHCP handshake.…Stories from your activityHow does the source host IP layer know the IP address of the destination host before sending the IP packet?Nicolas Guerinet, SEO consultant & Centos / Debian / Directadmin AdministratorAnswered April 20, 2015For an access to a website on the internet.Considering that my DNS server is 8.8.8.8 (Google public DNS server) & that my computer is a DHCP client.1. I connect to the in...Read more »How do internet packets know which way to go?Bernard Doyle, Grad. Dip. Bus. Comp. Computing, Western Sydney University (1992)Updated August 18, 2020The short answer is that they don’t know. The job is done by devices known as routers when their ultimate destination is outside the originating LAN. When the ultimate dest...Read more »How do internet packets know how to reach their end destination?David Fitzgerald, Networking computers since 1987Answered February 19, 2017The packets themselves do not know or care. The sender may care. If so, the sender uses TCP. If the sender does not care, it can use UDP. The sender typically has already r...Read more »How does an internet packet know it's done hopping on routers and has reached the final destination? When it gets there, does it make a system call to the socket or what exactly happens so that it enters the server?Steven J Owens, Lazy Coder since way backUpdated February 23, 2020The packet doesn’t “do” anything, it’s static data that is analyzed and acted upon by programs running in the computers, including routers, that receive it.Each computer kn...Read more »How does a sending computer know the IP address of a destination computer?Alan Armstrong, Retired computer programmer and Facebook tutorAnswered April 9Its local DNS server finds that from the URL. Common ones are stored locally, all the rest around the world are accessed as needed via quick-find links and stored for possi...Read more »How does a router know the subnet mask of a destination ip address?Vignesh, Fun to learn about internetAnswered November 14, 2015Subnet mask of destination IP is not required ( as rightly mentioned in previous comments).Let me explain you how it works without knowing destination subnet mask with belo...Read more »How does a computer know the MAC address of its receiver?Terry Lambert, Worked on the IETF (Internet Engineering Task force) in various groupsUpdated February 9, 2018This is what a TCP/IP ethernet packet looks like:All most computers at the software level actually care about is the IP address. MAC addresses happen at he PHY layer — that...Read more »How does a router determine the destination IP address of an incoming packet?GaryL, Cloud EngineerAnswered October 9It’s part of the Ethernet Frame the packet is wrapped in. It contains the source and destination IP’sRead more »When a router receives a packet, how does it know which PC to send it to, because private networks share the same public IP address? Does the router receive the packet and send it straight to the PC knowing it’s MAC address or it’s port address?Andrew McGregor, Performance Measurement Lead at Fastly (2019-present)Answered May 25, 2020You can only receive an incoming packet in a network with a NAPT like that if you have sent one on the reverse path, or otherwise done some setup.NAPT stands for “network a...Read more »What really happens to an IP packet when we say it is lost in the Internet?Shawn Kleinart, using the net since about 1993. I am a Network Engineer now; I have a very good ...Updated August 16, 2018A few reasons, roughly in order of probability:Dropped due to congestion (insufficient capacity on any specific circuit). Most all router interfaces have some buffer memory...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

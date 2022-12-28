@@ -1,0 +1,287 @@
+
+    
+        
+            label{font-weight: bold}
+            a{text-decoration: none;font-weight: 600;color: #0088CC;}
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance xin gửi tới bạn 8 công việc mới nhất, được khách hàng đăng lên trong ngày hôm nay. Hãy gửi chào giá để có thể bắt đầu công việc sớm nhất.
+        Bạn có biết? Để có cơ hội nhận những công việc phù hợp nhất với bạn, hãy cập nhật đầy đủ các kỹ năng, lĩnh vực chuyên môn trong hồ sơ việc làm của bạn.
+        Chúc bạn một ngày làm việc hiệu quả.
+        
+                                                                            
+                    Patch file DLL
+                        Bán thời gian
+                    Lập trình phần mềm | 5.000.000 VNĐ - 8.000.000 VNĐ | Toàn Quốc
+                    Mình cần patch lại file DLL dc viết bằng C#, một plugin của phần mềm ninja trader. Plugin này thực hiện authenticate với server. Code đã bị che bởi AgileDotNet.Mình muốn patch để xóa phần authen. Docu... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Get hình ảnh từ các stock nước ngoài
+                    
+                    Lập trình web | 1.000.000 VNĐ - 10.000.000 VNĐ | Toàn Quốc
+                    Get hình ảnh từ các trang nước ngoài, như trang [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link]. Chi tiết sẽ bàn khi nhận job. Gồm các tính năng:
+1/. Đăng nhập
+2/ Get hình ảnh (... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Cộng tác viên viết bài Website Tiếng Anh trẻ em
+                    
+                    Tối ưu cho công cụ tìm kiếm - SEO | 200.000 VNĐ - 300.000 VNĐ | Toàn Quốc
+                    - Nhận ý tưởng bài viết từ plan từ khóa cho trước, lên outline và viết bài chuẩn SEO cho website học tiếng Anh.
+- Update bài viết lên WordPress bằng account được cấp.
+- Báo cáo tiến độ công việc the... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Viết script crawl từ cafef và task khác
+                    
+                    Việc lập trình khác | 200.000 VNĐ - 700.000 VNĐ | Toàn Quốc
+                    Mình cần viết script crawl từ cafef (báo cáo tài chính) và một số task nhỏ khác. Yêu cầu viết bằng python... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Chỉnh sửa và đăng tải nội dung lên web trên hệ thống KIOTVIET!
+                        Bán thời gian
+                    Lập trình web | 5.000.000 VNĐ - 10.000.000 VNĐ | Lâm Đồng
+                    Xây dựng website bán hàng [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link] dựa trên nền tảng KIOTVIET!... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Cần Làm app mobile Security, Antivirus, Clean
+                    
+                    Ứng dụng di động | 5.000.000 VNĐ - 10.000.000 VNĐ | TP. Hồ Chí Minh
+                    Chào bạn
+Mình có nhu cầu cần làm 1 app mobile có các tính năng như:
+- Dọn rác điện thoại
+- Quét các lỗ hổng và virus 
+- Tăng tốc độ điện thoại...
+Tương tự 1 số app trên thị trường như [Link đã bị... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Tối ưu hóa và seo website nhanhshop.vn
+                        Bán thời gian
+                    Tối ưu cho công cụ tìm kiếm - SEO | 1.000.000 VNĐ - 3.000.000 VNĐ | TP. Hồ Chí Minh
+                    Mình cần một bạn có thể tối ưu được onpage cụ thể làm cho sản phẩm trang web [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link].... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Code Tool cào data từ Aliexpress.com bằng C#
+                    
+                    Việc lập trình khác | 500.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Hi All, 
+Mình cần code 1 tool cào data từ [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link] bằng C#, bạn nào có kinh nghiệm cào data &amp; API vui lòng liên hệ mình. Cám ơn... Xem thêm
+                    Gửi hồ sơ
+                
+                                        
+        
+        
+                                                                                                                                                                                Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+
+
+    
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance xin gửi tới bạn 8 công việc mới nhất, được khách hàng đăng lên trong ngày hôm nay. Hãy gửi chào giá để có thể bắt đầu công việc sớm nhất.
+        Bạn có biết? Để có cơ hội nhận những công việc phù hợp nhất với bạn, hãy cập nhật đầy đủ các kỹ năng, lĩnh vực chuyên môn trong hồ sơ việc làm của bạn.
+        Chúc bạn một ngày làm việc hiệu quả.
+        
+                                                                            
+                    Patch file DLL
+                        Bán thời gian
+                    Lập trình phần mềm | 5.000.000 VNĐ - 8.000.000 VNĐ | Toàn Quốc
+                    Mình cần patch lại file DLL dc viết bằng C#, một plugin của phần mềm ninja trader. Plugin này thực hiện authenticate với server. Code đã bị che bởi AgileDotNet.Mình muốn patch để xóa phần authen. Docu... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Get hình ảnh từ các stock nước ngoài
+                    
+                    Lập trình web | 1.000.000 VNĐ - 10.000.000 VNĐ | Toàn Quốc
+                    Get hình ảnh từ các trang nước ngoài, như trang [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link]. Chi tiết sẽ bàn khi nhận job. Gồm các tính năng:
+1/. Đăng nhập
+2/ Get hình ảnh (... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Cộng tác viên viết bài Website Tiếng Anh trẻ em
+                    
+                    Tối ưu cho công cụ tìm kiếm - SEO | 200.000 VNĐ - 300.000 VNĐ | Toàn Quốc
+                    - Nhận ý tưởng bài viết từ plan từ khóa cho trước, lên outline và viết bài chuẩn SEO cho website học tiếng Anh.
+- Update bài viết lên WordPress bằng account được cấp.
+- Báo cáo tiến độ công việc the... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Viết script crawl từ cafef và task khác
+                    
+                    Việc lập trình khác | 200.000 VNĐ - 700.000 VNĐ | Toàn Quốc
+                    Mình cần viết script crawl từ cafef (báo cáo tài chính) và một số task nhỏ khác. Yêu cầu viết bằng python... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Chỉnh sửa và đăng tải nội dung lên web trên hệ thống KIOTVIET!
+                        Bán thời gian
+                    Lập trình web | 5.000.000 VNĐ - 10.000.000 VNĐ | Lâm Đồng
+                    Xây dựng website bán hàng [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link] dựa trên nền tảng KIOTVIET!... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Cần Làm app mobile Security, Antivirus, Clean
+                    
+                    Ứng dụng di động | 5.000.000 VNĐ - 10.000.000 VNĐ | TP. Hồ Chí Minh
+                    Chào bạn
+Mình có nhu cầu cần làm 1 app mobile có các tính năng như:
+- Dọn rác điện thoại
+- Quét các lỗ hổng và virus 
+- Tăng tốc độ điện thoại...
+Tương tự 1 số app trên thị trường như [Link đã bị... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Tối ưu hóa và seo website nhanhshop.vn
+                        Bán thời gian
+                    Tối ưu cho công cụ tìm kiếm - SEO | 1.000.000 VNĐ - 3.000.000 VNĐ | TP. Hồ Chí Minh
+                    Mình cần một bạn có thể tối ưu được onpage cụ thể làm cho sản phẩm trang web [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link].... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Code Tool cào data từ Aliexpress.com bằng C#
+                    
+                    Việc lập trình khác | 500.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Hi All, 
+Mình cần code 1 tool cào data từ [Link đã bị ẩn. Bấm xem chi tiết công việc để xem đầy đủ đường link] bằng C#, bạn nào có kinh nghiệm cào data & API vui lòng liên hệ mình. Cám ơn... Xem thêm
+                    Gửi hồ sơ
+                
+                                        
+        
+        
+                                                                                                                                                                                Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+

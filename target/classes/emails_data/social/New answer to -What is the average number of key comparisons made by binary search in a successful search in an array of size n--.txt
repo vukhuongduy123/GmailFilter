@@ -1,0 +1,85 @@
+New Answer
+
+-----
+
+Max Goren answered the question "What is the average number of key comparisons made by binary search in a successful search in an array of size n?":
+
+"A successful search on average makes log n comparisons. This is because with each comparison the sample space is halved. an array where N = 1 million should take no more than 20 comparisons."
+
+
+To see the question page with all answers, visit:
+https://www.quora.com/qemail/track_click?aoid=8fjiVl2qMSZ&aoty=16&aty=4&cp=0&ct=1657386871137136&et=103&force_notif_url&id=fd7146bb16144f1099f0863301404535&notif_url=%2FWhat-is-the-average-number-of-key-comparisons-made-by-binary-search-in-a-successful-search-in-an-array-of-size-n%2Fanswer%2FMax-Goren-2&request_id=4&src=1&st=1657386871165784&stories=39067521730&uid=3jcQmF94xLr&v=0
+
+
+
+We sent you this email because you want answers to this question. To stop wanting answers, click this link: 
+https://www.quora.com/qemail/track_click?aoid=zWULwsK4qHA&aoty=2&aty=12&cp=0&ct=1657386871137136&et=103&id=fd7146bb16144f1099f0863301404535&request_id=4&src=1&st=1657386871165784&stories=39067521730&uid=3jcQmF94xLr&v=0
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1657386871137136&et=103&id=fd7146bb16144f1099f0863301404535&request_id=4&src=1&st=1657386871165784&stories=39067521730&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/notif_unsubscribe?snid=39067521730&t=1657386871182177&token=72702597dade66c9b001ccaec82353faa97ff8c54ed7ce84fa439cb7d576b2a865055b68a42c2344a8579a84afe8e8f0fb4c43250f915265adeb53637fb4a809&type=4&uid=610629155
+
+
+
+
+
+
+
+
+
+
+New Answer
+
+
+
+
+
+
+
+
+
+
+What is the average number of key comparisons made by binary search in a successful search in an array of size n?
+
+
+
+ 
+
+
+
+
+Max Goren, Computer Programmer
+
+Written 18m ago
+
+
+A successful search on average makes log n comparisons. This is because with each comparison the sample space is halved. an array where N = 1 million should take no more than 20 comparisons.
+
+
+Is this a useful answer to your question?
+
+Your feedback is private.
+
+YesNo
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+We sent you this email because you follow the question. Unfollow this Question
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+
+

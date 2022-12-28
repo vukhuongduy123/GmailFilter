@@ -1,0 +1,335 @@
+
+    
+        
+            label{font-weight: bold}
+            a{text-decoration: none;font-weight: 600;color: #0088CC;}
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance thống kê 10 công việc  hot nhất trong tháng vẫn đang nhận hồ sơ ứng tuyển. Hãy gửi hồ sơ ngay hôm nay để có cơ hội sớm nhất được khách hàng lựa chọn.
+        Bạn có biết? Những việc mới này được hệ thống tự động phân loại dựa theo kỹ năng và chuyên môn của bạn. Để có cơ hội nhận những công việc phù hợp nhất, bạn chỉ cần điền chính xác những các kỹ năng, lĩnh vực chuyên môn của mình, đồng thời cập nhật đầy đủ các thông tin trong hồ sơ việc làm.
+        Chúc bạn một tháng mới làm việc hiệu quả.
+        
+                                                                            
+                    Cần Fix Source C# - Phần Mềm Quản Lý Profile
+                    Bán thời gian
+                    Lập trình phần mềm | 2.000.000 VNĐ - 5.000.000 VNĐ | Đà Nẵng
+                    Hiện có Source C# - Là một phần mềm quản lí và điều khiển profile.
+Cần một bạn chuyên C# hổ trợ fix lỗi và cũng như update một vài chức năng của tool. 
+Mình cần một bạn làm việc trực tiếp tại Đà Nẵn... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Viết tool hỗ trợ giao dịch chứng khoán phái sinh
+                    
+                    Lập trình phần mềm | 5.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Cần freelancer tin cậy, đã từng code hệ thống giao dịch coin hoặc chứng khoán, biết sử dụng python, C++,C hoặc code trên amibroke.
+biết xử lý API... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    thiết kế phần mềm xuất dữ liệu cần tìm trên file pdf ra file excel
+                    
+                    Lập trình phần mềm | 2.000.000 VNĐ - 5.000.000 VNĐ | Hà Nội
+                    - chúng tôi có sẵn file pdf danh sách đơn hàng 
+- Trên mỗi đơn hàng đã có đầy đủ các thông tin: mã đơn hàng, mã sản phẩm, dòng máy, số lượng
+- tôi cần xuất ra file excel lấy các thông tin trên theo ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Lập trình winform C#
+                    Bán thời gian
+                    Lập trình phần mềm | 5.000.000 VNĐ - 20.000.000 VNĐ | Hà Nội
+                    Hi anh/chị/em
+
+Mình đang cần 1 bạn viết ứng dụng Winform C# thực hiện yêu cầu sau:
+- Ứng dụng cho máy test công nghiệp
+- Giao tiếp với thiết bị đo lường (qua cổng USB, RS232...)
+- Lưu log file, x... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Viết phần mềm mô phỏng thao tác
+                    
+                    Lập trình phần mềm | 1.500.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Xin chào,
+
+Mình cần viết một phần mềm mô phỏng thao tác lặp đi lặp lại việc click vào tiện ích dịch thuật trên trình duyệt để dịch text trên web, sau đó copy phần text đã được dịch ra file Notepad.
+... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Mở khoá file dll (enigma 5x)
+                    
+                    Lập trình phần mềm | 800.000 VNĐ - 1.200.000 VNĐ | Toàn Quốc
+                    Cần unpack (hoặc viết phần mềm keygen) cho file dll đóng gói bởi chương trình Enigma... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tuỳ chỉnh mã nguồn chronium
+                    
+                    Lập trình phần mềm | 5.000.000 VNĐ - 10.000.000 VNĐ | Toàn Quốc
+                    Xin chào,
+
+Tôi muốn tuỳ chỉnh lại mã nguồn chronium để làm trình duyệt riêng tư phục vụ công việc. Nếu bạn quan tâm xin hãy nhắn tin với tôi. Chúng ta sẽ thảo luận.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tools reup youtube.
+                    
+                    Lập trình phần mềm | 30.000.000 VNĐ - 100.000.000 VNĐ | Toàn Quốc
+                    Bên mình cần tools reup chuyên nghiệp và cập nhật bảo hành theo thuật toán youtube và định kỳ.
+Yêu cầu có hiểu biết về lĩnh vực này, không tư vấn ngược cho bạn không đủ khả năng ạ.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                                                
+        
+        
+                                                                                                                                                                                                                    
+                    Java Developer (800 - 2000$) - Nghỉ Thứ 7, Chủ Nhật
+                    Toàn thời gian
+                    Lập trình phần mềm | 15.000.000 VNĐ - 40.000.000 VNĐ | Hà Nội
+                    Trực tiếp xây dựng và phát triển các ứng dụng trên nền tảng Java cho các sản phẩm, dự án của công ty;
+Tiếp xúc và tham gia tối ưu hệ thống hàng triệu user và hàng chục triệu giao dịch mỗi ngày;
+Tham... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                
+                    Java Developer (800 - 2000$) - Nghỉ Thứ 7, Chủ Nhật
+                    Toàn thời gian
+                    Lập trình phần mềm | 15.000.000 VNĐ - 40.000.000 VNĐ | Hà Nội
+                    - Trực tiếp xây dựng và phát triển các ứng dụng trên nền tảng Java cho các sản phẩm, dự án của công ty;
+- Tiếp xúc và tham gia tối ưu hệ thống hàng triệu user và hàng chục triệu giao dịch mỗi ngày;
+... Xem thêm
+                    Gửi hồ sơ
+                
+                            Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+
+
+    
+        
+        
+        
+        
+        vlance.vn
+    
+    
+        
+        
+            
+                
+                    
+                        
+                    
+                
+            
+        
+         
+        
+        
+                           
+    
+                Chào duy vu,
+        vLance thống kê 10 công việc  hot nhất trong tháng vẫn đang nhận hồ sơ ứng tuyển. Hãy gửi hồ sơ ngay hôm nay để có cơ hội sớm nhất được khách hàng lựa chọn.
+        Bạn có biết? Những việc mới này được hệ thống tự động phân loại dựa theo kỹ năng và chuyên môn của bạn. Để có cơ hội nhận những công việc phù hợp nhất, bạn chỉ cần điền chính xác những các kỹ năng, lĩnh vực chuyên môn của mình, đồng thời cập nhật đầy đủ các thông tin trong hồ sơ việc làm.
+        Chúc bạn một tháng mới làm việc hiệu quả.
+        
+                                                                            
+                    Cần Fix Source C# - Phần Mềm Quản Lý Profile
+                    Bán thời gian
+                    Lập trình phần mềm | 2.000.000 VNĐ - 5.000.000 VNĐ | Đà Nẵng
+                    Hiện có Source C# - Là một phần mềm quản lí và điều khiển profile.
+Cần một bạn chuyên C# hổ trợ fix lỗi và cũng như update một vài chức năng của tool. 
+Mình cần một bạn làm việc trực tiếp tại Đà Nẵn... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Viết tool hỗ trợ giao dịch chứng khoán phái sinh
+                    
+                    Lập trình phần mềm | 5.000.000 VNĐ - 20.000.000 VNĐ | Toàn Quốc
+                    Cần freelancer tin cậy, đã từng code hệ thống giao dịch coin hoặc chứng khoán, biết sử dụng python, C++,C hoặc code trên amibroke.
+biết xử lý API... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    thiết kế phần mềm xuất dữ liệu cần tìm trên file pdf ra file excel
+                    
+                    Lập trình phần mềm | 2.000.000 VNĐ - 5.000.000 VNĐ | Hà Nội
+                    - chúng tôi có sẵn file pdf danh sách đơn hàng 
+- Trên mỗi đơn hàng đã có đầy đủ các thông tin: mã đơn hàng, mã sản phẩm, dòng máy, số lượng
+- tôi cần xuất ra file excel lấy các thông tin trên theo ... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                    
+                    Lập trình winform C#
+                    Bán thời gian
+                    Lập trình phần mềm | 5.000.000 VNĐ - 20.000.000 VNĐ | Hà Nội
+                    Hi anh/chị/em
+
+Mình đang cần 1 bạn viết ứng dụng Winform C# thực hiện yêu cầu sau:
+- Ứng dụng cho máy test công nghiệp
+- Giao tiếp với thiết bị đo lường (qua cổng USB, RS232...)
+- Lưu log file, x... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                            
+                    Viết phần mềm mô phỏng thao tác
+                    
+                    Lập trình phần mềm | 1.500.000 VNĐ - 2.000.000 VNĐ | Toàn Quốc
+                    Xin chào,
+
+Mình cần viết một phần mềm mô phỏng thao tác lặp đi lặp lại việc click vào tiện ích dịch thuật trên trình duyệt để dịch text trên web, sau đó copy phần text đã được dịch ra file Notepad.
+... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Mở khoá file dll (enigma 5x)
+                    
+                    Lập trình phần mềm | 800.000 VNĐ - 1.200.000 VNĐ | Toàn Quốc
+                    Cần unpack (hoặc viết phần mềm keygen) cho file dll đóng gói bởi chương trình Enigma... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tuỳ chỉnh mã nguồn chronium
+                    
+                    Lập trình phần mềm | 5.000.000 VNĐ - 10.000.000 VNĐ | Toàn Quốc
+                    Xin chào,
+
+Tôi muốn tuỳ chỉnh lại mã nguồn chronium để làm trình duyệt riêng tư phục vụ công việc. Nếu bạn quan tâm xin hãy nhắn tin với tôi. Chúng ta sẽ thảo luận.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                        
+                    Tools reup youtube.
+                    
+                    Lập trình phần mềm | 30.000.000 VNĐ - 100.000.000 VNĐ | Toàn Quốc
+                    Bên mình cần tools reup chuyên nghiệp và cập nhật bảo hành theo thuật toán youtube và định kỳ.
+Yêu cầu có hiểu biết về lĩnh vực này, không tư vấn ngược cho bạn không đủ khả năng ạ.... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                                                                                
+        
+        
+                                                                                                                                                                                                                    
+                    Java Developer (800 - 2000$) - Nghỉ Thứ 7, Chủ Nhật
+                    Toàn thời gian
+                    Lập trình phần mềm | 15.000.000 VNĐ - 40.000.000 VNĐ | Hà Nội
+                    Trực tiếp xây dựng và phát triển các ứng dụng trên nền tảng Java cho các sản phẩm, dự án của công ty;
+Tiếp xúc và tham gia tối ưu hệ thống hàng triệu user và hàng chục triệu giao dịch mỗi ngày;
+Tham... Xem thêm
+                    Gửi hồ sơ
+                
+                                                                
+                    Java Developer (800 - 2000$) - Nghỉ Thứ 7, Chủ Nhật
+                    Toàn thời gian
+                    Lập trình phần mềm | 15.000.000 VNĐ - 40.000.000 VNĐ | Hà Nội
+                    - Trực tiếp xây dựng và phát triển các ứng dụng trên nền tảng Java cho các sản phẩm, dự án của công ty;
+- Tiếp xúc và tham gia tối ưu hệ thống hàng triệu user và hàng chục triệu giao dịch mỗi ngày;
+... Xem thêm
+                    Gửi hồ sơ
+                
+                            Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp nhận mail  tại đây.
+    
+
+        
+        
+        
+        
+            
+        
+        
+        
+         
+            
+                
+                    
+                        Bạn cần trợ giúp? Liên hệ với chúng tôi
+                        Email: hotro@vlance.vn
+                        Tel: (+84) 024.6684.1818
+                    
+                    
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                        
+                            
+                        
+                    
+                
+                
+                    © 2022 vLance.vn
+                    Địa chỉ: Tòa nhà Ladeco, tầng 12A, số 266 Đội Cấn, phường Liễu Giai, quận Ba Đình, thành phố Hà Nội.
+                
+            
+        
+                
+    
+        
+

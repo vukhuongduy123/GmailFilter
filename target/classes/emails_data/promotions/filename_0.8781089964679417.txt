@@ -1,0 +1,114 @@
+Stories from your activity
+
+-----
+
+Question: Someone accessed my system via TeamViewer. How can I track his IP address?
+
+
+Answer from Hunter Daves-Garrett
+
+
+Check the following files:
+
+C:\Program Files (x86)\TeamViewer\Connections_incoming.txt
+
+Or
+
+C:\Program Files\TeamViewer\Connections_incoming.txt
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDc0NDYxNDg4In0%3D&al_pri=8&aoid=FaBhey14w9y&aoty=1&aty=4&cp=1&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=FaBhey14w9y&uid=3jcQmF94xLr&v=0
+-----
+Question: Can a person hack into my system if I share my system with him via Teamviewer or AnyDesk by installing a backdoor or by any other means without my knowledge? How would I know someone's snooping into my PC then?
+
+
+Answer from Nidhish Pandya
+
+
+Well see there is nothing in both of these clients which people can do in the background anything a person connected with your system does it will be notified on your scre 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDk2Mzc1Njc3In0%3D&al_pri=8&aoid=duOBykLicWD&aoty=1&aty=4&cp=2&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=duOBykLicWD&uid=3jcQmF94xLr&v=0
+-----
+Question: I uninstalled AnyDesk from my computer but the person still has access to it. Is there a way for me to permanently disconnect them?
+
+
+Answer from Rakshith Sarvotham
+
+
+Check your Task Bar. If AnyDesk is running, there will be a window open showing that it is running and that the “so and so” person is connected. Click on it and terminate  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDI5ODYwNDk2NSJ9&al_pri=8&aoid=q1Mrpyt1Ai1&aoty=1&aty=4&cp=3&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=q1Mrpyt1Ai1&uid=3jcQmF94xLr&v=0
+-----
+Question: I think someone illegally logged into my computer via TeamViewer. I have their computer IP address from an anonymous tracking email. How can I prove it was them? How can I associate the IP address I received back to the hacked computer?
+
+
+Answer from Andrew Guarino
+
+
+1.) Export all firewall/system logs on your network (From your Network Firewall and or router if you’re on a home network)
+
+2.) Screenshot and or capture the evidence (the 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDEzNTMwNjQ0OSJ9&al_pri=8&aoid=LnioNWHAgWS&aoty=1&aty=4&cp=4&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=LnioNWHAgWS&uid=3jcQmF94xLr&v=0
+-----
+Question: Why is someone asking me to run AnyDesk software on my computer?
+
+
+Answer from Sharon Barnes
+
+
+I was contacted by a scammer yesterday, returning her call as she said I was just about to be debited $40, my monthly fee for Amazon Prime which I knew I hadn’t signed up  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDI5NzQyNDc5NSJ9&al_pri=8&aoid=Im7lWy6Lkam&aoty=1&aty=4&cp=5&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=Im7lWy6Lkam&uid=3jcQmF94xLr&v=0
+-----
+Question: Can viruses or malware infect computers via TeamViewer?
+
+
+Answer from David Vanderschel
+
+
+A2A: The program itself has no known such vulnerabilities. However, since such vulnerabilities can be discovered, you should be sure to keep it (and all your software) up  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDYzODc2MjUyIn0%3D&al_pri=8&aoid=IOx0YnGOgki&aoty=1&aty=4&cp=6&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=IOx0YnGOgki&uid=3jcQmF94xLr&v=0
+-----
+Question: Did someone hack me through TeamViewer? What should I do?
+
+
+Answer from Karthik Uday
+
+
+I had read messages in forums just few weeks back about TeamViewer being hacked. So, it is quite possible that yours too might be hacked.
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDI2OTk1OTczIn0%3D&al_pri=8&aoid=s2UlJXOTer&aoty=1&aty=4&cp=7&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=s2UlJXOTer&uid=3jcQmF94xLr&v=0
+-----
+Question: If someone connects to me by TeamViewer, can they get my public IP?
+
+
+Answer from Richard Taylor
+
+
+Q: If someone connects to me by TeamViewer, can they get my public IP?
+
+Possibly, but it does not really matter if they do get your public IP address. If you are behind a  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDIyNjAzNTU1MiJ9&al_pri=8&aoid=aRMnpfEDSLY&aoty=1&aty=4&cp=8&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=aRMnpfEDSLY&uid=3jcQmF94xLr&v=0
+-----
+Question: My potential employer asked me to turn on TeamViewer to check my personal Mac for technical requirements. How do I increase my security? I want to protect my laptop before turning it on. My job is part-time and online.
+
+
+Answer from Matt P.
+
+
+Check your laptop for “technical requirements”? What on Earth does that mean?!?
+
+Your personal property is exactly that. They have no need or right to inspect your persona 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDQ1MTk1MDUwIn0%3D&al_pri=8&aoid=3S7ltSXQfEK&aoty=1&aty=4&cp=9&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=3S7ltSXQfEK&uid=3jcQmF94xLr&v=0
+-----
+Question: How can AnyDesk users (or any other remote access software users) avoid getting trapped into remote access scams by scammers/hackers?
+
+
+Answer from Ayush Kumar
+
+
+Any Hacker or scammer cannot access as remote until unless you provide any unnecessary permission to your application.
+
+Use a verified source for remote acces , don't inst 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwzODMwNjMwMjcifQ%3D%3D&al_pri=8&aoid=mGlBgqOw8aS&aoty=1&aty=4&cp=10&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source=7&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty=1&ty_data=mGlBgqOw8aS&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1667606096632795&et=130&id=8d3fd23ad8674d3d8874f1fddcb6cde0&source&src=1&st=1667606096635910&stories=1_FaBhey14w9y%7C1_duOBykLicWD%7C1_q1Mrpyt1Ai1%7C1_LnioNWHAgWS%7C1_Im7lWy6Lkam%7C1_IOx0YnGOgki%7C1_s2UlJXOTer%7C1_aRMnpfEDSLY%7C1_3S7ltSXQfEK%7C1_mGlBgqOw8aS&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=8d3fd23ad8674d3d8874f1fddcb6cde0&t=1667606096643542&token=99baa134f289e356afd1d7ac38f29c83aee5183b8992c3135c50cd3dcbf4d2bbf85f1771927a1ee3dff097e7067de22f4ce995e82aee0a7569d5c6dc2ddf1213&type=130&uid=610629155More related to "If someone connects to another computer through AnyDesk or TeamViewer, would anyone b...?"Check the following files: C:\Program Files (x86)\TeamViewer\Connections_incoming.txt Or C:\Program Files\TeamViewer\Connections_incoming.txtStories from your activitySomeone accessed my system via TeamViewer. How can I track his IP address?Hunter Daves-Garrett, 7+ yearsAnswered February 26, 2018Check the following files:C:\Program Files (x86)\TeamViewer\Connections_incoming.txtOrC:\Program Files\TeamViewer\Connections_incoming.txtRead more »Can a person hack into my system if I share my system with him via Teamviewer or AnyDesk by installing a backdoor or by any other means without my knowledge? How would I know someone's snooping into my PC then?Nidhish Pandya, former Admin at Ultimate Hackers (2015-2017)Answered August 22, 2018Well see there is nothing in both of these clients which people can do in the background anything a person connected with your system does it will be notified on your scree...Read more »I uninstalled AnyDesk from my computer but the person still has access to it. Is there a way for me to permanently disconnect them?Rakshith Sarvotham, B.C.A. Computer Applications, Dayananda Sagar Institutions (2016)Answered July 29, 2021Check your Task Bar. If AnyDesk is running, there will be a window open showing that it is running and that the “so and so” person is connected. Click on it and terminate t...Read more »I think someone illegally logged into my computer via TeamViewer. I have their computer IP address from an anonymous tracking email. How can I prove it was them? How can I associate the IP address I received back to the hacked computer?Andrew Guarino, Information Security ConsultantAnswered April 20, 20191.) Export all firewall/system logs on your network (From your Network Firewall and or router if you’re on a home network)2.) Screenshot and or capture the evidence (the wa...Read more »Why is someone asking me to run AnyDesk software on my computer?Sharon BarnesAnswered July 23, 2021I was contacted by a scammer yesterday, returning her call as she said I was just about to be debited $40, my monthly fee for Amazon Prime which I knew I hadn’t signed up f...Read more »Can viruses or malware infect computers via TeamViewer?David Vanderschel, Polymath with PhD in math. Knowledgeable about computer internalsAnswered November 20, 2017A2A: The program itself has no known such vulnerabilities. However, since such vulnerabilities can be discovered, you should be sure to keep it (and all your software) up t...Read more »Did someone hack me through TeamViewer? What should I do?Karthik UdayAnswered August 26, 2016I had read messages in forums just few weeks back about TeamViewer being hacked. So, it is quite possible that yours too might be hacked.Read more »If someone connects to me by TeamViewer, can they get my public IP?Richard Taylor, Been working with wired then wireless networks since 1970.Answered July 6, 2020Q: If someone connects to me by TeamViewer, can they get my public IP?Possibly, but it does not really matter if they do get your public IP address. If you are behind a NAT...Read more »My potential employer asked me to turn on TeamViewer to check my personal Mac for technical requirements. How do I increase my security? I want to protect my laptop before turning it on. My job is part-time and online.Matt P., Software developer, sailor and seeing life is a rogue wave in a quantum seaUpdated May 24, 2017Check your laptop for “technical requirements”? What on Earth does that mean?!?Your personal property is exactly that. They have no need or right to inspect your personal p...Read more »How can AnyDesk users (or any other remote access software users) avoid getting trapped into remote access scams by scammers/hackers?Ayush Kumar, Basic Knowledge about the laws of hacking.Answered September 8Any Hacker or scammer cannot access as remote until unless you provide any unnecessary permission to your application.Use a verified source for remote acces , don't install...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

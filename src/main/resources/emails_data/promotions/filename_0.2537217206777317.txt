@@ -1,0 +1,440 @@
+Stories from your activity
+
+-----
+
+
+Question: What is the auto correct?
+
+Answer from Angel Summers
+
+Autocorrect is a tool that steps in when you completely butcher words, and also tries to fix words that it thinks you’ve spelled wrong based on the words that you type most of
+Read More: https://www.quora.com/What-is-the-auto-correct/answer/Angel-Summers-2
+-----
+Question: How are typing auto-correct or suggest algorithms implemented?
+
+Answer from Ajeet Yadav
+
+I will start again, this was my prefinal year project and reason for choosing it because i was keen to know the working of prediction during texting. Since my project was in j
+Read More: https://www.quora.com/How-are-typing-auto-correct-or-suggest-algorithms-implemented/answer/Ajeet-Yadav-30
+-----
+Question: How advanced is the best AI in 2017, and how advanced could the best AI be in 2037?
+
+Answer from Gary Wang
+
+General AI is still a whiles away, however I think we're making tremendous strides in various very important areas that are essential precursors to general AI:
+
+1. Vision : im
+Read More: https://www.quora.com/How-advanced-is-the-best-AI-in-2017-and-how-advanced-could-the-best-AI-be-in-2037/answer/Gary-Wang-57
+-----
+Question: Is there an A.I. that can fully understand grammar and answer back with good grammar?
+
+Answer from Steven
+
+First, there is no formal grammar that completely captures all the complexities of natural language. So if an AI is to understand all aspects of a natural language, it has to 
+Read More: https://www.quora.com/Is-there-an-A-I-that-can-fully-understand-grammar-and-answer-back-with-good-grammar/answer/Steven-2225
+-----
+Question: Is it 'Grammer' or 'Grammar'? If it is 'Grammar' then, why doesn't the autocorrect on my cellphone correct it?
+
+Answer from Om Prakash Tyagi (अैाम प्रकाश त्यागी)
+
+The proper word is …..GRAMMAR.
+
+There is something wrong with your device.
+
+Before writing this answer, I picked up my device and wrote the word as ……. GRAMMER .
+
+The device r
+Read More: https://www.quora.com/Is-it-Grammer-or-Grammar-If-it-is-Grammar-then-why-doesnt-the-autocorrect-on-my-cellphone-correct-it/answer/अैाम-प्रकाश-त्यागी-Om-Prakash-Tyagi
+-----
+Question: How will AI advance dentistry?
+
+Answer from Mike West
+
+Anything that uses medical imaging will eventually use machine learning models.
+
+Medical imaging with deep learning models is making incredible advances.
+
+As Andrew Ng stated…
+Read More: https://www.quora.com/How-will-AI-advance-dentistry/answer/Mike-West-99
+-----
+Question: What kind of grammar mistakes does "Grammarly (grammar checker) advanced issue" catch?
+
+Answer from Martha S. Lyon
+
+Q: What kind of grammar mistakes does “Grammarly (grammar checker) advanced issue” catch?
+
+A: Below are examples of the errors I found on Grammarly’s website that will help yo
+Read More: https://www.quora.com/What-kind-of-grammar-mistakes-does-Grammarly-grammar-checker-advanced-issue-catch/answer/Martha-S-Lyon
+-----
+Question: How advanced is the Replika AI?
+
+Answer from Kiryl Persianov
+
+I have answered recently that there are NO true AI bots, but some advanced conversational programs, as rule-based bots or ML bots, each sort with its advantages and disadvanta
+Read More: https://www.quora.com/How-advanced-is-the-Replika-AI/answer/Kiryl-Persianov
+-----
+Question: How fast is AI developing?
+
+Answer from Alfonso Llanes
+
+AI Digital Freight Rating
+
+What’s driving the demand for automation of freight services?
+
+Whether producer use vessels, trains, planes, or 18-wheeler trailers, to transport th
+Read More: https://www.quora.com/How-fast-is-AI-developing/answer/Alfonso-Llanes
+-----
+Question: Which countries have the best AI Technology?
+
+Answer from Ben Podgursky
+
+China (by one count). The US (by the other count)
+
+ * Alibaba (China)
+ * Amazon (US)
+ * Apple (US)
+ * Baidu (China)
+ * Facebook (US)
+ * Google (US)
+ * IBM (US)
+ * Microsoft (U
+Read More: https://www.quora.com/Which-countries-have-the-best-AI-Technology/answer/Ben-Podgursky
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1663720976931480&et=130&id=759416ece77341eea7db149af05378ef&source&src=1&st=1663720976939346&stories=1_agS4a4tceya%7C1_Yeolr0SA4aD%7C1_ocwdYHhjuuu%7C1_VvxZ0VeW4oi%7C1_LtJwVJepD5i%7C1_LupcoPakpWA%7C1_zcMlE0LlYey%7C1_m4VnNA6ziVy%7C1_diCxtPUiqgq%7C1_onxD2iRxQp6&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=759416ece77341eea7db149af05378ef&t=1663720978055078&token=94aeab90f9646d37607c2e89e343707bcb861be17bb1583356f276dbbfc30400403cd572984fb2716b5e8c99cc5c6fc97ac0c3c471caa4c5a4177c03d670dcb3&type=130&uid=610629155
+
+
+
+
+
+
+
+
+Answer: Autocorrect is a tool that steps in when you completely butcher words.​.​.​
+
+Stories from your activity
+
+
+
+
+
+
+
+
+
+
+
+What is the auto correct?
+
+
+
+ 
+
+
+
+
+Angel Summers, B.S.N Nursing, Georgia Southen University (2024)
+
+Written May 10, 2018
+
+
+
+
+Autocorrect is a tool that steps in when you completely butcher words, and also tries to fix words that it thinks you’ve spelled wrong based on the words that you type most often.
+... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+How are typing auto-correct or suggest algorithms implemented?
+
+
+
+ 
+
+
+
+
+Ajeet Yadav, Analyst at ZS Associates
+
+Updated Apr 15, 2018
+
+
+
+
+I will start again, this was my prefinal year project and reason for choosing it because i was keen to know the working of prediction during texting. Since my project was i... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How advanced is the best AI in 2017, and how advanced could the best AI be in 2037?
+
+
+
+ 
+
+
+
+
+Gary Wang, studied Computer Science
+
+Written Jan 26, 2016
+
+
+
+General AI is still a whiles away, however I think we're making tremendous strides in various very important areas that are essential precursors to general AI:
+1. Vision : i... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is there an A.I. that can fully understand grammar and answer back with good grammar?
+
+
+
+ 
+
+
+
+
+Steven, Theoretical computer science and other stuff
+
+Written Jul 5, 2015
+
+
+
+First, there is no formal grammar that completely captures all the complexities of natural language. So if an AI is to understand all aspects of a natural language, it has ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Is it 'Grammer' or 'Grammar'? If it is 'Grammar' then, why doesn't the autocorrect on my cellphone correct it?
+
+
+
+ 
+
+
+
+
+Om Prakash Tyagi (अैाम प्रकाश त्यागी), knows English
+
+Written Jan 9, 2018
+
+
+
+The proper word is …..GRAMMAR.
+There is something wrong with your device.
+Before writing this answer, I picked up my device and wrote the word as ……. GRAMMER .
+The device read ….. GRAMMAR. Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How will AI advance dentistry?
+
+
+
+ 
+
+
+
+
+Mike West, lives in Atlanta, GA
+
+Written Oct 12, 2019
+
+
+
+Anything that uses medical imaging will eventually use machine learning models.
+Medical imaging with deep learning models is making incredible advances.
+As Andrew Ng stated… ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What kind of grammar mistakes does "Grammarly (grammar checker) advanced issue" catch?
+
+
+
+ 
+
+
+
+
+Martha S. Lyon, Top Writer 2018; Former language and GED instructor, OH/NY
+
+Written Nov 29, 2020
+
+
+
+Q: What kind of grammar mistakes does “Grammarly (grammar checker) advanced issue” catch?
+A: Below are examples of the errors I found on Grammarly’s website that will help y... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How advanced is the Replika AI?
+
+
+
+ 
+
+
+
+
+Kiryl Persianov, Ph.D. PhD in Theoretical Physics & Artificial Intelligence
+
+Written Jul 2, 2020
+
+
+
+
+I have answered recently that there are NO true AI bots, but some advanced conversational programs, as rule-based bots or ML bots, each sort with its advantages and disadvantages.
+... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How fast is AI developing?
+
+
+
+ 
+
+
+
+
+Alfonso Llanes, M.A. International Economics, Florida International University (1998)
+
+Written May 23, 2019
+
+
+
+AI Digital Freight Rating
+What’s driving the demand for automation of freight services?
+Whether producer use vessels, trains, planes, or 18-wheeler trailers, to transport the... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Which countries have the best AI Technology?
+
+
+
+ 
+
+
+
+
+Ben Podgursky, MS Computer Science, Vanderbilt University (2011)
+
+Written Aug 12, 2019
+
+
+
+China (by one count). The US (by the other count)
+
+Alibaba (China)
+Amazon (US)
+Apple (US)...
+ Read More »
+
+
+
+
+
+
+ 
+
+Search More on Quora
+
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+

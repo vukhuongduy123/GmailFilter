@@ -1,0 +1,112 @@
+Stories from your activity
+
+-----
+
+Question: Does an octa-core processor mean that I can run 8 processes parallel at the same time without any time lag?
+
+
+Answer from Simon Gardner
+
+
+Yes kind of, but it very much depends on what those processes are doing and how they are doing it.
+
+Most programs require frequent access to memory (ie RAM) and with a mul 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDQ3MDkwODE5In0%3D&al_pri=8&aoid=bYqE5mvAP9i&aoty=1&aty=4&cp=1&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=bYqE5mvAP9i&uid=3jcQmF94xLr&v=0
+-----
+Question: Can multi core cpu run multiple processes in parallel?
+
+
+Answer from Erik Fair
+
+
+Consider the phrase “central processing unit” - it implies exactly one processor.
+
+A “multicore CPU” is a contradiction in terms - if there’s more than processor, how can  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDI3MjQwMDIzIn0%3D&al_pri=8&aoid=9B2y3Jd8SgK&aoty=1&aty=4&cp=2&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=9B2y3Jd8SgK&uid=3jcQmF94xLr&v=0
+-----
+Question: What does 2 core 4 threads mean in a cpu? I am talking about this cpu.  ARK | Intel® Core™ i5-520M Processor (3M Cache, 2.40 GHz)
+
+
+Answer from Willie Abrasaldo
+
+
+It means it might be able to process a maximum of 4 threads per core. So a 2-core CPU with multi-threading of 4 means it can possibly process a maximum of 8 threads or rou 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDEwODI5NTAyNCJ9&al_pri=8&aoid=MS5HKfjVr6T&aoty=1&aty=4&cp=3&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=MS5HKfjVr6T&uid=3jcQmF94xLr&v=0
+-----
+Question: Do computers execute one instruction at a time? If there are four processes at a given moment, does that mean the computer executes four instructions, or does it execute one?
+
+
+Answer from Victor Eijkhout
+
+
+This is a very tricky question, with several layers of answers. I will sketch what all can be happening simultaneously at any given moment. Note: what I'm sketching below  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDE0OTIwMzg5In0%3D&al_pri=8&aoid=8xbaDS36gFZ&aoty=1&aty=4&cp=4&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=8xbaDS36gFZ&uid=3jcQmF94xLr&v=0
+-----
+Question: Which processor is faster - A (single-thread, dual-core) or B (dual-thread, single-core)?
+
+
+Answer from Milad Mohammadi
+
+
+Thread has two contexts: software thread and hardware thread. 
+
+When we say single core, 2 threads, we refer to a single processor that has "some" of its critical resource 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDg1NzY3NjIifQ%3D%3D&al_pri=8&aoid=VwKnAlDD3cr&aoty=1&aty=4&cp=5&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=VwKnAlDD3cr&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the difference between CPU thread and OS thread?
+
+
+Answer from Tom Borkowski
+
+
+Here is an explanation for having two terms for “thread”:
+
+In the past, computers could execute only one instruction at a time, but very rapidly. And today’s computers exe 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDMyODU2Mjc0In0%3D&al_pri=8&aoid=Y3fCTtAC2ZS&aoty=1&aty=4&cp=6&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=Y3fCTtAC2ZS&uid=3jcQmF94xLr&v=0
+-----
+Question: Will there be a time when 4 threads per core is a thing?
+
+
+Answer from Marcelo Pacheco
+
+
+Sparc CPUs have designs with 8 threads per core. Of course those are super high end processors meant to run very high end servers. Oracle/Sun have servers with multiple CP 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDI5MjgzMzY4MiJ9&al_pri=8&aoid=12WLMkqPXV4&aoty=1&aty=4&cp=7&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=12WLMkqPXV4&uid=3jcQmF94xLr&v=0
+-----
+Question: How many threads can run in parallel?
+
+
+Answer from Pablo Fuente Salas
+
+
+have you ever used a computer that has too many windows open and then you ask “why this computer is so damn slow?”
+
+well that is actually running a lot of threads in paral 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDE5OTQ1Mjc5MCJ9&al_pri=8&aoid=ddY4g3rMKt4&aoty=1&aty=4&cp=8&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=ddY4g3rMKt4&uid=3jcQmF94xLr&v=0
+-----
+Question: If a computer has only one CPU, do multi-threaded programs provide any performance improvements over single-threaded programs?
+
+
+Answer from Lalit Vatsal
+
+
+As you must be knowing that the multi-threading “in a single core system” is just time-interleaved multiple tasks (or threads) running together with context switching betw 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDQ2MDExODA1In0%3D&al_pri=8&aoid=IQM7EojbrKx&aoty=1&aty=4&cp=9&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=IQM7EojbrKx&uid=3jcQmF94xLr&v=0
+-----
+Question: What is the difference between the thread of a process and the child of a process? What are some real time examples?
+
+
+Answer from Shanika Ediriweera
+
+
+A process is an executing program. A process may have one or more threads.
+
+A child process is a process created by another process (the parent process). This technique is 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwyMjYyNTAwNiJ9&al_pri=8&aoid=mZz3NXpYSGd&aoty=1&aty=4&cp=10&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source=7&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty=1&ty_data=mZz3NXpYSGd&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1669333735107600&et=130&id=8ac34a03b8db4a12bcc16aa218d3169d&source&src=1&st=1669333735109934&stories=1_bYqE5mvAP9i%7C1_9B2y3Jd8SgK%7C1_MS5HKfjVr6T%7C1_8xbaDS36gFZ%7C1_VwKnAlDD3cr%7C1_Y3fCTtAC2ZS%7C1_12WLMkqPXV4%7C1_ddY4g3rMKt4%7C1_IQM7EojbrKx%7C1_mZz3NXpYSGd&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=8ac34a03b8db4a12bcc16aa218d3169d&t=1669333735119412&token=65982d02505994ca97c8eb4d83f3d1e4b061abc990403f3a374aea42b39b923e8a773e2fab49a9da87a58a4272eebc9676b3424ac2849b758281b57df5a787e5&type=130&uid=610629155More related to "If a CPU is a dual core with 4 threads, does that mean it can run only 4 programs (pr...?"Yes kind of, but it very much depends on what those processes are doing and how they are doing it. Most programs require frequent access to memory (ie RAM) and with a multi-core processor each cor…Stories from your activityDoes an octa-core processor mean that I can run 8 processes parallel at the same time without any time lag?Simon Gardner, works at Holistic SystemsAnswered June 10, 2017Yes kind of, but it very much depends on what those processes are doing and how they are doing it.Most programs require frequent access to memory (ie RAM) and with a multi-...Read more »Can multi core cpu run multiple processes in parallel?Erik Fair, UNIX systems programmer (kernel hacker) since 1983Answered August 31, 2016Consider the phrase “central processing unit” - it implies exactly one processor.A “multicore CPU” is a contradiction in terms - if there’s more than processor, how can any...Read more »What does 2 core 4 threads mean in a cpu? I am talking about this cpu. ARK | Intel® Core™ i5-520M Processor (3M Cache, 2.40 GHz)Willie AbrasaldoUpdated November 23, 2018It means it might be able to process a maximum of 4 threads per core. So a 2-core CPU with multi-threading of 4 means it can possibly process a maximum of 8 threads or rout...Read more »Do computers execute one instruction at a time? If there are four processes at a given moment, does that mean the computer executes four instructions, or does it execute one?Victor Eijkhout, To quote Grace Hopper: "Hardware is the part of a computer that you can kick".Updated January 26, 2020This is a very tricky question, with several layers of answers. I will sketch what all can be happening simultaneously at any given moment. Note: what I'm sketching below i...Read more »Which processor is faster - A (single-thread, dual-core) or B (dual-thread, single-core)?Milad Mohammadi, works at IntelAnswered December 12, 2014Thread has two contexts: software thread and hardware thread.When we say single core, 2 threads, we refer to a single processor that has "some" of its critical resources/t...Read more »What is the difference between CPU thread and OS thread?Tom Borkowski, retired software manager studying grammar & human behaviorUpdated October 17, 2021Here is an explanation for having two terms for “thread”:In the past, computers could execute only one instruction at a time, but very rapidly. And today’s computers execut...Read more »Will there be a time when 4 threads per core is a thing?Marcelo Pacheco, Studying thorium energy since right after FukushimaAnswered July 1, 2021Sparc CPUs have designs with 8 threads per core. Of course those are super high end processors meant to run very high end servers. Oracle/Sun have servers with multiple CPU...Read more »How many threads can run in parallel?Pablo Fuente SalasAnswered February 22, 2020have you ever used a computer that has too many windows open and then you ask “why this computer is so damn slow?”well that is actually running a lot of threads in parallel...Read more »If a computer has only one CPU, do multi-threaded programs provide any performance improvements over single-threaded programs?Lalit Vatsal, A Professional Software Developer.Answered May 30, 2017As you must be knowing that the multi-threading “in a single core system” is just time-interleaved multiple tasks (or threads) running together with context switching betwe...Read more »What is the difference between the thread of a process and the child of a process? What are some real time examples?Shanika Ediriweera, Final year undergrad in Computer Science & EngineeringAnswered May 12, 2016A process is an executing program. A process may have one or more threads.A child process is a process created by another process (the parent process). This technique is us...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

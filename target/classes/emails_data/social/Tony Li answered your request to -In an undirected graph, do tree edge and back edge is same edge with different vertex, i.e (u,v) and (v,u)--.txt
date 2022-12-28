@@ -1,0 +1,85 @@
+New Answer
+
+-----
+
+Tony Li answered the question "In an undirected graph, do tree edge and back edge is same edge with different vertex, i.e (u,v) and (v,u)?":
+
+"In an undirected graph, there’s no such thing as a ‘back edge’. An edge simply has two vertices. (u,v) and (v,u) are just two different names for the same edge."
+
+
+To see the question page with all answers, visit:
+https://www.quora.com/qemail/track_click?aoid=MaO1j2kVmxA&aoty=16&aty=4&cp=0&ct=1659927901743297&et=103&force_notif_url&id=01991362857447b6975e35b1776032ce&notif_url=%2FIn-an-undirected-graph-do-tree-edge-and-back-edge-is-same-edge-with-different-vertex-i-e-u-v-and-v-u%2Fanswer%2FTony-Li-19&request_id=4&src=1&st=1659927901749642&stories=40432331114&uid=3jcQmF94xLr&v=0
+
+
+
+We sent you this email because you want answers to this question. To stop wanting answers, click this link: 
+https://www.quora.com/qemail/track_click?aoid=8PRDybbj7My&aoty=2&aty=12&cp=0&ct=1659927901743297&et=103&id=01991362857447b6975e35b1776032ce&request_id=4&src=1&st=1659927901749642&stories=40432331114&uid=3jcQmF94xLr&v=0
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1659927901743297&et=103&id=01991362857447b6975e35b1776032ce&request_id=4&src=1&st=1659927901749642&stories=40432331114&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/notif_unsubscribe?snid=40432331114&t=1659927901755654&token=45d780d99662b308da3f66953d54e3e4842f67d8befbec97db169cc993ccf7e89f836c468dfec15ad21804a8215808d0cfd0703a334beeb98f93eae7c059130b&type=4&uid=610629155
+
+
+
+
+
+
+
+
+
+
+New Answer
+
+
+
+
+
+
+
+
+
+
+In an undirected graph, do tree edge and back edge is same edge with different vertex, i.e (u,v) and (v,u)?
+
+
+
+ 
+
+
+
+
+Tony Li, Ph.D. Computer Science, University of Southern California (1990)
+
+Written 16m ago
+
+
+In an undirected graph, there’s no such thing as a ‘back edge’. An edge simply has two vertices. (u,v) and (v,u) are just two different names for the same edge.
+
+
+Is this a useful answer to your question?
+
+Your feedback is private.
+
+YesNo
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+We sent you this email because you follow the question. Unfollow this Question
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+
+

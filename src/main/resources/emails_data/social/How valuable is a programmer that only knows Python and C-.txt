@@ -1,0 +1,100 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: How valuable is a programmer that only knows Python and C++?
+
+Answer from Gary Hollis
+
+The answer is a paradox:
+
+1. A programmer who only knows C++ and Python is useless.
+2. No programmers who know C++ and Python only know C++ and Python.
+If you know how to writ
+Read More: http://www.quora.com/How-valuable-is-a-programmer-that-only-knows-Python-and-C?top_ans=99701685
+-----
+Question: I'm a time traveler. No one believes me. How can I convince them otherwise?
+
+Answer from Greg Clifford
+
+We're all time travellers, all moving gradually into the future at the same rate.
+
+If you claim you travelled back in time, you just need some simple evidence or proof. Consis
+Read More: http://www.quora.com/Im-a-time-traveler-No-one-believes-me-How-can-I-convince-them-otherwise?top_ans=224032081
+-----
+Question: Why is nuclear fusion 'always 30 years away'?
+
+Answer from Steve Baker
+
+Because this is what all engineers and scientists say when you stick a microphone in their face and ask how long something will take - for which they don’t know the answer.
+
+(
+Read More: http://www.quora.com/Why-is-nuclear-fusion-always-30-years-away?top_ans=244171443
+-----
+Question: Why do many developers dislike OOP when it has proven itself in practice?
+
+Answer from Andrew Bromage
+
+There is no doubt that some beginners fear or misunderstand OOP. But an experienced programmer would probably start by making positive points like this:
+
+ * At the time that O
+Read More: http://www.quora.com/Why-do-many-developers-dislike-OOP-when-it-has-proven-itself-in-practice?top_ans=235703538
+-----
+Question: What if Minecraft wasn’t free?
+
+Answer from Christopher Abrahams
+
+Minecraft holds the record for being “the best selling game of all time”
+
+There is a word in that sentence that gives it away.
+
+Minecraft only became popular long after Notch 
+Read More: http://www.quora.com/What-if-Minecraft-wasn-t-free?top_ans=243992682
+-----
+Question: Where do old programmers go?
+
+Answer from Clifford Meyer
+
+Old programmer here.
+
+I’m 57 and haven’t worked professionally as a programmer since I was 43. Some time after the dotcom boom and bust, employment agencies in the U.K. decide
+Read More: http://www.quora.com/Where-do-old-programmers-go?top_ans=47871989
+-----
+Question: I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do?
+
+Answer from Matt Laine
+
+I didn’t go to college for a degree in Computer Science or Software Engineering. My first career was in helping people do well on standardized tests and get admitted to the un
+Read More: http://www.quora.com/Im-27-year-old-and-just-starting-to-learn-coding-When-I-see-younger-kids-learn-coding-I-feel-they-will-have-an-unfair-advantage-over-me-since-they-are-learning-before-me-What-should-I-do?top_ans=210016947
+-----
+Question: I am trying to learn c++.I follow YouTube playlists and practice myself.But after completing tutorials, I forget everything within 10-15 days.Then I again try to learn and again forget.This has happend 4 times.What is the correct way to learn it?
+
+Answer from Kurt Guntheroth
+
+You cannot learn programming or C++ by watching a video. What cements learning into your brain so that you don’t immediately forget is practice. You have to write little examp
+Read More: http://www.quora.com/I-am-trying-to-learn-c-I-follow-YouTube-playlists-and-practice-myself-But-after-completing-tutorials-I-forget-everything-within-10-15-days-Then-I-again-try-to-learn-and-again-forget-This-has-happend-4-times-What-is?top_ans=244662866
+-----
+Question: Why does potassium chloride stop the heart?
+
+Answer from David Min
+
+KCl is the salt in the suicide machine invented by Jack Kevorkian. Regardless of your opinion on that, its now what is used in the lethal injection to execute killers. Why? It
+Read More: http://www.quora.com/Why-does-potassium-chloride-stop-the-heart?top_ans=244499919
+-----
+Question: Is Spring MVC still used in 2020?
+
+Answer from Alan Mellor
+
+I’m not seeing much server side html generation, more RestController s returning JSON.
+
+That still the same kind of thing, but to my mind ‘Spring MVC’ means html generation. T
+Read More: http://www.quora.com/Is-Spring-MVC-still-used-in-2020?top_ans=238783775
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1603875105573432&et=2&id=b7bdbbcc55b746d4b7400e42bc65f1a4&request_id=702742078555434869&source&src=1&st=1603875105573432&stories=1_R51StidhBh8%7C1_4n08yju3FZA%7C1_RUG1OIlrDsQ%7C1_mCFevh7AEax%7C1_M4k6MIg0ms4%7C1_VF6BoWyZsyh%7C1_RUXHsGQrUe2%7C1_93GP2N6Mhdx%7C1_LCguDUuL4oK%7C1_jtyCO3dWWe2&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=b7bdbbcc55b746d4b7400e42bc65f1a4&t=1603875106105915&token=c7c55719854db5acee784c6fa1f1ffe8519d8b42cb397332276e583e17f36f1fe5b40df70b300c0109df97416cfd6d7f06c24066185d035b065bb18260e0a03e&type=2&uid=610629155
+Answer: The answer is a paradox:  1.​ A programmer who only knows C++ and Pytho.​.​.​Duy's DigestTop Stories For YouHow valuable is a programmer that only knows Python and C++? Gary Hollis, works at University of South CarolinaWritten Sep 15, 2018The answer is a paradox:A programmer who only knows C++ and Python is useless.No programmers who know C++ and Python only know C++ and Python.If you know how to write softw... Read More »I'm a time traveler. No one believes me. How can I convince them otherwise? Greg Clifford, lives in LondonWritten Jun 26We're all time travellers, all moving gradually into the future at the same rate.If you claim you travelled back in time, you just need some simple evidence or proof. Consi... Read More »Why is nuclear fusion 'always 30 years away'? Steve BakerWritten Oct 14Because this is what all engineers and scientists say when you stick a microphone in their face and ask how long something will take - for which they don’t know the answer.... Read More »Why do many developers dislike OOP when it has proven itself in practice? Andrew Bromage, 70+ programming languages, lost countWritten Aug 27There is no doubt that some beginners fear or misunderstand OOP. But an experienced programmer would probably start by making positive points like this:At the time that OOP... Read More »What if Minecraft wasn’t free? Christopher Abrahams, GamerWritten Oct 13Minecraft holds the record for being “the best selling game of all time”There is a word in that sentence that gives it away.Minecraft only became popular long after Notch s... Read More »Where do old programmers go? Clifford Meyer, I am still a computer programmer.Written Jun 19, 2017Old programmer here.I’m 57 and haven’t worked professionally as a programmer since I was 43. Some time after the dotcom boom and bust, employment agencies in the U.K. decid... Read More »I'm 27 year old and just starting to learn coding. When I see younger kids learn coding I feel they will have an unfair advantage over me since they are learning before me. What should I do? Matt Laine, Father of QuoraWritten Apr 17I didn’t go to college for a degree in Computer Science or Software Engineering. My first career was in helping people do well on standardized tests and get admitted to the... Read More »I am trying to learn c++.I follow YouTube playlists and practice myself.But after completing tutorials, I forget everything within 10-15 days.Then I again try to learn and again forget.This has happend 4 times.What is the correct way to learn it? Kurt GuntherothWritten Oct 17You cannot learn programming or C++ by watching a video. What cements learning into your brain so that you don’t immediately forget is practice. You have to write little ex... Read More »Why does potassium chloride stop the heart? David MinWritten Oct 16KCl is the salt in the suicide machine invented by Jack Kevorkian. Regardless of your opinion on that, its now what is used in the lethal injection to execute killers. Why?... Read More »Is Spring MVC still used in 2020? Alan Mellor, Senior Java DeveloperWritten Sep 14I’m not seeing much server side html generation, more RestController s returning JSON.That still the same kind of thing, but to my mind ‘Spring MVC’ means html generation. ... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

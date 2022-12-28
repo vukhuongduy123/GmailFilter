@@ -5,33 +5,37 @@ import model.MessageModel;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
-import java.util.ArrayList;
 import java.util.List;
 
 @Getter
 public class EmailsTableView {
 	private final JTable table;
 	private final JScrollPane scrollPane;
-	private final List<MessageModel> messageModel = new ArrayList<>();
-	private final DefaultTableModel defaultTableModel;
+	//private final List<MessageModel> messageModel = new ArrayList<>();
 
 	public EmailsTableView() {
-		defaultTableModel = new DefaultTableModel(new String[][]{}, new String[]{"FROM", "SUBJECT",
-				"LABELS", "CLASSIFY"});
-		table = new JTable(defaultTableModel);
-
-		//table.setDefaultRenderer(Object.class, new CellRender());
+		table = new JTable(new DefaultTableModel(new String[][]{}, new String[]{"FROM", "SUBJECT",
+				"LABELS", "CLASSIFY"}));
 		table.setFillsViewportHeight(true);
 		scrollPane = new JScrollPane(table);
 	}
 
-	public void addEmail(MessageModel model) {
-		String[] rowValues = new String[4];
-		rowValues[0] = model.getSender();
-		rowValues[1] = model.getSubject();
-		rowValues[2] = model.getLabels();
-		rowValues[3] = model.getClassification();
-		((DefaultTableModel) table.getModel()).addRow(rowValues);
-		messageModel.add(model);
+	public void addEmail(List<MessageModel> model) {
+		for (MessageModel messageModel : model) {
+			String[] rowValues = new String[4];
+			rowValues[0] = messageModel.getSender();
+			rowValues[1] = messageModel.getSubject();
+			rowValues[2] = messageModel.getLabels();
+			rowValues[3] = messageModel.getClassification();
+			((DefaultTableModel) table.getModel()).addRow(rowValues);
+		}
+	}
+
+	public void removeAll() {
+		DefaultTableModel model = (DefaultTableModel) table.getModel();
+		int rows = model.getRowCount();
+		for (int i = rows - 1; i >= 0; i--) {
+			model.removeRow(i);
+		}
 	}
 }

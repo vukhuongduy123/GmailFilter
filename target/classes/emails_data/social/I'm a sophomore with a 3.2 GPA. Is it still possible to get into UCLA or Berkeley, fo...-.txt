@@ -1,0 +1,106 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: I'm a sophomore with a 3.2 GPA. Is it still possible to get into UCLA or Berkeley, for example? And how much could I improve in my GPA (being realistic)?
+
+Answer from Jenna Joon
+
+Hi! I was a teacher, and I graduated from UCLA, so i have a little insight on this.
+
+First of all, you are only a sophomore, and the school year is not finished yet. Go to eve
+Read More: http://www.quora.com/Im-a-sophomore-with-a-3-2-GPA-Is-it-still-possible-to-get-into-UCLA-or-Berkeley-for-example-And-how-much-could-I-improve-in-my-GPA-being-realistic?top_ans=112550568
+-----
+Question: Why is C++ not portable?
+
+Answer from Ken Gregg
+
+C++ source code is highly portable, or can be if proper discipline is used.
+
+Some of the disciplines include, but are not limited to:
+
+ * Make no assumptions about the size of
+Read More: http://www.quora.com/Why-is-C-not-portable?top_ans=220336200
+-----
+Question: In the Marvel intro, why is the first thing we see of Black Widow is her breast?
+
+Answer from Richard Mason
+
+“In the Marvel intro, why is the first thing we see of Black Widow is her breast?”
+
+It isn’t.
+
+The first thing you see is her hand holding an electrified baton;
+
+https://www.y
+Read More: http://www.quora.com/In-the-Marvel-intro-why-is-the-first-thing-we-see-of-Black-Widow-is-her-breast?top_ans=210659071
+-----
+Question: If Hermione and her parents were Muggle-born, how did Hermione get into Hogwarts when the school was supposed to be kept a secret from the Muggles?
+
+Answer from Cassie Day
+
+Hermione’s parents were not muggleborns and Hermione was not a Muggle.
+
+There are five categories you can fall into:
+
+ * Muggle - You have no magical heritage and you are not 
+Read More: http://www.quora.com/If-Hermione-and-her-parents-were-Muggle-born-how-did-Hermione-get-into-Hogwarts-when-the-school-was-supposed-to-be-kept-a-secret-from-the-Muggles?top_ans=208283944
+-----
+Question: Why is VSCode nearly 300 megabytes while Sublime Text is just 16 megabytes?
+
+Answer from Richard Kenneth Eng
+
+Because Visual Studio Code is based on Electron, which is a horribly, horribly bloated framework that combines the Chromium rendering engine with the Node.js runtime. Writing 
+Read More: http://www.quora.com/Why-is-VSCode-nearly-300-megabytes-while-Sublime-Text-is-just-16-megabytes?top_ans=205647691
+-----
+Question: Did Thanos fear Odin?
+
+Answer from Tony Poole
+
+If this is his reaction to having his heart torn out, it fair to say fear doesn’t enter into his vocabulary.
+
+That doesn’t mean Thanos could beat Odin. Thanos and the Silver S
+Read More: http://www.quora.com/Did-Thanos-fear-Odin?top_ans=126157478
+-----
+Question: Apple bought Beats to help get into the music streaming service, so why not buy Netflix for movie streaming?
+
+Answer from Michael Vogel
+
+
+> Apple bought Beats to help get into the music streaming service, so why not buy Netflix for movie streaming?
+Multiple reasons:
+
+ * Apple bought Beats for $3.2 billion. Netf
+Read More: http://www.quora.com/Apple-bought-Beats-to-help-get-into-the-music-streaming-service-so-why-not-buy-Netflix-for-movie-streaming?top_ans=189192732
+-----
+Question: Do programmers care if you are experienced but bad at coding?
+
+Answer from Joseph Hopper
+
+I have worked with exactly 1 programmer that has been fired. He was hired within a few days of me. This was my first ever software job. He had been a software engineer for nea
+Read More: http://www.quora.com/Do-programmers-care-if-you-are-experienced-but-bad-at-coding?top_ans=207533150
+-----
+Question: Why did Thanos make that weird face when Captain America held his hand in the Wakanda battle?
+
+Answer from Joshua Steele
+
+This question is one that I have been waiting for as an answer ever since the movie was released and now I finally have the answer. be prepared it’s a big one.
+
+Ok, look close
+Read More: http://www.quora.com/Why-did-Thanos-make-that-weird-face-when-Captain-America-held-his-hand-in-the-Wakanda-battle?top_ans=223106217
+-----
+Question: I have been accepted to Carnegie Mellon for CS and Imperial for Math and CS. What should I do? Cost is not an issue.
+
+Answer from Brett Elkins
+
+I would go to the number one ranked computer science program in the USA (always 1–3) and one that the average graduate works at major techs like google, Facebook and Amazon at
+Read More: http://www.quora.com/I-have-been-accepted-to-Carnegie-Mellon-for-CS-and-Imperial-for-Math-and-CS-What-should-I-do-Cost-is-not-an-issue?top_ans=219217820
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1595408554521391&et=2&id=11d4d4bf2a17423ebac41f60169a83a3&request_id=1696145791007982311&source&src=1&st=1595408554521391&stories=1_qZop4f2YyJ7%7C1_4bH5jPlmbKu%7C1_VvQej73sGPZ%7C1_3OupXpnR9TF%7C1_4B1LbyNpnhH%7C1_qRfmAQnqyUT%7C1_jeHFi4xuab7%7C1_aa4CUjF7Hw2%7C1_qwmrGfbfpeK%7C1_IeWSApPtdvj&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=11d4d4bf2a17423ebac41f60169a83a3&t=1595408554713680&token=f314d0538a31eb30eaa68da7ab10d1a3d2f8b70617cbeb0457f7142a7b64f33acaac661d0db1d726ef5a64feca3d643428221a1cec7e5d9accd3221f3fa8188a&type=2&uid=610629155
+Answer: Hi! I was a teacher, and I graduated from UCLA, so i have a little ins.​.​.​Duy's DigestTop Stories For YouI'm a sophomore with a 3.2 GPA. Is it still possible to get into UCLA or Berkeley, for example? And how much could I improve in my GPA (being realistic)? Jenna JoonWritten Dec 14, 2018Hi! I was a teacher, and I graduated from UCLA, so i have a little insight on this.First of all, you are only a sophomore, and the school year is not finished yet. Go to ev... Read More »Why is C++ not portable? Ken Gregg, Decades of Programming in C, C++, C#, assembly language, andWritten Jun 8C++ source code is highly portable, or can be if proper discipline is used.Some of the disciplines include, but are not limited to:Make no assumptions about the size of any data type.... Read More »In the Marvel intro, why is the first thing we see of Black Widow is her breast? Richard Mason, Comic geek, movie geek, comic-movie geek.Written Apr 21“In the Marvel intro, why is the first thing we see of Black Widow is her breast?”It isn’t.The first thing you see is her hand holding an electrified baton;And, if you’re p... Read More »If Hermione and her parents were Muggle-born, how did Hermione get into Hogwarts when the school was supposed to be kept a secret from the Muggles? Cassie DayUpdated May 8Hermione’s parents were not muggleborns and Hermione was not a Muggle.There are five categories you can fall into:Muggle - You have no magical heritage and you are not a wi... Read More »Why is VSCode nearly 300 megabytes while Sublime Text is just 16 megabytes? Richard Kenneth Eng, former Project Team Leader at ATI Technologies (1993-2000)Updated May 22Because Visual Studio Code is based on Electron, which is a horribly, horribly bloated framework that combines the Chromium rendering engine with the Node.js runtime. Writi... Read More »Did Thanos fear Odin? Tony Poole, Have watched all the movies multiple times (except Thor 2)Written Mar 5, 2019If this is his reaction to having his heart torn out, it fair to say fear doesn’t enter into his vocabulary.That doesn’t mean Thanos could beat Odin. Thanos and the Silver ... Read More »Apple bought Beats to help get into the music streaming service, so why not buy Netflix for movie streaming? Michael Vogel, been using Macs for 22 years, 12 years experience working for and with AppleUpdated Jan 3Apple bought Beats to help get into the music streaming service, so why not buy Netflix for movie streaming?Multiple reasons:Apple bought Beats for $3.2 billion. Netflix’s ... Read More »Do programmers care if you are experienced but bad at coding? Joseph Hopper, My patronus is a penguin.Written Apr 5I have worked with exactly 1 programmer that has been fired. He was hired within a few days of me. This was my first ever software job. He had been a software engineer for ... Read More »Why did Thanos make that weird face when Captain America held his hand in the Wakanda battle? Joshua Steele, read all the comics and watched all the movies and showsUpdated Jun 24This question is one that I have been waiting for as an answer ever since the movie was released and now I finally have the answer. be prepared it’s a big one.Ok, look closely... Read More »I have been accepted to Carnegie Mellon for CS and Imperial for Math and CS. What should I do? Cost is not an issue. Brett Elkins, Published Author, at Teach Your Teen to Drive and Stay Alive (2012-present)Written Jun 2I would go to the number one ranked computer science program in the USA (always 1–3) and one that the average graduate works at major techs like google, Facebook and Amazon... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

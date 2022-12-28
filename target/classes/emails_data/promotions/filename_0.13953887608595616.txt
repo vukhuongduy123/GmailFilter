@@ -1,0 +1,1523 @@
+
+
+
+/* latin-ext */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 300;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwaPGR_p.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 300;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPGQ.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* latin-ext */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+    /* latin-ext */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 700;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');
+      unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+    }
+
+    /* latin */
+    @font-face {
+      font-family: 'Lato';
+      font-style: normal;
+      font-weight: 700;
+      font-display: swap;
+      src: url(/fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');
+      unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+
+/* What it does: Remove spaces around the email design added by some email clients. */
+    /* Beware: It can remove the padding / margin and add a background color to the compose a reply window. */
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+      background: #ffffff;
+    }
+
+    /* What it does: Stops email clients resizing small text. */
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    /* What it does: Centers email on Android 4.4 */
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    /* What it does: Stops Outlook from adding extra spacing to tables. */
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    /* What it does: Fixes webkit padding issue. */
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    /* What it does: Uses a better rendering method when resizing images in IE. */
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    /* What it does: Prevents Windows 10 Mail from underlining links despite inline CSS. Styles for underlined links should be inline. */
+    a {
+      text-decoration: none;
+    }
+
+    /* What it does: A work-around for email clients meddling in triggered links. */
+    *[x-apple-data-detectors],
+    /* iOS */
+    .unstyle-auto-detected-links *,
+    .aBn {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    /* What it does: Prevents Gmail from displaying a download button on large, non-linked images. */
+    .a6S {
+      display: none !important;
+      opacity: 0.01 !important;
+    }
+
+    /* What it does: Prevents Gmail from changing the text color in conversation threads. */
+    .im {
+      color: inherit !important;
+    }
+
+    /* If the above doesn't work, add a .g-img class to any image in question. */
+    img.g-img+div {
+      display: none !important;
+    }
+
+    /* What it does: Removes right gutter in Gmail iOS app: https://github.com/TedGoas/Cerberus/issues/89  */
+    /* Create one of these media queries for each additional viewport size you'd like to fix */
+
+    /* iPhone 4, 4S, 5, 5S, 5C, and 5SE */
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .email-container {
+        min-width: 320px !important;
+      }
+    }
+
+    /* iPhone 6, 6S, 7, 8, and X */
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .email-container {
+        min-width: 375px !important;
+      }
+    }
+
+    /* iPhone 6+, 7+, and 8+ */
+    @media only screen and (min-device-width: 414px) {
+      u~div .email-container {
+        min-width: 414px !important;
+      }
+    }
+
+
+.primary {
+      background: #ff8b00;
+    }
+
+    .bg_white {
+      background: #ffffff;
+    }
+
+    .bg_light {
+      background: #f3f3f3;
+    }
+
+    .bg_black {
+      background: #000000;
+    }
+
+    .bg_dark {
+      background: rgba(0, 0, 0, .8);
+    }
+
+    .email-section {
+      padding: 15px;
+    }
+
+    /*BUTTON*/
+    .btn {
+      padding: 5px 20px;
+      display: inline-block;
+    }
+
+    .btn.btn-primary {
+      border-radius: 5px;
+      background: #ff8b00;
+      color: #ffffff;
+    }
+
+    .btn.btn-white {
+      border-radius: 5px;
+      background: #ffffff;
+      color: #000000;
+    }
+
+    .btn.btn-white-outline {
+      border-radius: 5px;
+      background: transparent;
+      border: 1px solid #fff;
+      color: #fff;
+    }
+
+    .btn.btn-black {
+      border-radius: 0px;
+      background: #000;
+      color: #fff;
+    }
+
+    .btn.btn-black-outline {
+      border-radius: 0px;
+      background: transparent;
+      border: 2px solid #000;
+      color: #000;
+      font-weight: 700;
+    }
+
+    .btn.btn-custom {
+      text-transform: uppercase;
+      font-weight: 600;
+      font-size: 12px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: 'Lato', sans-serif;
+      color: #000000;
+      margin-top: 0;
+      font-weight: 400;
+    }
+
+    body {
+      font-family: 'Lato', sans-serif;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 1.8;
+      color: #2C2C2C;
+    }
+
+    a {
+      color: #ff8b00;
+    }
+
+    p {
+      margin-top: 0;
+    }
+
+    table {}
+
+    /*LOGO*/
+
+    .logo h1 {
+      margin: 0;
+    }
+
+    .logo h1 a {
+      color: #000000;
+      font-size: 20px;
+      font-weight: 700;
+      /*text-transform: uppercase;*/
+      font-family: 'Lato', sans-serif;
+    }
+
+    .navigation {
+      padding: 0;
+      padding: 1em 0;
+      /*background: rgba(0,0,0,1);*/
+      border-top: 1px solid rgba(0, 0, 0, .05);
+      border-bottom: 1px solid rgba(0, 0, 0, .05);
+      margin-bottom: 0;
+    }
+
+    .navigation li {
+      list-style: none;
+      display: inline-block;
+      ;
+      margin-left: 5px;
+      margin-right: 5px;
+      font-size: 14px;
+      font-weight: 500;
+    }
+
+    .navigation li a {
+      color: rgba(0, 0, 0, 1);
+    }
+
+    /*HERO*/
+    .hero {
+      position: relative;
+      z-index: 0;
+    }
+
+    .hero .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      content: '';
+      width: 100%;
+      background: #000000;
+      z-index: -1;
+      opacity: .2;
+    }
+
+    .hero .text {
+      color: rgba(255, 255, 255, .9);
+      max-width: 50%;
+      margin: 0 auto 0;
+    }
+
+    .hero .text h2 {
+      color: #fff;
+      font-size: 34px;
+      margin-bottom: 0;
+      font-weight: 400;
+      line-height: 1.4;
+    }
+
+    .hero .text h2 span {
+      font-weight: 600;
+      color: #ff8b00;
+    }
+
+    /*INTRO*/
+    .intro {
+      position: relative;
+      z-index: 0;
+    }
+
+    .intro .text {
+      color: rgba(0, 0, 0, .3);
+    }
+
+    .intro .text h2 {
+      color: #000;
+      font-size: 34px;
+      margin-bottom: 0;
+      font-weight: 300;
+    }
+
+    .intro .text h2 span {
+      font-weight: 600;
+      color: #ff8b00;
+    }
+
+    /*SERVICES*/
+    .services {}
+
+    .text-services {
+      padding: 10px 10px 0;
+      text-align: center;
+    }
+
+    .text-services h3 {
+      font-size: 18px;
+      font-weight: 400;
+    }
+
+    .services-list {
+      margin: 0 0 20px 0;
+      width: 100%;
+    }
+
+    .services-list img {
+      float: left;
+    }
+
+    .services-list h3 {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .services-list p {
+      margin: 0;
+    }
+
+
+
+    /*COUNTER*/
+    .counter {
+      width: 100%;
+      position: relative;
+      z-index: 0;
+    }
+
+    .counter .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      content: '';
+      width: 100%;
+      background: #000000;
+      z-index: -1;
+      opacity: .3;
+    }
+
+    .counter-text {
+      text-align: center;
+    }
+
+    .counter-text .num {
+      display: block;
+      color: #ffffff;
+      font-size: 34px;
+      font-weight: 700;
+    }
+
+    .counter-text .name {
+      display: block;
+      color: rgba(255, 255, 255, .9);
+      font-size: 13px;
+    }
+
+    /*TOPIC*/
+    .topic {
+      width: 100%;
+      display: block;
+      float: left;
+      /* border-bottom: 1px solid rgba(0, 0, 0, .1); */
+
+    }
+
+    .topic .text {
+      padding-left: 20px;
+    }
+
+    .topic .text h3 {
+      font-size: 20px;
+      margin-bottom: 15px;
+      line-height: 1.2;
+    }
+
+    .topic .text .meta {
+      margin-bottom: 10px;
+    }
+
+    /*HEADING SECTION*/
+    .heading-section {}
+
+    .heading-section h2 {
+      color: #000000;
+      font-size: 28px;
+      margin-top: 0;
+      line-height: 1.4;
+      font-weight: 400;
+    }
+
+    .heading-section .subheading {
+      margin-bottom: 20px !important;
+      display: inline-block;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: rgba(0, 0, 0, .4);
+      position: relative;
+    }
+
+    .heading-section .subheading::after {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -10px;
+      content: '';
+      width: 100%;
+      height: 2px;
+      background: #ff8b00;
+      margin: 0 auto;
+    }
+
+    .heading-section-white {
+      color: rgba(255, 255, 255, .8);
+    }
+
+    .heading-section-white h2 {
+      font-family:
+        line-height: 1;
+      padding-bottom: 0;
+    }
+
+    .heading-section-white h2 {
+      color: #ffffff;
+    }
+
+    .heading-section-white .subheading {
+      margin-bottom: 0;
+      display: inline-block;
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: rgba(255, 255, 255, .4);
+    }
+
+
+    ul.social {
+      padding: 0;
+    }
+
+    ul.social li {
+      display: inline-block;
+      margin-right: 10px;
+      /*border: 1px solid #ff8b00;*/
+      padding: 10px;
+      border-radius: 50%;
+      background: rgba(0, 0, 0, .05);
+    }
+
+    /*FOOTER*/
+
+    .footer {
+      border-top: 1px solid rgba(0, 0, 0, .05);
+      color: rgba(0, 0, 0, .5);
+    }
+
+    .footer .heading {
+      color: #000;
+      font-size: 20px;
+    }
+
+    .footer ul {
+      margin: 0;
+      padding: 0;
+    }
+
+    .footer ul li {
+      list-style: none;
+      margin-bottom: 10px;
+    }
+
+    .footer ul li a {
+      color: rgba(0, 0, 0, 1);
+    }
+
+
+    @media screen and (max-width: 500px) {}
+
+
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+
+
+	
+		
+			
+			
+				
+					
+						
+						Để Email luôn được vào inbox, bạn vui lòng thêm support@hr1tech.com vào danh sách dấu tin nhắn “Không phải thư rác/Spam”
+						
+					
+				
+			
+			
+		
+		
+		
+			
+		
+		
+		
+			
+			
+				
+					
+						
+						Hi vu duy,
+						Làn sóng layoff thật đáng sợ, đừng lo đã có HR1Tech bên cạnh bạn với dàn jobs sau
+						
+						
+					
+					
+						
+						
+						VIỆC LÀM DÀNH CHO BẠN
+						
+						
+					
+					
+						
+						
+							
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												VueJS Developer
+
+												  CÔNG TY TNHH CÔNG NGHỆ RIKAI (RIKAI TECHNOLOGY) 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												PHP Developer
+
+												  RAKUS VIỆT NAM 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Junior Manual Tester
+
+												  Seven System Việt Nam 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Junior Mobile Developer
+
+												  Công ty Cổ phần Oraichain Labs 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Angular Developer
+
+												Backend .NET Dev (C#, .NET Core, MVC)
+
+												  Công ty TNHH Công Nghệ Asilla Việt Nam 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Senior PHP Developer (Drupal)
+
+												  Bouygues Construction IT 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Unity Game Developer (Junior - Senior)
+
+												  Công ty TNHH Heatmob 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												DevOps Engineer
+
+												  Dynu In Media 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Backend Developer
+
+												  Công ty TNHH GREENAPP 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												.NET Developer (C#, ASP.NET)
+
+												  TNHH QTS SMART SOFTWARE 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Backend Developer (Junior)
+
+												  Công ty cổ phần giải pháp trí thông minh nhân tạo Việt Nam (VAIS) 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Business Intelligence Developer
+
+												Data Analyst (Tableau)
+
+												  Công Ty Innovature Consulting 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Automation Tester
+
+												  Codelight 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									 
+									
+									
+									
+								
+							
+						
+						
+					
+				
+			
+			
+		
+		
+			
+		
+		
+		
+			
+			
+			Bạn muốn nhận thông tin việc làm mới? Ngừng nhận mail
+			
+
+			
+			Follow us
+
+			
+				
+					
+						
+						 
+						
+						 
+						 
+					
+				
+			
+			
+
+			
+			Liên hệ | Quy định bảo mật | Thoả thuận sử dụng
+
+			Copyright 2022 www.hr1tech.com. All rights reserved
+			
+			
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+
+
+
+	
+		
+			
+			
+				
+					
+						
+						Để Email luôn được vào inbox, bạn vui lòng thêm support@hr1tech.com vào danh sách dấu tin nhắn “Không phải thư rác/Spam”
+						
+					
+				
+			
+			
+		
+		
+		
+			
+		
+		
+		
+			
+			
+				
+					
+						
+						Hi vu duy,
+						Làn sóng layoff thật đáng sợ, đừng lo đã có HR1Tech bên cạnh bạn với dàn jobs sau
+						
+						
+					
+					
+						
+						
+						VIỆC LÀM DÀNH CHO BẠN
+						
+						
+					
+					
+						
+						
+							
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												VueJS Developer
+
+												  CÔNG TY TNHH CÔNG NGHỆ RIKAI (RIKAI TECHNOLOGY) 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												PHP Developer
+
+												  RAKUS VIỆT NAM 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Junior Manual Tester
+
+												  Seven System Việt Nam 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Junior Mobile Developer
+
+												  Công ty Cổ phần Oraichain Labs 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Angular Developer
+
+												Backend .NET Dev (C#, .NET Core, MVC)
+
+												  Công ty TNHH Công Nghệ Asilla Việt Nam 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Senior PHP Developer (Drupal)
+
+												  Bouygues Construction IT 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Unity Game Developer (Junior - Senior)
+
+												  Công ty TNHH Heatmob 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												DevOps Engineer
+
+												  Dynu In Media 
+
+												  Đà Nẵng 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Backend Developer
+
+												  Công ty TNHH GREENAPP 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												.NET Developer (C#, ASP.NET)
+
+												  TNHH QTS SMART SOFTWARE 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Backend Developer (Junior)
+
+												  Công ty cổ phần giải pháp trí thông minh nhân tạo Việt Nam (VAIS) 
+
+												  Hà Nội 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Business Intelligence Developer
+
+												Data Analyst (Tableau)
+
+												  Công Ty Innovature Consulting 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									
+										
+											
+												
+												 
+												
+												
+												
+												Automation Tester
+
+												  Codelight 
+
+												  Hồ Chí Minh 
+												
+												
+												
+												
+												
+											
+										
+									
+									
+									
+									
+								
+								
+									
+									
+									
+									 
+									
+									
+									
+								
+							
+						
+						
+					
+				
+			
+			
+		
+		
+			
+		
+		
+		
+			
+			
+			Bạn muốn nhận thông tin việc làm mới? Ngừng nhận mail
+			
+
+			
+			Follow us
+
+			
+				
+					
+						
+						 
+						
+						 
+						 
+					
+				
+			
+			
+
+			
+			Liên hệ | Quy định bảo mật | Thoả thuận sử dụng
+
+			Copyright 2022 www.hr1tech.com. All rights reserved
+			
+			
+		
+		
+	
+
+

@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  IT Jobs  |  Create CV  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thân gửi bạn,
+
+Khởi động tháng 11 cùng TopDev và những thông tin công nghệ thú vị.
+
+
+
+
+
+IoT đang ngày càng trở thành tâm điểm công nghệ trong thời gian gần đây. Ở mục Rising Tech, hãy cùng TopDev nhìn lại về công nghệ này trong năm vừa qua cũng như những dự đoán về tiềm năng ứng dụng, phát triển của chúng trong thời gian tới nhé!
+Bạn còn nhớ tựa game đình đám một thời Flappy Bird chứ? Hôm nay, trong bài viết này, hãy cùng Chuyển động công nghệ tìm hiểu và bắt tay vào lập trình cho riêng mình một "chiếc" Flappy Bird bằng Python!
+Và nếu bạn đang theo đuổi mục tiêu trở thành Marchine Learning Engineer thì đừng bỏ qua bài viết trong mục Tech Insight tuần này nha! Nhiều điều thú vị đang chờ bạn phía trước đó!
+
+
+
+
+Tháng 11 này, TopDev tiếp tục gửi đến bạn cơ hội sở hữu phần quà may mắn. Chương trình "ĐĂNG KÝ HÔM NAY - AIRPODS VỀ TAY" sẽ diễn ra từ ngày 01/11/2022 đến ngày 30/11/2022. Theo dõi TopDev trên các nền tảng Facebook và Linkedin để nắm bắt thông tin mới từ chương trình bạn nhé!
+
+
+
+
+
+
+
+RISING TECH
+
+
+DEV KNOWLEDGE
+
+
+DEV INSIGHT
+
+
+
+
+IOT TRONG NĂM 2022 NHƯ THÊ NÀO VÀ TƯƠNG LAI RA SAO?
+
+
+LẬP TRÌNH GAME FLAPPYBIRD BẰNG PYTHON
+
+
+LỘ TRÌNH TỪNG BƯỚC TRỞ THÀNH MACHINE LEARNING ENGINEER
+
+
+
+
+
+
+
+
+
+Rõ ràng mà nói, năm qua là một năm khó khăn cho cả thế giới, từ kinh tế, chính trị cho tới các bất ổn khác. Cho dù gặp phải những khó khăn lớn như vậy, thị trường IoT năm 2022 (tính tới thời điểm đầu tháng 11), vẫn phát triển nhanh theo cấp số nhân.Vậy cụ thể IoT đã đạt được những gì trong năm qua, và tương lai của nghành sẽ như thế nào trong năm 2023 sắp tới đây? Hãy cùng theo dõi bài viết này nhé!
+Tác giả: Kiên Nguyễn
+
+
+Vào những năm 2014, Flappybird là tựa game miễn phí nổi tiếng trong nước và quốc tế. Game flappybird có đồ họa đơn giản dễ chơi nhưng rất khó để đạt được điểm cao. Vậy game này được thực hiện thế nào? Hãy cùng TopDev khám phá tại bài viết này nhé!
+Tác giả: Nguyễn Chí Thức
+
+
+Trong bài mình sẽ liệt kê đầy đủ, tuần tự 6 bước (cũng có thể xem là 6 kỹ năng) để anh em trở thành Machine Learning Engineer đích thực. Lưu ý là 6 bước là ý kiến tổng hợp và có thể khác đi tuỳ vào trình độ, lộ trình và khả năng tiếp cận của từng anh em nhá.
+Tác giả: Kiên Nguyễn
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“ĐĂNG KÝ HÔM NAY - AIRPODS VỀ TAY”
+Đón chào tháng mới với cơ hội hấp dẫn đến từ TopDev. Chiếc Tai nghe Bluetooth AirPods 3 đang tìm kiếm chủ nhân may mắn trong tháng 11 này! Bạn mới ơi!!! Chỉ với 3 bước đơn giản, bạn đã chính thức tham gia chương trình rồi đó:
+
+
+"Bạn mới" của TopDev.vn ơi! Chỉ 03 bước đơn giản để có cơ hội may mắn nhận phần quà hấp dẫn này từ TopDev:
+
+B1: Đăng ký tài khoản mới tại https://accounts.topdev.vn/
+B2: Theo dõi kết quả trên Fanpage TopDev
+B3: Liên hệ BTC để nhận giải thưởng 
+
+Thời gian áp dụng: Từ ngày 01/11/2022 đến ngày 30/11/2022.
+Chương trình dành cho các tài khoản TopDev đăng ký mới.
+*Đăng ký mới được xác định là Tài khoản lần đầu Đăng nhập thông qua Google hoặc GitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TopDev - Việc Làm IT Hàng Đầu 
+ https://topdev.vn          
+Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Bình Thạnh, Tp.Chí Minh
+Điện thoại: 028.6273.3496 - Email: career@topdev.vn
+
+
+
+
+
+  
+  
+
+
+
+Bạn nhận được email này vì đã đăng ký tài khoản tại TopDev. 
+Your email: imkhuongduy@gmail.com - Click vào đây để từ chối nhận email từ TopDev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,227 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  IT Jobs  |  Create CV  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thân gửi bạn,
+Tháng 12 này, hãy cùng Topdev tiếp tục "thử vận may" với chương trình "ĐĂNG KÝ HÔM NAY - PHÍM XỊN VỀ TAY" diễn ra từ ngày 05/12/2022 đến ngày 31/12/2022 bạn nha. Chỉ với thao tác đăng ký đơn giản, bạn đã có cơ hội mang về phần quà hấp dẫn, đừng bỏ lỡ bạn nha!
+
+
+
+
+Trên trang Twitter của mình ngày 5/11, founder của Ethereum là Vitalik Buterin đã đưa ra bản roadmap mới của Ethereum cùng với 5 giai đoạn mới trong quá trình nâng cấp, cải tiến về khả năng mở rộng hậu The Merge. Đến với Chuyể động công nghệ tuần 2 tháng 12, hãy cùng TopDev tìm hiểu về các giai đoạn này nhé!
+Và nếu bạn đang xây dựng một ứng dụng với dữ liệu tiếng Việt và tìm cách cho chúng trở nên trơn tru hơn, thì bài viết trong mục Dev Knowledge hôm nay chính là câu trả lời dành cho bạn. Cùng TopDev đón đọc bạn nhé!
+Quan tâm đến công việc của một Data Analyst, hãy cùng TopDev tìm hiểu lộ trình học tập để "dấn thân" vào ngành này ở mục Dev insight tuần này!
+
+
+
+
+Hãy cùng TopDev trong Chuyển động Công nghệ tuần này để cập nhật thông tin bổ ích nhé!
+
+
+
+
+
+
+
+RISING TECH
+
+
+DEV KNOWLEDGE
+
+
+DEV INSIGHT
+
+
+
+
+5 GIAI ĐOẠN TRONG KẾ HOẠCH TIẾP THEO CỦA ETHEREUM SAU THE MERGE
+
+
+CHUYỂN ĐỔI UNICODE DỰNG SẴN & TỔ HỢP VỚI PYTHON
+
+
+LỘ TRÌNH TỪNG BƯỚC ĐỂ TRỞ THÀNH DATA ANALYST
+
+
+
+
+
+
+
+
+
+Sau sự kiện The Merge diễn ra vào giữa tháng 9 vừa rồi, đội ngũ kỹ thuật của Ethereum đã đưa ra các thông tin quan trọng liên quan đến sự thay đổi trong kế hoạch phát triển của hệ sinh thái này. Trên trang Twitter của mình ngày 5/11, founder của Ethereum là Vitalik Buterin đã đưa ra bản roadmap mới của Ethereum cùng với 5 giai đoạn mới trong quá trình nâng cấp, cải tiến về khả năng mở rộng hậu The Merge. Bài viết này chúng ta cùng nhau tìm hiểu sâu hơn về các giai đoạn được vị CEO này nhắc đến nhé.
+
+Nguồn: Phạm Minh Khoa
+
+
+Dạo này các ứng dụng với dữ liệu tiếng Việt đang ngày một nhiều, trong đó vấn đề sai khác giữa Unicode dựng sẵn và tổ hợp, tuy nhỏ, nhưng cũng gây mất chút kha khá thời gian debug cho những người mới vào nghề. Mình chia sẻ xíu kinh nghiệm này, để việc phát triển ứng dụng tiếng Việt trở nên trơn tru hơn, và cũng để "khoe hàng" về hệ sinh thái giàu mạnh của Python.
+
+Tác giả: Nguyễn Hồng Quân
+
+
+Data Analyst đang là ngành với vốn hoá thị trường lên tới 300 tỷ Biden trong năm 2022. Học Data Analyst rõ ràng là không dễ, nhưng nếu có đủ quyết tâm và nghị lực, anh em có thể thoải mái thử sức với ngành này. Nội dung bài viết này sẽ cập tới những skill anh em cần có, một số tools cần học để trở thành một Data Analyst xuất sắc. Chúng ta bắt đầu thôi nào!
+
+Tác giả: Kiên Nguyễn
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ĐĂNG KÝ HÔM NAY - PHÍM XỊN VỀ TAY: CHIẾC BÀN PHÍM CƠ LOGITECH PRO GAMING ĐANG CHỜ BẠN TRONG THÁNG 12 NÀY!
+
+
+Bạn đã sẵn sàng để "lướt" tay trên từng con phím đến từ nhà Logitech?"Bạn mới" của TopDev.vn ơi! Chỉ 03 bước đơn giản để có cơ hội may mắn nhận phần quà hấp dẫn này từ TopDev:
+B1: Đăng ký tài khoản mới tại https://accounts.topdev.vn/
+B2: Theo dõi kết quả trên Fanpage TopDev
+B3: Liên hệ BTC để nhận giải thưởng 
+
+Thời gian áp dụng: Từ ngày 05/12/2022 đến ngày 31/12/2022.
+Chương trình dành cho các tài khoản TopDev đăng ký mới.
+*Đăng ký mới được xác định là Tài khoản lần đầu Đăng nhập thông qua Google hoặc GitHub.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TopDev - Việc Làm IT Hàng Đầu 
+ https://topdev.vn          
+Tầng 12A, Toà nhà AP Tower, 518B Điện Biên Phủ, Phường 21, Bình Thạnh, Tp.Chí Minh
+Điện thoại: 028.6273.3496 - Email: career@topdev.vn
+
+
+
+
+
+  
+  
+
+
+
+Bạn nhận được email này vì đã đăng ký tài khoản tại TopDev. 
+Your email: imkhuongduy@gmail.com - Click vào đây để từ chối nhận email từ TopDev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

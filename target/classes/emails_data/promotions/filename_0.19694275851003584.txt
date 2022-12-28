@@ -1,0 +1,646 @@
+You're on a
+roll!
+
+
+96   Quizlet      /* RESETS */ html,body {
+background-color:#f0f0f0; Margin:0 !important; padding:0
+!important; height:100% !important; width:100% !important;
+-ms-text-size-adjust:100%; -webkit-text-size-adjust:100%;
+-webkit-font-smoothing:antialiased !important } body {
+font-size:16px; line-height:1.4em; color:#455357;} .ExternalClass
+{ width:100% } /* Outlook outer width */ .ExternalClass * {
+line-height:100% } div[style*="Margin:16px 0"] { Margin:0
+!important } /*Center Android 4.4*/ p, h1, h2, h3, h4 { Margin:0;
+padding:0 } img { outline:none !important; border:0 !important;
+-ms-interpolation-mode:bicubic /*Fix img render in Outlook*/ }
+h1, h2, h3, h4, h5, h6 { line-height:1.25em !important;
+font-weight:bold } /*LINKS & ctaS*/ #MessageViewBody a, /*
+Samsung Links */ a[x-apple-data-detectors] { /* Apple links */
+color:inherit !important; text-decoration:none !important;
+font-size:inherit !important; font-family:inherit !important;
+font-weight:inherit !important; line-height:inherit !important }
+a {color:inherit; text-decoration:underline } a:hover
+{color:#3CCFCF} a.cta { text-decoration:underline } /* text link
+*/ a.arrow { color:#455357; text-decoration:none } /* text link
+with arrow */ a.arrow:hover, a.arrow:active { color:#51cfff
+!important; text-decoration:underline !important } .cta:hover,
+.cta:active {background-color:#051efa !important } .cta:hover a
+{color:#ffffff !important} .hoverBox:hover { /* study mode hover
+*/ background-color:#ebff03 !important;box-shadow:0px 1px 3px 2px
+rgba(69,83,87, 0.1)!important} @media only screen and
+(max-width:600px) { /* UTILITY */ .hauto { height:auto !important
+} .outer, .em_full_wrap, .em_main_table { width:100% !important;
+max-width:100% !important } .inner { width:85% !important}
+.heroBg {background-size:110% !important;
+background-position:center !important} .padTop { padding-top:36px
+!important } .padBottom { padding-bottom:36px !important }
+.padZero { padding:0 !important } .padBoth { padding:36px 0
+!important } .logoPad { padding:0 0 24px !important} .hide,
+.em_hide { display:none !important} .show { display:block
+!important; max-width:100% !important} /* copy & links */ h1, h2,
+h3, h4, .h1, .h2, .h3, .h4 { line-height:1.25em !important } h1,
+.h1 { font-size:27px !important } h2, .h2 { font-size:24px
+!important } h3, .h3 { font-size:20px !important } h4, .h4 {
+font-size:18px !important } .copy, .small, .smaller {
+line-height:1.5em !important } .copy { font-size:16px !important}
+.small { font-size:14px !important } .smaller { font-size:12px
+!important } .center { text-align:center !important } .left {
+text-align:left !important } } @media screen and
+(max-width:480px){ .cta {width:100% !important} .search
+{font-size:13px !important} } /* CUSTOM FONTS - DO NOT REMOVE!!!
+*/ @media screen { body, td { font-family:'Hurme Geometric Sans
+2', 'Trebuchet MS', Arial, sans-serif } }      96      body, td {
+font-family:Arial, Helvetica, sans-serif !important } table {
+border-collapse:collapse !important } sup { font-size:100%
+!important; }    /* Custom styles go here */
+
+
+
+
+
+
+‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D9jJd_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uhoTsR59Nh7mGo6nlqroF-2F59jN2DVQ5wux-2BRl-2BXgQoQr-2BZAt-2B0BSzqIoNTChaglHpTRR0nRcoRKVTCfPNJ6-2FvC-2BABX1Gwu-2F9axyXph-2FVIub2q-2BO7GI2f60ukpsURvGfta98aMpSXruool73VcSRp54 )
+       Get Quizlet
+Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4GDCAmIj4-2BYs6CbCZ1-2B-2BuniQ8KqQ0yZWrbNQapY0SfYYHuObz-2FMCWEBnoVLvKPhB-2F47GyQuZXMoSXMH2LdHX9vjQMBz9OKSYfUqTJMm5BJAj-2B-2Fzb3PQOJlz-2FuznX0CL-2FDg-3D-3Dg5he_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10vlHNpJFt2r2OGDaza40S4QdaYxu6UB5-2FmFSgLaEJgYD4WarJhn8CANpy3QFu-2BUFYBag84a-2FFmUHpbkC3vaJkJVvYlhuTaYHDBDkTR4lTB3NyrAXZxkXcVh811qIy9fxuQDTatn9xy81uD63-2FdRYzzA )
+                           Quizlet Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3DPz5x_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10tKh09TNWQ8NG-2B59DtpbERuAWVfMkN-2FDtb14Yb0-2FtO5Q8VKLdT3SWCTpYj5U62vSE4oiEJ4gh3m8YSVZztwNa6u1H4OPp-2B6ga6aAzIlGLH-2FhFU6ezLSEkPes2wOIR6ubfQQdroQ1-2F6NV-2FbP-2FiKg0UlG )
+ Search 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4D9-2BarXXyLi-2F8qrmDK0zbRzU0d-2BtUnLMMV46uQvUBdl17rzIFBYm0b0qpKNSVhDtMZf8KxGTnXDm7vxBA09J8j9M9NroSDZG7nMK58qCSaN2CBbb-2Bv62ZnWMgszhRQGpcg-3D-3Df3el_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10u2oLIBK2pTKn778WVR37FiMlvRHOLz7nsjR2luRe8vX4BxOMffp90AYWny7YqqVo1hatzkXUJApU9Y2bC1ak0hHZYlE9-2B1lZn0sHdf2TuuzdiHhgR1pKxrFVKYxGphnr5hi1msLKwLKDAasyPzdV-2Bk )
+                         Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3Di5GF_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10u-2FCKeV2j-2BdR6dKADqnhoFEudzwphZRVO8yCjbev8vBbd75WPjCSEypOAaaLRKK5SpGdZSMnLu5NtAo5FX6b9Pvq6Fgny4qglkqtm4uHbPPjKMqI-2B4ixaEHHCxTI7LclXZBw0L6U-2BW8ipBzOVPcqFnq )
+       Get Quizlet
+Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4GDCAmIj4-2BYs6CbCZ1-2B-2Bung3kvIHkaRYY5b8ykbV9pU6QQ6iz6Yft8pVMpnrJgpQqfVm8OdsjX40ZzkG31GgBdI02Lw2sXRXXe0v121QBexHvSPAq0pRCowe00Oqbmhg2AYM9HqjLKomiv5CsSj3XCQ-3DrT3v_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uKW4vcc9Yg9VKXUw7OqSflrPntvHVH1tx6UGblhm0ZjAsvTsnoLBBPiXxZxWhAf5eLjeoOLwrQ7qyFKfrklzk63CHD2Jfczuu1Qjt9UQAcd4mJcz5fr4ymXotj92FovxfzuohJjQ1pbZ80IBimr72o )
+                            Quizlet Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D6n06_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10u9vYOnYWJWKhJrmH6bCAYOKzDDShFFqBPqCIk1J0xoIDDAaHfr-2F1dViEFgPYyXjNAhZ8D6EjiJ9X-2Fa7ALXBAXC0-2FtfsvCcr9NxiTspke0nn5BnKuOb5g6MnLN7bkmlwfysQhAdwf7N5xS-2FazNttRBW )
+ Search 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4D9-2BarXXyLi-2F8qrmDK0zbRzU0d-2BtUnLMMV46uQvUBdl17rzIFBYm0b0qpKNSVhDtMZf8KxGTnXDm7vxBA09J8j9M9NroSDZG7nMK58qCSaN2CBbb-2Bv62ZnWMgszhRQGpcg-3D-3DwDmz_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10sHZHub4lR4eU579PARdF-2BUse886CMRj4LEl30xw9BRDeRqJwj1XoAxaSVJ8jeamodDTEM95YfZZC-2FRa9rihvs2L7tw2YXLBqv0w-2Bqjg6Kg0Lj5xrwRyRO1ux5GFLvtrnLofzyQsM1OYi-2B0Ll3yJacT )
+                  Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D2LLk_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uqgK9E17Y2UdOhas6JkNMZHNchjZw2zN-2BbRVUYrZ6J990wokGnCyRMmPf-2B0s2QvibMRM5KM4MNY1bshSFdOHqxHqDjfFONsjNUjUAVC0j5Up7yTGsPQAUPZrtIU62xFAVm-2BZPsKvYCtY3tPFX01Z93 )
+                      Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D9-5F_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10vZe9o8LmaT-2FrN-2BSTjvoPrmikPt94LD80nrOcxhtk1cygYI7mtPAyzyYDb-2FIS-2BUaATNgElvk6pK67hkiW-2F4DhzkAPps1p3s6jTwa0IrpgLyegRfSlZnyuZ6xHbFFNJ5cnSfEmjKnrd7pPZB-2B1cj5sqL )
+
+
+
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4GDCAmIj4-2BYs6CbCZ1-2B-2BuniQ8KqQ0yZWrbNQapY0SfYYHuObz-2FMCWEBnoVLvKPhB-2F47GyQuZXMoSXMH2LdHX9vjQMBz9OKSYfUqTJMm5BJAj-2B-2Fzb3PQOJlz-2FuznX0CL-2FDg-3D-3DgYbI_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10snvirBp6LeWvJCzrtFU5G40FGc1nPMqlzbUM6xJxl5065IlQtkcYONHuVHeqT9L4hCy-2BTaDcCHSaXY5zMWntVr0gnV-2FwwmmVL5gjo1OUW0lgRLT1zrNU4rQiEfWog5AhLBMbrKjXZgeU16v7bwtPLi )
+                           Quizlet Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3DyD_Y_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uJ1P9IYkwTttL-2Fd7bne-2FGXO7YZMhgEB-2FiUXXVxV39ziYGCEeWVe-2FhZtfKxvZ4e4ZPi2kxDzTQ2yyCc7FoJ4SnoIp-2BVY8G2-2BKmq0E3Ald1Z7WqWcjB6n9bxOq33LMYRWxB7OQbTcWCUFZu35x-2Blb4G4 )
+  
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4D9-2BarXXyLi-2F8qrmDK0zbRzU0d-2BtUnLMMV46uQvUBdl17rzIFBYm0b0qpKNSVhDtMZf8KxGTnXDm7vxBA09J8j9M9NroSDZG7nMK58qCSaN2CBbb-2Bv62ZnWMgszhRQGpcg-3D-3DqWiI_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10s6EGKrX38GtqoJXDYppkGfeiIBtuJAwv-2FYVDQobQNqta9VW9mfJ14y1rFzfA9nUdOHXk6Yu92M4A3ll-2BelYRcLekNkMKuxXLNEzVnxHilVBEKOFsZLUyPGORyEOHagNim-2BQcN1fRoeWUz3RLY9j0NG )
+                         Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3DySH4_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uqRtIAnO6NrBl8gA1pdKGApcRpy3VchtV5zOHJXeubATJFM1VUIthkD4O7bpPHMYLFq9jcd2yRted0nBwDw0qLoIIzoovNcyPgMxoLz3zQ0e4saUz2RXRwLKzT-2FrCYQtep1lO3XCP7cVt5EuS9OnPE )
+
+
+
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4GDCAmIj4-2BYs6CbCZ1-2B-2Bung3kvIHkaRYY5b8ykbV9pU6QQ6iz6Yft8pVMpnrJgpQqfVm8OdsjX40ZzkG31GgBdI02Lw2sXRXXe0v121QBexHvSPAq0pRCowe00Oqbmhg2AYM9HqjLKomiv5CsSj3XCQ-3DzHnP_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uGasggpuVc6XLKJykH-2FeFWz4ziXi0C-2BntFKndRyOxETtMOdG1fCHN3kZ4zfpMQXaybJrRrWUr-2BzBQwtbBYMAAA-2BQ0uAldWaEmCPBclQjyFzW-2BdIfAqfBP33PUY9LN7PfnKsbc7qlImC4uO0X1ItInb )
+                            Quizlet Plus 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D9WWo_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10ugURgMeqd-2FLN5OnkcnYoX1JWbKF7QaMq6wjDFXMMGwEDAww-2FtF5BaXB9RI6oSfw-2BmdgRL3zukOaukks3kQc2PUhvwZJsTNtpeKsegkNCVd9CdwDamNqnfR8nRgxcisLbcX5lDsrH6pWdnIiZMlVc3-2F )
+  
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4D9-2BarXXyLi-2F8qrmDK0zbRzU0d-2BtUnLMMV46uQvUBdl17rzIFBYm0b0qpKNSVhDtMZf8KxGTnXDm7vxBA09J8j9M9NroSDZG7nMK58qCSaN2CBbb-2Bv62ZnWMgszhRQGpcg-3D-3DAXPM_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10ungl7Kd7fntnwILFKuUqqIKJ1lbpthW-2F9TJv-2FjAycwX-2Fsd576rTduNNj59f3ZZLY-2BpyA0zJ1tc8GM-2FQeMjbcNdF4Z2CAKXN4-2FKRHQx3BRVCMmq4ZDZh8w2saardycTXi8RZD19m74ICFkvoE87nof7 )
+                   Quizlet 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HSz6wnMB50LuEkxjHprkpxwS-2FoRbJBaQEKyvoSIssLKSbETpVtmBNkzXroz6-2Bi5bZ-2F7k-2FoKirNiZ2m-2FRSHvyS6cwUsqjXXD5Bb4FOJZAr-2FNqHZchGfI8X2X1qQ2im0Jmg-3D-3D4N9E_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10v6kTd-2BOaGqBF7YkhCIcGpKsaeMq256fBPG5xB2J7JOPddWI4YJh4mBh6gjU4e05gYNhGGmZm4Q5UfytOa6JBNEsY0iz5L2F4z1HFQucjEGcZ2bv1-2B39-2B-2BB2bdlSRtFYDR2iLngV-2B8zmYTcsaHBQ9Qx )
+         
+
+
+
+
+
+
+
+
+
+
+*****************************************************************
+
+ Weekly study streak:
+1
+
+*****************************************************************
+
+
+
+
+
+To continue your streak, study again next week using any mode. The clock restarts on Sunday.
+
+
+Study again 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4LcacWMivFU4qCS3Oiuupjc-3DqJiJ_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uyxyTUze4KUHXbwbk28JmmsHO8NJCSWWh-2FbzymfMgtMko9syqEu398JOPWPJ3qAdegHfw6AJAxNGo-2BoAsOlHgs8Rg7qEghC9rP-2BdVKJPwOmKwsFR2z0ZE8M57jGw-2FWL7yw7uq8Z8kyBRk7VNcuczOq )
+
+
+ fb 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4NHJsO5HXZ4R-2By1vNzmUfxr8C8sBA3GTmXuUADtAB7geQSCl_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10ulS9nK4ey7pPH-2F4KQKuIphZMx1YpZwJp-2BiXIngEnI8SR1N6CQkdTFXKV-2FRmVt2iBEqIaWTgJKw4xMg2kLDqnmxUCY-2FxT-2B-2BAZWG-2BhCnwyJ86-2B3nZdQyE8fSjWsEt-2FbqTttjes5EmwWnfKU9F6on0M3H ) insta 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HTvkruJItaGbSCxHMYqXkpVofDExzRHeUoM-2Fr8Wu-2Frp6vyu_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10v26rymGUe0hW-2FsjckzN2BZAAWh63JmpvyGn-2BIg-2BOyY7pLBVGVIuOxrvLIeVt-2Bto5d-2B6Uuxu0PYV0RH3GpLe2sBfDrXhZKrPT9ByW-2FieB8-2BNwWMG9QF-2BTcA3pTj1abI0rSE2DJEhFYtKDRbCkdBqUMZ ) youtube 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4AclCku5XjKLhmZGAshNJOGg-2BQ8r3rlCdmDGiCVqbZgZzh0XjBoGjM3btIy3ED6vVg-3D-3DAwV6_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10up6FbG2Pp5X64zLUYr6Ww4u7SqLzjKcCtVr-2B9DPYNUUQi5Ig1Lkmh1YnT-2BfMblLRyFr4lKzvqxWY4JG6v0EhEjb4n4-2FLRk-2BEv-2FEKw11iUl-2BMDx7dM8VXRURI-2BmgMX92n-2FIpTKViBcTf6qM3kXdhx6T ) tw 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4PztVoMs0-2F-2BP1VaGp-2BQzVDora92yW64ZSSFqFP-2B6oewIuhZH_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10vqKv-2FTnkqwC8VIM865fMSU0CnWyV65Tpslqde0PohSquTqnlGWMZKqrLQykowFQb-2Bfoz7Y8dOy08bcD9B8fkrV5b9O9REZQyqRvAYaCspoyC2o5Zz-2FJYiv6N2mJjXmjTvSymAC76qocwRp3Moxq5Wg ) Download on the App Store
+
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4K8XPGgUCgm91XlfFjHwlEqEAgvVD3m7Yp3aEy6O7EEsf4I6aHLIfVVg4nJ9IOkmFYkOGdWk0Vovn4qVK8Ghoiau6Bq-2BlpAvnoUNAzVqbqDbh1beBjUpTU3PBxAdp-2BD1CWHOantWy-2FuCa0tC2kLCbX2klqlu2eJ8-2BrJWvFVR3r9gjEEvPs4m-2FBDUFWZCShViOQ-3D-3DrwXE_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10tPjUyL-2FYPqs34otGLuh-2F4WQCuXOObbhHbzPQgLpn1-2F-2BA3jgf3boefb46sXXXFEUklh-2B0qVe-2BCR8uiC6vKl6HAcEbbI66rxN7dqikLetn9YiEPNAho5giMdNH-2F7kxGB1nQfQjU8q8BEwH-2FbhgqBnYYF )
+ GET IT ON Google Play 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4I-2F7bl7nLqoNGMm6idWRgS9TL3t8Jj8awpvwi0VrPXYj2CIulRlw69hYwmLEXIgFS61HCz8anOHN-2BWaqmI5QZpUi3xE67W8Ut1L-2BoMaxeohylro6c6YOiv9FtTzfJnVk-2BuIJ64JBi1vwF-2B1pTjV7rOTQFpH-2F3a-2BmqMHxgaxwdGdccDanpw71QGafLfkQOwIgng-3D-3D1AuT_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uwNgRM9FYSkAGMNEqX5cTj3h0TK-2BwJ-2BRI-2FiYhq2W2PBV9LuGR-2FI04xRZf9v5hDFJYIPG1Y2aUChbwxewHXXOodn-2B8TAPyO4M1mDN0u6y6ntdhrwn4TFjiDxZBI0W-2FIS9DHUUFKCNcuLdW-2FECMrHvyD )
+ Quizlet, Inc.
+1‌2‌3 T‌o‌w‌n‌s‌e‌n‌d S‌t‌r‌e‌e‌t, S‌u‌i‌t‌e 6‌0‌0
+S‌a‌n F‌r‌a‌n‌c‌i‌s‌c‌o, C‌A 9‌4‌1‌0‌7 U‌S‌A
+ 
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4BlHxFu-2BQOMcwrDvBNvIlg-2BkI5Zngj6l-2F2XVKblG-2By3Ox-2BVuMsfuaT7vQCjEjYdD4KK4bLDVI0V1bxPtMT6napCpzElWAPQ1iQn0B5OheP5VTLJDwiesz4OT0DKnfmjNNg-3D-3DuJra_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10upWSdeYWX-2BJgZRzTeqIyyL7xI5mfLbD5pKkMlUS73l41s9-2BIhO1I97GHZM2fi0161JGHLOTbFs-2FEt2-2BdfGP4zjy9HkOx0XKZCmUU1MiHEItXI47zgsTVQTu8R4VrKhIPjnIuDpqQWp7WNxIVPQdDMi )
+ |  
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4HfdzAvpY-2BNqeKH6GJtAuTEPG4eWqYp4bjXNu-2FO-2F-2F8-2BsG-2B5I1VNaGRpKjlJ0JxOSNNT6ltVDALZMnDs0-2F89tXfoojF-2BplujhwZ6g9nUJ4Zn3u6gAsdgYYj93LBO22HYK4LiG0lRv7m7bIYhVwjbHA53xoICHajtsDEnwEsx6quvyQ7Ml_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10uWEQzXD9G3cgBN9gdU2eWy0zGdNmTLLMW-2FR7MyufKVbvhyPt1Zu-2BSFoclJyUyIVOe1RoHrzIQK6KaOeAgY3eyfBv3JJSNa8PrFpWCIYyHLOM659X3PjTm1-2BGbHGiJAtrMavHDbC-2BtJRMTOvj5TQ7tB )
+      ( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4PGpnPzxUSckOM4ciCqggyIGWqRb7etGHBbpRTiZetXO7WQJ_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10vyEC-2FH3TolaNdVEZMpJCVEqpIYYbzYyLyoVJFO3woQudtdOO02AoGkcEnV7IHO0o09RjhcrhrGnlXScegHi1UWUq0bioQEQfMA2VCQEfU1L2C-2FnD9B6feYJzRFBbpPhcp9O77Qt2GVaFnzW2ODN8o-2F )  |  
+( https://ablink.lifecycle.quizlet.com/ls/click?upn=1ttzInotVPLKQtnqnDVt4PQ0VEULm4DYx0oXJCnM6GgTrHcMfn1zUXhvGhL7Vwl-2F8Qjh_Dcd2JcT09zHFtQ32EZAy-2FzWrNJDmMjOmFsoa5JV2p-2F7x7-2FIpTekxu7snNkDMhyozk6tamKjspcjoQMHowqiOHwUpgE79Le1O3KTH5urHSrMTOZfSql-2BgKHHox5VcSm8U8lz3825RZRWrvhU1t4ZN1mY0y-2FjhmpO-2BwQ1RzmOZ8Vp4u0RCAWU9-2Bks0cdRiLNFv47FKEAiS2xA6NO8aLuaoXJPymnpIVdZYRXtCLHjA63T3Ngc7daMTTblOygeYXHytLOTOrmmZbG-2FE8Ei5bGbMNVQ0xPbjGDrlBcpAycfMEg4KSsCYyZe5nnLj9CJkF1epfbNrW4S97iF7Gxkrgm-2FbczVn3HOhYltLzcSgIQUgd7B1xNqSLff9a-2FxIAKrQtkDJHr0Ri3R1YJxGl2YWvfXl3-2FcDe1hHaI5BuLXyUMPJ2gNAq-2F-2BWYNn8vsvr0X41nv3-2B8S-2BedRZlj1FWw5oPL-2BphByroC1o1uGwyfH7naSIj26iR5vX0vujLXk-2FlSAg8IT-2B-2BO1ittLSB-2Fp28n7zovjDbXcth7MuwXHNz0Ww07HbCRBSQRgHkp4jQe3cp5kQHm8T0TRj19279AoOCzXUwXU-2Bq2ZtpbCBn8Eq7hW2Vojau10t9oKbn1rnipgPjLqVJpvkxzA56wc8cA1qiQNxRluhBBrCnuAAZEF8HfOmqsWZXGEWyzYik6HHh1udKkm1aBtmeQo5A-2Fa9VjLJJueUyj6sBKrgb87PDySDUvKfGCSdPOKemGy3W1jFk66rcMFuLrJUS )
+
+
+  
+    
+    
+  
+  
+You're on a roll!
+
+
+
+
+
+
+Quizlet
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌
+  
+
+
+
+  
+
+
+
+
+  
+    
+    
+  
+    
+      
+        
+          
+            
+          
+          
+              Search 
+          
+        
+      
+    
+  
+
+    
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+  
+  
+
+    
+      
+        
+        
+        
+        
+       
+      
+    
+    
+      
+        
+          
+            
+              
+              
+  
+  
+  Weekly study streak: 1
+  
+    
+              
+              
+              
+              
+              
+              
+              
+                
+              
+              To continue your streak, study again next week using any mode. The clock restarts on Sunday.
+              
+              
+              
+              
+                
+                  
+                    Study again
+                  
+                
+              
+            
+          
+        
+      
+    
+  
+
+  
+
+
+
+
+
+  
+  
+    
+      
+        
+        
+        Recommended study sets
+        
+
+           
+
+          
+          
+            
+              
+                
+                  
+                    
+                      
+                      
+                        
+                          
+                          CH 14 Checkpoint Questions
+                          
+                          Stephanie_Raymond9
+                        
+                      
+                      
+                      
+                        
+                          
+                            
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Flashcards
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Learn
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Match
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                      
+                      
+                        
+                          
+                          
+                            
+                              
+                                View set
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+       
+
+          
+          
+            
+              
+                
+                  
+                    
+                      
+                      
+                        
+                          
+                          C++ Ch 15 Inheritance, Polymorphism, and Virtual Functions
+                          
+                          x0LAURAftw
+                        
+                      
+                      
+                      
+                        
+                          
+                            
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Flashcards
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Learn
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Match
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                      
+                      
+                        
+                          
+                          
+                            
+                              
+                                View set
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+       
+
+          
+          
+            
+              
+                
+                  
+                    
+                      
+                      
+                        
+                          
+                          CS 1337 Ch. 14 Review Questions
+                          
+                          gsn313
+                        
+                      
+                      
+                      
+                        
+                          
+                            
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Flashcards
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Learn
+                                      
+                                    
+                                  
+                                
+                              
+                              
+                              
+                              
+                                
+                                  
+                                    
+                                      
+                                        
+                                        Match
+                                      
+                                    
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                      
+                      
+                        
+                          
+                          
+                            
+                              
+                                View set
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+       
+     
+        
+      
+    
+  
+
+  
+  
+
+  
+  
+
+  
+    
+        
+          
+              
+                 
+                
+                    
+                      
+                          
+                            
+                            
+                             
+                            
+                            
+                          
+                        
+                    
+                    
+                       
+                    
+                    
+                      
+                          
+                            
+                            
+                          
+                        
+                    
+                    
+                       
+                    
+                    
+                      Quizlet, Inc. 1‌2‌3 T‌o‌w‌n‌s‌e‌n‌d S‌t‌r‌e‌e‌t, S‌u‌i‌t‌e 6‌0‌0  S‌a‌n
+                        F‌r‌a‌n‌c‌i‌s‌c‌o, C‌A 9‌4‌1‌0‌7 U‌S‌A 
+                    
+                    
+                       
+                    
+                    
+                      
+Help Centre   |   Unsubscribe
+
+                    
+                                        
+                      
+Terms   |   Privacy Policy
+
+                    
+                    
+                       
+                    
+                  
+                 
+              
+            
+        
+        
+          
+        
+      
+  
+
+
+  
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,422 @@
+Stories from your activity
+
+-----
+
+
+Question: How do you iterate through a c++ priority queue that has custom objects within it?
+
+Answer from Vishal Oza
+
+In real general C++ code, you cannot iterate because a priority queue does not have iterator. However the std::priority_queue does have a container that implements the queue. 
+Read More: https://www.quora.com/How-do-you-iterate-through-a-c++-priority-queue-that-has-custom-objects-within-it/answer/Vishal-Oza-4
+-----
+Question: How does std::priority_queue work in C++?
+
+Answer from Roman Dzhabarov
+
+Here is the definition of priority queue
+template <class T, class Container = vector<T>,   class Compare = less<typename Container::value_type> > class priority_queue;
+
+Elemen
+Read More: https://www.quora.com/How-does-std-priority_queue-work-in-C++/answer/Roman-Dzhabarov
+-----
+Question: How is priority queue implemented in C++? How is it done using STL?
+
+Answer from Rob Menke
+
+It is implemented as a façade class over a [code ]std::vector[/code] using either the native sorting of the element type or a supplied comparator. Any container supporting ran
+Read More: https://www.quora.com/How-is-priority-queue-implemented-in-C++-How-is-it-done-using-STL/answer/Rob-Menke
+-----
+Question: Does C++ support Lambda expressions?
+
+Answer from Drazen Zoric
+
+Yes, starting with C++11 (so started in 2011 and bit earlier).
+But C++11 implementation was very limited to single line functions without local variables. C++14 brought needed
+Read More: https://www.quora.com/Does-C-support-Lambda-expressions/answer/Drazen-Zoric
+-----
+Question: How do I solve this priority queue exercise?
+
+Answer from Shuai Zhang
+
+Obviously the `IPriorityQueue` is the core. Its inner elements are of type `IKeyValue`. During enqueues and dequeues, the `returnSorted` method would be periodically called to
+Read More: https://www.quora.com/How-do-I-solve-this-priority-queue-exercise/answer/Shuai-Zhang-12
+-----
+Question: How should one write and execute C & C++ code, ideally?
+
+Answer from Kathleen C Justice
+
+There are many C compilers around. The cc being the default Sun compiler. The GNU C compiler gcc is popular and available for many platforms. PC users may also be familiar wit
+Read More: https://www.quora.com/How-should-one-write-and-execute-C-C++-code-ideally/answer/Kathleen-C-Justice
+-----
+Question: How do you pass parameters to a lambda function in C++?
+
+Answer from Abrar Hassan
+
+Lambda functions in C++ are expressed as
+
+[code ][ captures ] (parameters) -> returnTypesDeclaration { lambdaStatements; }[/code]
+
+So as an example you can define a lambda fun
+Read More: https://www.quora.com/How-do-you-pass-parameters-to-a-lambda-function-in-C/answer/Abrar-Hassan-16
+-----
+Question: How do you return a value from a lambda function in C++?
+
+Answer from Er-Godic
+
+Here is a minimal example.
+
+const char* veggie = []()
+
+{
+
+return “potato”;
+
+}();
+
+You just return inside the lambda.
+Read More: https://www.quora.com/How-do-you-return-a-value-from-a-lambda-function-in-C/answer/Er-Godic
+-----
+Question: What are some real life examples of a priority queue?
+
+Answer from ‎Dr. Yehuda Singer (ד"ר יהודה זינגר)‎
+
+Every multi-threading/process operating system has priority queues. The process to recovery from an error has to get the highest priority, such that the operating system will 
+Read More: https://www.quora.com/What-are-some-real-life-examples-of-a-priority-queue/answer/Dr-Yehuda-Singer
+-----
+Question: Why are lambda expressions called lambda expressions?
+
+Answer from Toni Alatalo
+
+Lambda is a funny word for a function.
+
+*ducks’n’covers*
+
+Functional programming is Lambda Calculus in Mathematics. It’s like in Lisp where every expression is a function, or 
+Read More: https://www.quora.com/Why-are-lambda-expressions-called-lambda-expressions/answer/Toni-Alatalo-1
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1660091665967602&et=130&id=ab3f8fc6b706412cb33a16597dba5bb4&source&src=1&st=1660091665972591&stories=1_dlGbHAsTZC6%7C1_VXGWoTk0IL4%7C1_z80k4chXUny%7C1_3hZZ4pOwerS%7C1_9vb3YkfLYuu%7C1_fLv4W8XR8T%7C1_45HAaqmMn92%7C1_Xz0LE8isY1S%7C1_8S4wzh7uvUu%7C1_ocHRtEtgyuA&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=ab3f8fc6b706412cb33a16597dba5bb4&t=1660091666085813&token=c82b66e71879a7b0edfd3c45fb0aa6424ccddaa7301cc904ae4fba25a45fe36a2c57772d3155601b7b3fbfb4284c57c13c5384d7335c050efc5caf19e75334a4&type=130&uid=610629155
+
+
+
+
+
+
+
+
+Answer: In real general C++ code, you cannot iterate because a priority queue.​.​.​
+
+Stories from your activity
+
+
+
+
+
+
+
+
+
+
+
+How do you iterate through a c++ priority queue that has custom objects within it?
+
+
+
+ 
+
+
+
+
+Vishal Oza, lives in Chicago
+
+Written Jun 26, 2018
+
+
+
+In real general C++ code, you cannot iterate because a priority queue does not have iterator. However the std::priority_queue does have a container that implements the queu... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+How does std::priority_queue work in C++?
+
+
+
+ 
+
+
+
+
+Roman Dzhabarov, works at Twitter
+
+Written Jun 19, 2014
+
+
+
+Here is the definition of priority queue template <class T, class Container = vector<T>, class Compare = less<typename Container::value_type> > class priority_queue;  Ele... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How is priority queue implemented in C++? How is it done using STL?
+
+
+
+ 
+
+
+
+
+Rob Menke, 25+ years programming, from assembly language to constraint systems.
+
+Written Jul 17, 2018
+
+
+
+It is implemented as a façade class over a std::vector using either the native sorting of the element type or a supplied comparator. Any container supporting random access ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Does C++ support Lambda expressions?
+
+
+
+ 
+
+
+
+
+Drazen Zoric, lives in Cork, Ireland
+
+Written Jun 22
+
+
+
+Yes, starting with C++11 (so started in 2011 and bit earlier). But C++11 implementation was very limited to single line functions without local variables. C++14 brought nee... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I solve this priority queue exercise?
+
+
+
+ 
+
+
+
+
+Shuai Zhang, works at MicroStrategy
+
+Written Sep 27, 2014
+
+
+
+Obviously the `IPriorityQueue` is the core. Its inner elements are of type `IKeyValue`. During enqueues and dequeues, the `returnSorted` method would be periodically called... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How should one write and execute C & C++ code, ideally?
+
+
+
+ 
+
+
+
+Kathleen C Justice
+Written Oct 11, 2016
+
+
+
+There are many C compilers around. The cc being the default Sun compiler. The GNU C compiler gcc is popular and available for many platforms. PC users may also be familiar ... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do you pass parameters to a lambda function in C++?
+
+
+
+ 
+
+
+
+
+Abrar Hassan, works at National University of Sciences & Technology
+
+Written Jun 25, 2019
+
+
+
+Lambda functions in C++ are expressed as
+[ captures ] (parameters) -> returnTypesDeclaration { lambdaStatements; }
+So as an example you can define a lambda function that take... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do you return a value from a lambda function in C++?
+
+
+
+ 
+
+
+
+
+Er-Godic, Finishing up my Phd
+
+Written Jul 28
+
+
+
+Here is a minimal example.
+const char* veggie = []()
+{
+return “potato”;... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+What are some real life examples of a priority queue?
+
+
+
+ 
+
+
+
+
+Dr. Yehuda Singer (ד"ר יהודה זינגר), Dr Computer Science, Bar Ilan University (1998)
+
+Written Oct 20, 2019
+
+
+
+Every multi-threading/process operating system has priority queues. The process to recovery from an error has to get the highest priority, such that the operating system wi... Read More »
+
+
+
+
+
+
+
+
+
+
+
+
+
+Why are lambda expressions called lambda expressions?
+
+
+
+ 
+
+
+
+
+Toni Alatalo, works at Playsign
+
+Written Oct 12, 2020
+
+
+
+Lambda is a funny word for a function.
+*ducks’n’covers*
+Functional programming is Lambda Calculus in Mathematics. It’s like in Lisp where every expression is a function, or so.
+... Read More »
+
+
+
+
+
+
+ 
+
+Search More on Quora
+
+
+
+This email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com/
+
+
+

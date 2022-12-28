@@ -1,0 +1,919 @@
+
+ 
+ 
+
+ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌   ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+ 
+https://shopee.vn/?utm_content=Logo 
+
+
+https://shopee.vn/mall/?utm_content=Category1 
+Shopee Mall 
+https://shopee.vn/Th%E1%BB%9Di-Trang-N%E1%BB%AF-cat.77?utm_content=Category2 
+Thời Trang 
+https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-T%E1%BB%AD-cat.2365?utm_content=Category3 
+Cong Nghệ 
+https://shopee.vn/Thi%E1%BA%BFt-B%E1%BB%8B-%C4%90i%E1%BB%87n-Gia-D%E1%BB%A5ng-cat.2353?utm_content=Category4 
+Gia Dụng 
+https://shopee.vn/B%C3%A1ch-Ho%C3%A1-Online-cat.9824?utm_content=Category5 
+Thực Phẩm 
+https://shopee.vn/Voucher-D%E1%BB%8Bch-v%E1%BB%A5-cat.12938?utm_content=Category6 
+Voucher Dịch Vụ
+
+
+https://loyalty.shopee.vn/universal-link/?smtt=9&deep_and_deferred=1 
+Thêm <strong>3</strong> đơn và <strong>1.000.000 ₫</strong> để thăng hạng <strong>Bạc Shopee Rewards</strong> (từ 24 Oct)
+
+
+https://shopee.vn/universal-link/m/sale-cuoi-thang-don-luong-ve#anchorId-1666174515306?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Banner 
+
+
+https://shopee.vn/universal-link/m/ma-giam-gia?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-VoucherKhủNg 
+
+
+https://shopee.vn/universal-link/m/freeship-xtra-plus?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Freeship 
+
+
+https://shopee.vn/universal-link/user/voucher-wallet/?type=0?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-HoànXu 
+
+
+https://shopee.vn/universal-link/m/sieu-sale-shopee-live?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Live 
+
+
+https://shopee.vn/universal-link/user/voucher-wallet?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Shopeepay 
+
+
+https://shopee.vn/universal-link/m/khung-gio-san-sale?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-ThêmLựAChọN 
+
+
+https://shopee.vn/universal-link/m/sale-cuoi-thang-don-luong-ve?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-MuaLàCóQuà 
+
+
+https://shopee.vn/universal-link/product/716459829/15163801692?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Whoo 
+
+https://shopee.vn/universal-link/product/392896126/15932374609?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Shiseido 
+
+
+https://shopee.vn/universal-link/a-i.862604304.16586529592?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Murad 
+
+https://shopee.vn/universal-link/product/115101555/7973642595/?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Loccitane 
+
+
+https://shopee.vn/universal-link/a-i.212004800.3712186796?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Paula 
+
+https://shopee.vn/universal-link/product/199300768/5933590921?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Ohui 
+
+
+https://shopee.vn/universal-link/m/khung-gio-san-sale?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-15H 
+
+
+https://shopee.vn/universal-link/m/sale-cuoi-thang-don-luong-ve?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Brand 
+
+
+https://shopee.vn/universal-link/collections/1185054?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Apple 
+
+https://shopee.vn/universal-link/collections/1185066?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Samsung 
+
+https://shopee.vn/universal-link/collections/1185068?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Xiaomi 
+
+
+https://shopee.vn/universal-link/collections/1237045?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-LaRochePosay 
+
+https://shopee.vn/universal-link/collections/1237056?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Focallure 
+
+https://shopee.vn/universal-link/collections/1237060?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Bobby 
+
+
+https://shopee.vn/universal-link/collections/1185091?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Coolmate 
+
+https://shopee.vn/universal-link/collections/1185101?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Tingoan 
+
+https://shopee.vn/universal-link/collections/1185106?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email&utm_content=Headline-Lock&Lock 
+
+
+
+
+https://shopee.vn/universal-link/daily_discover?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+ 
+ 
+https://shopee.vn/product/366817165/21327190565 
+
+Giày thể thao JD sneaker cổ thấp màu đen trắng đế 
+
+ ₫1.111
+ 
+ 
+5902 đã bán
+ 
+ 
+ 
+ 
+https://shopee.vn/product/564113597/21254441757 
+
+Trà sữa POZAA tự pha vị truyền thống, hoàng kim, t
+
+ 
+ ₫179.000
+₫150.000
+ 
+ 
+3043 đã bán
+ 
+ 16%
+GIẢM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://shopee.vn/product/707424749/20716773870 
+
+COMBO Bánh Tráng Phơi Sương 500g - Muối Tôm Hành P
+
+ 
+ ₫90.000
+₫67.880
+ 
+ 
+27376 đã bán
+ 
+ 24%
+GIẢM
+ 
+ 
+ 
+ 
+https://shopee.vn/product/662490519/20651840002 
+
+Áo thun basic form rộng EIGHTEEN chipgenz, áo in c
+
+ 
+ ₫2.200
+₫1.100
+ 
+ 
+15745 đã bán
+ 
+ 50%
+GIẢM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://shopee.vn/product/38129983/20242559638 
+
+[CÓ SẴN SHIP NGAY] Nước hoa Johnson Baby mùi thơm 
+
+ 
+ ₫40.000
+₫28.000
+ 
+ 
+3677 đã bán
+ 
+ 30%
+GIẢM
+ 
+ 
+ 
+ 
+https://shopee.vn/product/877178625/18752036174 
+
+Áo khoác nỉ hoodie NI01, áo boomber form rộng over
+
+ 
+ ₫196.000
+₫98.000
+ 
+ 
+19065 đã bán
+ 
+ 50%
+GIẢM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://shopee.vn/product/757151984/18446106122 
+
+Áo Sweater Dáng Rộng Phong Cách 3 Màu cho unisex
+
+ ₫1.000
+ 
+ 
+248 đã bán
+ 
+ 
+ 
+ 
+https://shopee.vn/product/89827191/18346708746 
+
+Ốp lưng iphone camera nơ heo dễ thương 6/6plus/6s/
+
+ 
+ ₫7.500
+₫4.000
+ 
+ 
+16572 đã bán
+ 
+ 46%
+GIẢM
+ 
+ 
+ 
+ 
+
+https://shopee.vn/universal-link/daily_discover?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+
+
+
+
+
+https://shopee.vn/universal-link/m/ma-giam-gia?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+https://shopee.vn/universal-link/flash_sale/?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+https://shopee.vn/universal-link/m/shopeegame?smtt=9&c=Shopee&deep_and_deferred=1&pid=Email 
+
+Mua Sắm Cùng Shopee
+
+https://play.google.com/store/apps/details?id=com.shopee.vn 
+
+https://itunes.apple.com/VN/app/id959841449 
+
+https://www.facebook.com/ShopeeVN/ 
+
+https://www.instagram.com/shopee_vn/ 
+
+https://www.youtube.com/channel/UCKcxoGpxOJx3nt83MCG-nuQ 
+
+Subscription Center: https://click.email.shopee.vn/subscription_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563943a90465bc030b5728fdb9fc2b82b6457c1d8b22cd2eb2ba1824dced4cbf908
+ Profile Center: https://click.email.shopee.vn/profile_center.aspx?qs=89ad78f27b4d7d0cb198c2796cfc9e30ebeb8f04d6888958549b679eae5a9a23c32534b8af9746c6978000372814d88e
+ One-click Unsubscribe: https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563943a90465bc030b5728fdb9fc2b82b6404eb411f3f2425be5db797e292a6f1aa0af17accd629ca6f
+ Sender address: Shopee Singapore Private Limited 2 Science Park Drive, #03-01, Tower A Ascent Singapore SG 118222 SG
+ 
+
+
+https://shopee.vn/docs/3603 
+Chinh S&aacute;ch Bảo Mật     |   
+https://shopee.vn/docs/3602 
+Điều Khoản Dịch Vụ     |   
+https://view.email.shopee.vn/?qs=3bc45e7c77fe8361ba3f719b4e62957eb363dae760c7a15427f55e7ae88b3d924d5d712004c04d744c7d4c641ab3363d38fd69928042026f61712750625ea520 
+Nhấn vao đay nếu khong xem được nội dung      |   
+https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563943a90465bc030b5728fdb9fc2b82b6404eb411f3f2425be5db797e292a6f1aa0af17accd629ca6f 
+Ngừng nhận bản tin 
+
+Email nay được gửi tự động. Xin đừng trả lời email nay.
+
+Them 
+mailto:news@email.shopee.vn 
+news@email.shopee.vn  vao sổ địa chỉ để đảm bảo bạn nhận được bản tin Shopee trong inbox.
+
+
+Cong Ty TNHH Shopee, Tầng 5, Th&aacute;p 1, Toa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Kh&aacute;nh, Quận Ba Đinh, Thanh phố Ha Nội
+
+
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+
+
+
+  
+    
+    
+    
+    
+    
+    
+  
+  
+✨Freeship đến 70K ✨Voucher từ shop đến 30K ✨Mã hoàn xu đến 200K ✨Thương hiệu sale đỉnh: Apple, Samsung, La Roche Posay, Bobby, Coolmate, Lock&Lock,... 👉Chốt đơn ngay>>
+    
+      
+      
+    
+    
+      
+        
+          
+        
+      
+      
+        
+          
+            
+              
+                
+                
+                  
+                  
+                    
+                      
+                        
+                          
+                          
+                            
+                            
+                              
+                                
+                                  
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+        ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌       
+  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌         ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+    
+
+  
+    
+      
+    
+  
+
+
+
+  
+
+
+
+  
+  
+  
+  
+
+
+  
+
+ 
+  
+   
+    
+     Shopee Mall
+    
+     Thời Trang 
+    
+     Công Nghệ 
+    
+     Gia Dụng 
+    
+     Thực Phẩm 
+    
+     Voucher Dịch Vụ
+  
+
+  
+    
+      
+                
+          
+          
+    Thêm 3 đơn và 1.000.000 ₫ để thăng hạng Bạc Shopee Rewards (từ 24 Oct)
+                    
+        
+      
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+    
+  
+
+
+  
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Giày thể thao JD sneaker cổ thấp màu đen trắng đế 
+            
+          
+        
+        
+          
+               
+            
+            ₫1.111
+            
+             
+            5902 đã bán
+          
+          
+            
+          
+        
+      
+    
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Trà sữa POZAA tự pha vị truyền thống, hoàng kim, t
+            
+          
+        
+        
+          
+            
+            ₫179.000
+             
+            ₫150.000
+            
+             
+            3043 đã bán
+          
+          
+            
+            
+              16
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+  
+  
+     
+    
+  
+  
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            COMBO Bánh Tráng Phơi Sương 500g - Muối Tôm Hành P
+            
+          
+        
+         
+          
+            
+            ₫90.000
+             
+            ₫67.880
+            
+             
+            27376 đã bán
+          
+          
+            
+            
+              24
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Áo thun basic form rộng EIGHTEEN chipgenz, áo in c
+            
+          
+        
+        
+          
+            
+            ₫2.200
+             
+            ₫1.100
+            
+             
+            15745 đã bán
+          
+          
+            
+            
+              50
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+  
+  
+     
+    
+  
+  
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            [CÓ SẴN SHIP NGAY] Nước hoa Johnson Baby mùi thơm 
+            
+          
+        
+        
+          
+            
+            ₫40.000
+             
+            ₫28.000
+            
+             
+            3677 đã bán
+          
+          
+            
+            
+              30
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Áo khoác nỉ hoodie NI01, áo boomber form rộng over
+            
+          
+        
+        
+          
+            
+            ₫196.000
+             
+            ₫98.000
+            
+             
+            19065 đã bán
+          
+          
+            
+            
+              50
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+  
+  
+     
+    
+  
+  
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Áo Sweater Dáng Rộng Phong Cách 3 Màu cho unisex
+            
+          
+        
+        
+          
+               
+            
+            ₫1.000
+            
+             
+            248 đã bán
+          
+          
+            
+          
+        
+      
+    
+     
+    
+    
+      
+        
+          
+            
+          
+        
+        
+          
+            Ốp lưng iphone camera nơ heo dễ thương 6/6plus/6s/
+            
+          
+        
+         
+          
+            
+            ₫7.500
+             
+            ₫4.000
+            
+             
+            16572 đã bán
+          
+          
+            
+            
+              46
+              %
+               
+              GIẢM
+            
+            
+          
+        
+      
+    
+     
+    
+  
+
+
+  
+    
+      
+    
+  
+
+
+
+  
+    
+      
+        
+          
+            
+          
+          
+            
+          
+          
+            
+          
+        
+      
+    
+  
+
+
+  
+    
+      
+    
+    
+      
+    
+    
+      
+    
+  
+
+  
+    
+      
+        Mua Sắm Cùng Shopee
+      
+    
+  
+  
+    
+      
+        
+          
+                       
+            
+              
+                       
+          
+          
+                       
+            
+              
+                           
+          
+        
+      
+    
+  
+  
+    
+      
+        
+          
+                       
+                       
+          
+          
+                       
+                           
+          
+          
+                       
+                          
+          
+        
+      
+    
+  
+
+
+  
+    Subscription Center: https://click.email.shopee.vn/subscription_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563943a90465bc030b5728fdb9fc2b82b6457c1d8b22cd2eb2ba1824dced4cbf908
+      Profile Center: https://click.email.shopee.vn/profile_center.aspx?qs=89ad78f27b4d7d0cb198c2796cfc9e30ebeb8f04d6888958549b679eae5a9a23c32534b8af9746c6978000372814d88e
+      One-click Unsubscribe: https://click.email.shopee.vn/unsub_center.aspx?qs=89ad78f27b4d7d0c4b3916f68b2ec563943a90465bc030b5728fdb9fc2b82b6404eb411f3f2425be5db797e292a6f1aa0af17accd629ca6f
+      Sender address: Shopee Singapore Private Limited 2 Science Park Drive, #03-01, Tower A Ascent Singapore SG 118222 SG
+    
+  
+
+	Chính Sách Bảo Mật    |   Điều Khoản Dịch Vụ    |   
+Nhấn vào đây nếu không xem được nội dung     |   
+Ngừng nhận bản tin
+	
+		Email này được gửi tự động. Xin đừng trả lời email này.
+		Thêm news@email.shopee.vn vào sổ địa chỉ để đảm bảo bạn nhận được bản tin Shopee trong inbox.
+		Công Ty TNHH Shopee, Tầng 5, Tháp 1, Tòa Capital Place, số 29 đường Liễu Giai, Phường Ngọc Khánh, Quận Ba Đình, Thành phố Hà Nội
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                              
+                                
+                                  
+                                  
+                                
+                              
+                            
+                          
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+      
+        
+          
+        
+      
+    
+  
+

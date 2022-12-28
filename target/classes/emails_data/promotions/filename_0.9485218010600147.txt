@@ -1,0 +1,114 @@
+Stories from your activity
+
+-----
+
+Question: What special characters are allowed in names?
+
+
+Answer from Howard Lardner
+
+
+For people’s names the hyphen - is the most obvious.
+
+Umlauts and cedillas etc in European names, of course:
+
+öœéáç ….
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MXwxfDIyNTQ0MDAwNiJ9&al_pri=8&aoid=HgDkRvYBeU&aoty=1&aty=4&cp=1&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=HgDkRvYBeU&uid=3jcQmF94xLr&v=0
+-----
+Question: What characters can't be used in a file name?
+
+
+Answer from Jason Montoya
+
+
+It’s best to avoid characters that may be used for special purposes in systems that may access those files. Your operating system likely won’t allow you to use characters  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MnwxfDI5MTY3MDczMyJ9&al_pri=8&aoid=LSzU6CsKh34&aoty=1&aty=4&cp=2&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=LSzU6CsKh34&uid=3jcQmF94xLr&v=0
+-----
+Question: Why is / not allowed in file names?
+
+
+Answer from Georgi Georgiev
+
+
+The backslash in file name are restricted only on UNIX based systems and Windows OS.
+
+Backslash or the “/” is used as a path name component separator in Unix-like, Windows 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8M3wxfDE2NzU4NDkyNSJ9&al_pri=8&aoid=IQewmqDQJN7&aoty=1&aty=4&cp=3&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=IQewmqDQJN7&uid=3jcQmF94xLr&v=0
+-----
+Question: Why can't I put certain symbols in a file name on Windows?
+
+
+Answer from Leo Carmo
+
+
+Because the restricted symbols are special characters used for file manipulation in the command prompt, or else (the backslash) serve to identify a piece of the filesystem 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NHwxfDQ2MzY5NTYzIn0%3D&al_pri=8&aoid=jK6Cyoqp9FH&aoty=1&aty=4&cp=4&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=jK6Cyoqp9FH&uid=3jcQmF94xLr&v=0
+-----
+Question: Why can’t a file name be \ / : * ? " < > |?
+
+
+Answer from Ozz Nixon
+
+
+Technically, you can use all of those characters in all operating systems. The challenges will be - the software you are using, will it allow you to type them in? Or will  
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NXwxfDE2NjQ3NzUwMSJ9&al_pri=8&aoid=8RViP31HNNQ&aoty=1&aty=4&cp=5&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=8RViP31HNNQ&uid=3jcQmF94xLr&v=0
+-----
+Question: Why can’t the file name in Windows use the special characters? Is there a hack for this?
+
+
+Answer from Barry Stanly
+
+
+There are several different file systems in use. Most of them have some reserved characters. The designers could have provided a work around to allow them in file names, b 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8NnwxfDIyNDkzNjM2NSJ9&al_pri=8&aoid=q7q5F4rT0vQ&aoty=1&aty=4&cp=6&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=q7q5F4rT0vQ&uid=3jcQmF94xLr&v=0
+-----
+Question: Can I use the "&" symbol in a file name?
+
+
+Answer from Carl Reynolds
+
+
+You didn’t state which operating system you’re trying to create a file on. It’s been a while since I used Windows so I don’t remember if ‘&’ is a legal character there.
+
+S 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8N3wxfDE1MDYwNDA3NyJ9&al_pri=8&aoid=3GEglBys5sd&aoty=1&aty=4&cp=7&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=3GEglBys5sd&uid=3jcQmF94xLr&v=0
+-----
+Question: What are illegal characters in filename in ios?
+
+
+Answer from Václav Hodek
+
+
+iOS is using HFSX (case-insensitive HFS+). You can read more about this file system here: HFS Plus [ https://en.wikipedia.org/wiki/HFS_Plus ]
+
+HFS+ supports unicode for fi 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OHwxfDE2MTczMzU5In0%3D&al_pri=8&aoid=F4psrgEFrvU&aoty=1&aty=4&cp=8&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=F4psrgEFrvU&uid=3jcQmF94xLr&v=0
+-----
+Question: Why are some symbols not allowed in computer file naming?
+
+
+Answer from David Riecks
+
+
+Nat:
+
+Part of the answer depends on which operating system (OS) platform you are using, and / or if you are exchanging files with others on these platforms. There are a nu 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8OXwxfDI3ODcyNjk4MiJ9&al_pri=8&aoid=4Ar4hWXwIEQ&aoty=1&aty=4&cp=9&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=4Ar4hWXwIEQ&uid=3jcQmF94xLr&v=0
+-----
+Question: Why can't we use the underscore character in a file name?
+
+
+Answer from Dennis Rockwell
+
+
+The phenominally stupid Quora Prompt Generator strikes again with a truly ignorant and misleading question.
+
+Perhaps those who unleashed that abomination should keep it fr 
+Read More: https://www.quora.com/qemail/track_click?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjB8MTB8MXwzODA2NDk5MTQifQ%3D%3D&al_pri=8&aoid=RnORV4DIFSS&aoty=1&aty=4&cp=10&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source=7&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty=1&ty_data=RnORV4DIFSS&uid=3jcQmF94xLr&v=0
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1669117791574439&et=130&id=a63c19d319c54b8bbe5b913c279dce6a&source&src=1&st=1669117791577796&stories=1_HgDkRvYBeU%7C1_LSzU6CsKh34%7C1_IQewmqDQJN7%7C1_jK6Cyoqp9FH%7C1_8RViP31HNNQ%7C1_q7q5F4rT0vQ%7C1_3GEglBys5sd%7C1_F4psrgEFrvU%7C1_4Ar4hWXwIEQ%7C1_RnORV4DIFSS&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=a63c19d319c54b8bbe5b913c279dce6a&t=1669117791581559&token=577b26912a3af8052bab1083fa31a46b4ca709f01fb2be0e4bc00f1f8298cc3d747d0ca1737a6265dbdb8d351b33258476af8c8fdd4d0aee745f4e27e6c41f94&type=130&uid=610629155More related to "Why are special characters not allowed in file names?"For people’s names the hyphen - is the most obvious. Umlauts and cedillas etc in European names, of course: öœéáç ….Stories from your activityWhat special characters are allowed in names?Howard LardnerAnswered July 3, 2020For people’s names the hyphen - is the most obvious.Umlauts and cedillas etc in European names, of course:öœéáç ….Read more »What characters can't be used in a file name?Jason Montoya, Worked with computers since Commodore Vic-20 in 1980sAnswered June 25, 2021It’s best to avoid characters that may be used for special purposes in systems that may access those files. Your operating system likely won’t allow you to use characters r...Read more »Why is / not allowed in file names?Georgi Georgiev, Computer Analytic at DXC Technology (2019-present)Answered September 14, 2019The backslash in file name are restricted only on UNIX based systems and Windows OS.Backslash or the “/” is used as a path name component separator in Unix-like, Windows, a...Read more »Why can't I put certain symbols in a file name on Windows?Leo Carmo, Lawyer (2014-present)Answered June 2, 2017Because the restricted symbols are special characters used for file manipulation in the command prompt, or else (the backslash) serve to identify a piece of the filesystem ...Read more »Why can’t a file name be \ / : * ? " < > |?Ozz Nixon, studied at CUpdated October 3, 2019Technically, you can use all of those characters in all operating systems. The challenges will be - the software you are using, will it allow you to type them in? Or will i...Read more »Why can’t the file name in Windows use the special characters? Is there a hack for this?Barry Stanly, MA Physics, University of California, Irvine (1973)Answered June 30, 2020There are several different file systems in use. Most of them have some reserved characters. The designers could have provided a work around to allow them in file names, bu...Read more »Can I use the "&" symbol in a file name?Carl Reynolds, Principal Graphics Specialist (1983-present)Updated January 18You didn’t state which operating system you’re trying to create a file on. It’s been a while since I used Windows so I don’t remember if ‘&’ is a legal character there.Shor...Read more »What are illegal characters in filename in ios?Václav Hodek, CEO at localazy.com (developer-friendly app localization)Answered October 10, 2015iOS is using HFSX (case-insensitive HFS+). You can read more about this file system here: HFS PlusHFS+ supports unicode for filenames and so virtually any filename is legal...Read more »Why are some symbols not allowed in computer file naming?David Riecks, assignment & stock photographer, member IPTC Photo Metadata Working GroupAnswered April 26, 2021Nat:Part of the answer depends on which operating system (OS) platform you are using, and / or if you are exchanging files with others on these platforms. There are a numbe...Read more »Why can't we use the underscore character in a file name?Dennis Rockwell, Software EngineerAnswered August 29The phenominally stupid Quora Prompt Generator strikes again with a truly ignorant and misleading question.Perhaps those who unleashed that abomination should keep it from ...Read more »Search More on QuoraThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com

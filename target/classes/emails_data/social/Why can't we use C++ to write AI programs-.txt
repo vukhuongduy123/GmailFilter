@@ -1,0 +1,92 @@
+Duy's Digest
+Your Quora Digest
+
+-----
+
+
+Question: Why can't we use C++ to write AI programs?
+
+Answer from Mario Galindo Queralt
+
+“I am a researcher in AI. Believe me, almost all AI frameworks (that I know, and I know a lot) are written in C++ or, may be, some part in Fortran. Python is only an interface
+Read More: http://www.quora.com/Why-cant-we-use-C-to-write-AI-programs?top_ans=130585264
+-----
+Question: I am 25 years old currently working in an IT company. From the last few months, I am feeling very depressed about my future. I think I made a mistake by choosing IT as a career. What should I do?
+
+Answer from Jay Bazzinotti
+
+I did this.
+
+I went to school for Computer Science, wanted to be an engineer. Sat in the computer room with all the other geeks where we all stank of sweat and body odor becau
+Read More: http://www.quora.com/I-am-25-years-old-currently-working-in-an-IT-company-From-the-last-few-months-I-am-feeling-very-depressed-about-my-future-I-think-I-made-a-mistake-by-choosing-IT-as-a-career-What-should-I-do?top_ans=235927823
+-----
+Question: Why is everyone using Linux?
+
+Answer from Larye Parkins
+
+The question “Why is everyone using Linux,” is better stated: “why does everyone who uses Linux use it [instead of something else].”
+
+ * Windows simply doesn’t satisfy our nee
+Read More: http://www.quora.com/Why-is-everyone-using-Linux?top_ans=234867126
+-----
+Question: How do high IQ people study?
+
+Answer from Frank Hosszu
+
+I have a daughter who has a high IQ. She’s a psychologist and so is my wife.
+
+When she (my daughter) was studying, the one thing I noticed about her was that she was a very in
+Read More: http://www.quora.com/How-do-high-IQ-people-study?top_ans=210802675
+-----
+Question: I am falling from 900,000 feet. I have no parachute nor a backup parachute. If I were able to make my landing in the ocean, could I survive?
+
+Answer from Susanna Viljanen
+
+No.
+
+First, 900,000 feet makes 275 kilometres, which means you will be falling from space. You will die from asphyxiation first - there is no oxygen to inhale. Second, you wil
+Read More: http://www.quora.com/I-am-falling-from-900-000-feet-I-have-no-parachute-nor-a-backup-parachute-If-I-were-able-to-make-my-landing-in-the-ocean-could-I-survive?top_ans=218867998
+-----
+Question: Should I round up my 2.9 GPA to a 3.0 for my resume?
+
+Answer from Joseph Ray Mancini
+
+Never, ever, lie on a resume or during a job interview. As an example, I was interviewing for an assistant principal’s job. The superintendent asked me, “Mr. Mancini, why shou
+Read More: http://www.quora.com/Should-I-round-up-my-2-9-GPA-to-a-3-0-for-my-resume?top_ans=116905521
+-----
+Question: Is it late to learn Python at the age of 29 and try to start a career in programming?
+
+Answer from Carlos Miguel Farías
+
+I started programming at 20, I have been doing it for more than 40, I started with Python at 53.
+
+I'm still learning to program, I'm still learning Python. According to life e
+Read More: http://www.quora.com/Is-it-late-to-learn-Python-at-the-age-of-29-and-try-to-start-a-career-in-programming?top_ans=232840651
+-----
+Question: My IQ was about 120 to 130 when I was 12. I am 17 now. To what extent could it have changed until now?
+
+Answer from Alastair J. Archibald
+
+When I was 10, I was credited with an IQ of 170. By the time I was 16, it was measured at 155. When I took the Mensa exam six years ago at the age of 50, I passed with a score
+Read More: http://www.quora.com/My-IQ-was-about-120-to-130-when-I-was-12-I-am-17-now-To-what-extent-could-it-have-changed-until-now?top_ans=175667379
+-----
+Question: What if I took my iPhone 11 to 1945? What would scientist think?
+
+Answer from Richard Cownie
+
+Let’s assume that you have power for it and can show it running some apps. They would be impressed by how it works, perhaps particularly by the color screen and the tiny but h
+Read More: http://www.quora.com/What-if-I-took-my-iPhone-11-to-1945-What-would-scientist-think?top_ans=240089334
+-----
+Question: Is writing a compiler very easy?
+
+Answer from Barry Rountree
+
+It’s something we teach undergrad CS majors to do in a semester. It might be the most code they’ve ever written that quickly (I recall mine took 10k lines in just five weeks) 
+Read More: http://www.quora.com/Is-writing-a-compiler-very-easy?top_ans=238564363
+-----
+
+-----
+To control which emails we send you, visit: https://www.quora.com/qemail/track_click?aoid&aoty=14&aty=4&cp=0&ct=1602667858762353&et=2&id=e8ad0a68de6b4378b44ac8cdabc3d655&request_id=828569495806066355&source&src=1&st=1602667858762353&stories=1_RMlwiwSXnT1%7C1_XpXO2pdnZT8%7C1_RWx7zJmqfr8%7C1_mhJV7zMKVlU%7C1_jJ1ShMuo3oY%7C1_FLYmRY65JPF%7C1_LsbAvUcZNyB%7C1_RkotI5CM8QP%7C1_VMgapuOe0N4%7C1_gJHQqiFV07&ty&ty_data&uid=3jcQmF94xLr&v=0
+
+To unsubscribe from this type of email, visit: http://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=e8ad0a68de6b4378b44ac8cdabc3d655&t=1602667859346889&token=75901ea3112beef1340f84c1381ef2b727540998fae22cfda198b7feb9a5df927452d16de14a88be3e2b823c4e2c660286aa27154e31a389888b14611351832f&type=2&uid=610629155
+Answer: “I am a researcher in AI.​ Believe me, almost all AI frameworks (that I.​.​.​Duy's DigestTop Stories For YouWhy can't we use C++ to write AI programs? Mario Galindo Queralt, Ph.D. - Artificial Intelligence Researcher and CEO at PAITIUpdated Oct 12, 2019“I am a researcher in AI. Believe me, almost all AI frameworks (that I know, and I know a lot) are written in C++ or, may be, some part in Fortran. Python is only an interf... Read More »I am 25 years old currently working in an IT company. From the last few months, I am feeling very depressed about my future. I think I made a mistake by choosing IT as a career. What should I do? Jay Bazzinotti, Hope is the dream of the waking man.Updated Oct 7I did this.I went to school for Computer Science, wanted to be an engineer. Sat in the computer room with all the other geeks where we all stank of sweat and body odor beca... Read More »Why is everyone using Linux? Larye Parkins, Software Engineer, Sysadmin, and programming language junkieWritten Aug 23The question “Why is everyone using Linux,” is better stated: “why does everyone who uses Linux use it [instead of something else].”Windows simply doesn’t satisfy our needs... Read More »How do high IQ people study? Frank Hosszu, former Disability Worker/Nursing AssistantUpdated 21h agoI have a daughter who has a high IQ. She’s a psychologist and so is my wife.When she (my daughter) was studying, the one thing I noticed about her was that she was a very i... Read More »I am falling from 900,000 feet. I have no parachute nor a backup parachute. If I were able to make my landing in the ocean, could I survive? Susanna Viljanen, works at Aalto UniversityUpdated Jul 22No.First, 900,000 feet makes 275 kilometres, which means you will be falling from space. You will die from asphyxiation first - there is no oxygen to inhale. Second, you wi... Read More »Should I round up my 2.9 GPA to a 3.0 for my resume? Joseph Ray Mancini, former ESL Teacher at English as a Second Language (2014-2018)Updated Sep 19, 2019Never, ever, lie on a resume or during a job interview. As an example, I was interviewing for an assistant principal’s job. The superintendent asked me, “Mr. Mancini, why s... Read More »Is it late to learn Python at the age of 29 and try to start a career in programming? Carlos Miguel FaríasWritten Aug 12I started programming at 20, I have been doing it for more than 40, I started with Python at 53.I'm still learning to program, I'm still learning Python. According to life ... Read More »My IQ was about 120 to 130 when I was 12. I am 17 now. To what extent could it have changed until now? Alastair J. Archibald, Atheist, Humanist, Guitarist, Electronics Engineer, Lay Scientist, Mensa Member,...Written Oct 21, 2019When I was 10, I was credited with an IQ of 170. By the time I was 16, it was measured at 155. When I took the Mensa exam six years ago at the age of 50, I passed with a sc... Read More »What if I took my iPhone 11 to 1945? What would scientist think? Richard CownieWritten Sep 21Let’s assume that you have power for it and can show it running some apps. They would be impressed by how it works, perhaps particularly by the color screen and the tiny bu... Read More »Is writing a compiler very easy? Barry RountreeWritten Sep 13It’s something we teach undergrad CS majors to do in a semester. It might be the most code they’ve ever written that quickly (I recall mine took 10k lines in just five week... Read More » Read More in Your FeedFollow Quora on:Get the App for iOS and AndroidThis email was sent by Quora (605 Castro Street, Mountain View, CA 94041). If you don't want to receive this type of email in the future, please unsubscribe.http://www.quora.com/

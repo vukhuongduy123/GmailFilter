@@ -1,0 +1,138 @@
+Top stories for Duy
+
+-----
+
+Question: Is Haskell as fast as C++? If not, why not?
+
+
+Answer from Jon Watte
+
+
+I think I have pretty solid experience to answer this.
+
+First: Yes, for many inner loop constructs, it's likely that a highly-skilled C++ implementation will consume fewer 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwxfDF8MTYxNzE1ODgifQ%3D%3D&al_pri=8&aoid=zhXALfuHRH1&aoty=1&aty=4&cp=1&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: Is Sansa really Ned's child?
+
+
+Answer from Zada Black
+
+
+Of course she's not. I mean come on! Sansa being a legitimate child in Westeros? Too mainstream.
+
+Luckily, George Martin admitted this on an interview and made it clear: “ 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwyfDF8MzQ3OTc3NTQ1In0%3D&al_pri=8&aoid=4mDShNMhJsr&aoty=1&aty=4&cp=2&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: Does Netflix use SQL or NoSQL?
+
+
+Answer from Greg Kemnitz
+
+
+Like nearly all nontrivial companies, the answer to the question is “Yes”.
+
+Any large organization will have hundreds if not thousands of databases, and they’ll use everyt 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwzfDF8Mzc2MTY1NTMwIn0%3D&al_pri=8&aoid=IYM6QmkclDx&aoty=1&aty=4&cp=3&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: Is Node.js more scalable than Java?
+
+
+Answer from Dave Voorhis
+
+
+The question is worse than comparing apples to oranges. It’s like asking, “Is a cat a better hunter than swimming?”
+
+Node.js is a JavaScript-based environment for creating 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw0fDF8MzcxODU3ODMzIn0%3D&al_pri=8&aoid=qB4HBIxmDau&aoty=1&aty=4&cp=4&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: What is the saddest part of being a programmer?
+
+
+Answer from Kurt Guntheroth
+
+
+Some sad things about being a programmer:
+
+ * My friend, who worked at Boeing, could pick his toddler up and point at an airplane flying overhead, and say, “See that? Dadd 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw1fDF8MzIyNjQzNjI1In0%3D&al_pri=8&aoid=qBpU7lEmUnj&aoty=1&aty=4&cp=5&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: What can high IQ people do that average IQ people can't?
+
+
+Answer from Larry Koopa
+
+
+I’m glad you asked. As an extremely high IQ individual myself (I have an IQ of 161) I often catch myself being able to do things that the average person could never dream  
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw2fDF8MzY0NDU4MDk4In0%3D&al_pri=8&aoid=MNC0rAKQOFT&aoty=1&aty=4&cp=6&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: Why couldn’t Bruce Wayne use his detective skills to find out that Clark Kent is Superman?
+
+
+Answer from Dennis Manning
+
+
+He did. At their first meeting, Superman used x-ray vision to look through Batman’s cowl to discover his identity.
+
+When he got home later that evening, he realized that d 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw3fDF8MzQ0ODkyNjE5In0%3D&al_pri=8&aoid=Len9OELj1LY&aoty=1&aty=4&cp=7&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: Is my RTX 3080 10GB going to be useless after the release of RTX 4000 cards?
+
+
+Answer from Stefan Gebhardt
+
+
+Yes, just like the 2080 became immediately useless when the 3000 series came out. Or the 1080 became immediately useless with the 2000 series. Just go to a landfill, it's  
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw4fDF8Mzg2MTM3MDU1In0%3D&al_pri=8&aoid=oqRF1gzxnG6&aoty=1&aty=4&cp=8&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: How was Thanos able to lift both Mjölnir and Stormbreaker?
+
+
+Answer from Dana Schrack
+
+
+He was able to lift Stormbreaker because Stormbreaker is purely about strength. In Infinity War, when Thor was asked by the Guardians of the Galaxy,
+
+Peter Quill: Don't yo 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHw5fDF8MTQ0MzA4NDk4In0%3D&al_pri=8&aoid=XJAI1opE3B1&aoty=1&aty=4&cp=9&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: How do C compilers produce machine code for switch statements and cases?
+
+
+Answer from Joe Zbiciak
+
+
+More ways than you might imagine, actually.
+
+Roger Sayle wrote a comprehensive description [ https://www.nextmovesoftware.com/technology/SwitchOptimization.pdf ] of some o 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwxMHwxfDM1Nzg2MzMwMCJ9&al_pri=8&aoid=bp6Arza52VU&aoty=1&aty=4&cp=10&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: As a C++ developer, what do you think Rust lacks that makes it hard for C++ developers to depend on it?
+
+
+Answer from Joe Wezorek
+
+
+It’s not what it lacks it’s what it demands.
+
+Playing nice with the borrow checker is an onerous constraint. The components of many common data structures do not have clea 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwxMXwxfDM4NjkwODA2MCJ9&al_pri=8&aoid=IZKam199gih&aoty=1&aty=4&cp=11&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+Question: What do software engineers do after 35?
+
+
+Answer from Alan Mellor
+
+
+ * They get loads of offers on LinkedIn to work for places
+ * They have much less competition in the market
+ * They can demonstrate strong track records of getting stuff d 
+Read More: https://www.quora.com/qemail/tc?al_imp=eyJ0eXBlIjogMzMsICJoYXNoIjogIjg0MTg3NTczMDMwMjI1ODI5MHwxMnwxfDM2NjMxMzc1MSJ9&al_pri=8&aoid=jX9yIBTX5lW&aoty=1&aty=4&cp=12&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+-----
+
+-----
+
+To control which emails we send you, visit: https://www.quora.com/qemail/tc?aoid&aoty=14&aty=4&cp=0&et=2&id=1d970c006b5b4f0ab61502d688d33fa2&uid=3jcQmF94xLr
+
+To unsubscribe from this type of email, visit: https://www.quora.com/email_optout/qemail_unsubscribe?email_track_id=1d970c006b5b4f0ab61502d688d33fa2&t=1666157906435222&token=446efb987f13500f26aa8ab0dad3f0e5fc6a9952994151ed151f14602a656d581731015f0a8eadf6f7d7dbbbf130d1c47883f6c303e0327a8bb5bd9452eafef7&type=2&uid=610629155Is Haskell as fast as C++? If not, why not?I think I have pretty solid experience to answer this. First: Yes, for many inner loop constructs, it's likely that a highly-skilled C++ implementation will consume fewer CPU cycles and miss th… Top stories for Duy Is Haskell as fast as C++? If not, why not?Jon Watte, Running REST services implemented in Haskell under real load in production • Answered October 10, 2015I think I have pretty solid experience to answer this. First: Yes, for many inner loop constructs, it's likely that a highly-skilled C++ implementation will consume fewer CP... Read more »66.8K19111 Is Sansa really Ned's child?Zada Black, Is Sansa Really Ned's Daughter? • Answered April 3Of course she's not. I mean come on! Sansa being a legitimate child in Westeros? Too mainstream. Luckily, George Martin admitted this on an interview and made it clear: “I h... Read more »10.1M1.6K169 Does Netflix use SQL or NoSQL?Greg Kemnitz, Postgres internals, embedded device db internals, MySQL user-level • Answered August 12Like nearly all nontrivial companies, the answer to the question is “Yes”. Any large organization will have hundreds if not thousands of databases, and they’ll use everythin... Read more »401.8K632 Is Node.js more scalable than Java?Dave Voorhis, Software entrepreneur, engineer, and educator for 35+ years. • Answered July 27The question is worse than comparing apples to oranges. It’s like asking, “Is a cat a better hunter than swimming?” Node.js is a JavaScript-based environment for creating di... Read more »331.4K29211 What is the saddest part of being a programmer?Kurt Guntheroth, Software Engineer and Writer • Answered November 27, 2021Some sad things about being a programmer: My friend, who worked at Boeing, could pick his toddler up and point at an airplane flying overhead, and say, “See that? Daddy did ...Read more »937K7.9K162 What can high IQ people do that average IQ people can't?Larry Koopa, Koopaling Clan Leader (1988-present) • Answered June 25I’m glad you asked. As an extremely high IQ individual myself (I have an IQ of 161) I often catch myself being able to do things that the average person could never dream o... Read more »3.5M1.8K116 Why couldn’t Bruce Wayne use his detective skills to find out that Clark Kent is Superman?Dennis Manning, Occasional superhero • Answered March 18He did. At their first meeting, Superman used x-ray vision to look through Batman’s cowl to discover his identity. When he got home later that evening, he realized that desp... Read more »3.5M6.7K109 Is my RTX 3080 10GB going to be useless after the release of RTX 4000 cards?Stefan Gebhardt, studied at Munich University of Applied Sciences • Updated October 6Yes, just like the 2080 became immediately useless when the 3000 series came out. Or the 1080 became immediately useless with the 2000 series. Just go to a landfill, it's f... Read more »2.7M4.4K86 How was Thanos able to lift both Mjölnir and Stormbreaker?Dana Schrack, Huge Marvel and movie fan • Answered May 29, 2019He was able to lift Stormbreaker because Stormbreaker is purely about strength. In Infinity War, when Thor was asked by the Guardians of the Galaxy, Peter Quill: Don't you t... Read more »2.8M1.8K66 How do C compilers produce machine code for switch statements and cases?Joe Zbiciak, Optimized C code on exposed-pipeline VLIW CPUs. • Updated May 26More ways than you might imagine, actually. Roger Sayle wrote a comprehensive description of some of these approaches. That's right, his list is comprehensive, but not compl... Read more »21.6K946 As a C++ developer, what do you think Rust lacks that makes it hard for C++ developers to depend on it?Joe Wezorek, 25 years of professional software engineering • Updated October 11It’s not what it lacks it’s what it demands. Playing nice with the borrow checker is an onerous constraint. The components of many common data structures do not have clear o... Read more »74.1K20122 What do software engineers do after 35?Alan Mellor, Software Developer since 1981 • Answered July 4They get loads of offers on LinkedIn to work for placesThey have much less competition in the marketThey can demonstrate strong track records of getting stuff doneThey can ...Read more »555.7K1.6K29Read more in your feedNever miss a story. Designed for readers on the go.  Missing out on Quora emails? Be sure to add us to your primary inbox.This email was sent by Quora (605 Castro Street, Mountain View, CA 94041).If you don't want to receive this type of email in the future, please unsubscribe.https://www.quora.com
