@@ -27,26 +27,18 @@ public class TopBarButtons {
 		panel = new JPanel();
 		panel.add(previousButton);
 		panel.add(nextButton);
-		nextButton.addActionListener(new ActionListener() {
-			@SneakyThrows
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				nextButton.setEnabled(false);
-				Task task = new Task(progressBar, nextButton, previousButton, emailsTableView);
-				task.setNextPage(true);
-				task.execute();
-			}
+		nextButton.addActionListener(e -> {
+			nextButton.setEnabled(false);
+			Task task = new Task(progressBar, nextButton, previousButton, emailsTableView);
+			task.setNextPage(true);
+			task.execute();
 		});
 
-		previousButton.addActionListener(new ActionListener() {
-			@SneakyThrows
-			@Override
-			public void actionPerformed(ActionEvent e) {
-				previousButton.setEnabled(false);
-				Task task = new Task(progressBar, nextButton, previousButton, emailsTableView);
-				task.setNextPage(false);
-				task.execute();
-			}
+		previousButton.addActionListener(e -> {
+			previousButton.setEnabled(false);
+			Task task = new Task(progressBar, nextButton, previousButton, emailsTableView);
+			task.setNextPage(false);
+			task.execute();
 		});
 	}
 }

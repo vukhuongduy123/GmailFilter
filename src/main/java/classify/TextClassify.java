@@ -49,7 +49,6 @@ public class TextClassify {
 		trainingInstance = new InstanceList(pipe);
 		trainingInstance.addThruPipe(iterator);
 
-
 		classifierTrainer = new NaiveBayesTrainer();
 		classifierTrainer.train(trainingInstance);
 	}

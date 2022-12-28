@@ -57,7 +57,7 @@ public class GmailAPIService {
 							.messages()
 							.list(userId)
 							.setQ(query)
-							.setMaxResults(50L);
+							.setMaxResults(25L);
 		if (pageToken.get(currentPage) != null) {
 			request.setPageToken(pageToken.get(currentPage));
 		}

@@ -10,6 +10,7 @@ import com.google.api.services.gmail.Gmail;
 import org.json.JSONObject;
 
 import javax.annotation.CheckReturnValue;
+import java.awt.*;
 import java.io.*;
 import java.net.*;
 import java.nio.charset.StandardCharsets;
@@ -24,6 +25,8 @@ public class GmailAPIConnection {
 														  "\\src\\main\\resources\\credentials" +
 														  ".json");
 	private static final String OATH_URL = "https://accounts.google.com/o/oauth2/token";
+	private static final String CODE_URL = "https://accounts.google" +
+										   ".com/o/oauth2/v2/auth?scope=https://mail.google.com&access_type=offline&redirect_uri=http://localhost&response_type=code&client_id=599356532863-f1p2f218clkgbt7m365l2vfdieg8nf4i.apps.googleusercontent.com";
 
 	private GmailAPIConnection() {
 	}
@@ -38,6 +41,12 @@ public class GmailAPIConnection {
 																	 new InputStreamReader(
 																			 new FileInputStream(
 																					 CREDENTIALS_FILE)));
+
+		// get code
+		/*Desktop.getDesktop().browse(new URI(CODE_URL));
+		System.out.println("Enter your code: ");
+		Scanner scanner = new Scanner(System.in);
+		code = scanner.nextLine();*/
 
 		Map<String, Object> codeParams = new HashMap<>();
 		codeParams.put("code", code);

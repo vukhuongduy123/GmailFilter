@@ -54,7 +54,7 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 
 		ListMessagesResponse messages;
 		if (isNextPage()) {
-			messages = GmailAPIService.getInstance().next("me", "in:spam");
+			messages = GmailAPIService.getInstance().next("me", "");
 		} else {
 			messages = GmailAPIService.getInstance().previous("me", "");
 		}
@@ -110,8 +110,6 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 				ex.printStackTrace();
 				return null;
 			}
-
-
 		}
 		return null;
 	}
