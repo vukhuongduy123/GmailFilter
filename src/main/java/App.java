@@ -16,14 +16,14 @@ public class App {
 															 .getResource("logging.properties"))
 									 .getFile();
 				System.setProperty("java.util.logging.config.file", path);
-				String code = JOptionPane.showInputDialog("Enter your code");
-				Gmail gmail = GmailAPIConnection.getGmailService(code);
+				Gmail gmail = GmailAPIConnection.getGmailService();
 				GmailAPIService.getInstance().setGmailService(gmail);
 				MainPanel panel = new MainPanel();
 				MainFrame.getInstance().add(panel.getPanel());
 				panel.getTopBarButtons().getNextButton().doClick();
 				MainFrame.getInstance().pack();
 				MainFrame.getInstance().setVisible(true);
+				MainFrame.getInstance().setLocationRelativeTo(null);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

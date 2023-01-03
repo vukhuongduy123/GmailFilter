@@ -25,43 +25,26 @@ public class GmailAPIConnection {
 														  "\\src\\main\\resources\\credentials" +
 														  ".json");
 	private static final String OATH_URL = "https://accounts.google.com/o/oauth2/token";
-	private static final String CODE_URL = "https://accounts.google" +
-										   ".com/o/oauth2/v2/auth?scope=https://mail.google.com&access_type=offline&redirect_uri=http://localhost&response_type=code&client_id=599356532863-f1p2f218clkgbt7m365l2vfdieg8nf4i.apps.googleusercontent.com";
+	private static final String REFRESH_TOKEN = "1//0eUfJTbTbrnnICgYIARAAGA4SNwF-L9IrB8hmC4YHkK_ZKXYJXbcF6783siISFa0CQDi9LY5icZcX0xuPVWbwXiGPzBC410qZ9Hg";
 
 	private GmailAPIConnection() {
 	}
 
 
 	@CheckReturnValue
-	public static Gmail getGmailService(String code) throws
+	public static Gmail getGmailService() throws
 										  IOException,
-										  GeneralSecurityException,
-										  URISyntaxException {
+										  GeneralSecurityException {
 		GoogleClientSecrets clientSecrets = GoogleClientSecrets.load(JSON_FACTORY,
 																	 new InputStreamReader(
 																			 new FileInputStream(
 																					 CREDENTIALS_FILE)));
 
-		// get code
-		/*Desktop.getDesktop().browse(new URI(CODE_URL));
-		System.out.println("Enter your code: ");
-		Scanner scanner = new Scanner(System.in);
-		code = scanner.nextLine();*/
-
-		Map<String, Object> codeParams = new HashMap<>();
-		codeParams.put("code", code);
-		codeParams.put("client_id", clientSecrets.getDetails().getClientId());
-		codeParams.put("client_secret", clientSecrets.getDetails().getClientSecret());
-		codeParams.put("redirect_uri", "http://localhost");
-		codeParams.put("grant_type", "authorization_code");
-		String refreshToken = Objects.requireNonNull(getOathResponse(codeParams))
-									 .getString("refresh_token");
-
 		Map<String, Object> accessParams = new LinkedHashMap<>();
 		accessParams.put("grant_type", "refresh_token");
 		accessParams.put("client_id", clientSecrets.getDetails().getClientId());
 		accessParams.put("client_secret", clientSecrets.getDetails().getClientSecret());
-		accessParams.put("refresh_token", refreshToken);
+		accessParams.put("refresh_token", REFRESH_TOKEN);
 
 		Credential authorize = new GoogleCredential.Builder().setTransport(
 				GoogleNetHttpTransport.newTrustedTransport())

@@ -7,7 +7,6 @@ import lombok.Setter;
 
 import java.io.IOException;
 import java.util.*;
-import java.util.stream.Stream;
 
 @Getter
 @Setter
@@ -74,7 +73,7 @@ public class GmailAPIService {
 							.messages()
 							.list(userId)
 							.setQ(query)
-							.setMaxResults(50L);
+							.setMaxResults(25L);
 		if (pageToken.get(currentPage) != null) {
 			request.setPageToken(pageToken.get(currentPage));
 		}
@@ -97,24 +96,4 @@ public class GmailAPIService {
 		}
 	}
 
-	public Message setMessageLabels(Gmail gmailService, String userId,
-									String messageId, String labelName) throws IOException {
-		LabelProperties labelProperties =
-				Stream.of(LabelProperties.values())
-					  .filter(e -> e.toString().equalsIgnoreCase(labelName))
-					  .findFirst()
-					  .orElseThrow();
-		Label label = new Label();
-		label.setName(labelProperties.toString());
-		label.setColor(labelProperties.labelColor);
-		label.setId(labelProperties.id);
-		ModifyMessageRequest modifyMessageRequest = new ModifyMessageRequest();
-		modifyMessageRequest.setAddLabelIds(List.of(label.getId()));
-		modifyMessageRequest.setRemoveLabelIds(
-				getMessage(userId, messageId, "minimal").getLabelIds());
-		return gmailService.users()
-						   .messages()
-						   .modify(userId, messageId, modifyMessageRequest)
-						   .execute();
-	}
 }

@@ -47,7 +47,7 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 	@Override
 	@SneakyThrows
 	public Void doInBackground() {
-		progressBar.setRange(0, 50);
+		progressBar.setRange(0, 25);
 		progressBar.getDialog().setVisible(true);
 		int progress = 0;
 		setProgress(progress);
@@ -96,9 +96,13 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 				InstanceList instances = new InstanceList(pipe);
 				instances.addThruPipe(instance);
 
-				ArrayList<Classification> classification = TextClassify.getInstance()
+				ArrayList<Classification> classifications = TextClassify.getInstance()
 																	   .getClassify(instances);
-				List<String> stringArray = classification.stream()
+				System.out.println("----------------------");
+				for (Classification classification: classifications)
+					System.out.println(classification.getLabeling());
+				System.out.println("----------------------");
+				List<String> stringArray = classifications.stream()
 														 .map(e -> e.getLabeling().getBestLabel().toString())
 														 .collect(Collectors.toCollection(ArrayList::new));
 

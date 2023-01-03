@@ -22,6 +22,7 @@ public class ProgressBarDialog {
 		dialog.add(BorderLayout.NORTH, new JLabel("Progress..."));
 		dialog.setDefaultCloseOperation(JDialog.DO_NOTHING_ON_CLOSE);
 		dialog.setSize(300, 75);
+		dialog.setLocationRelativeTo(null);
 	}
 
 	public void setRange(int start, int end) {
@@ -31,6 +32,7 @@ public class ProgressBarDialog {
 	}
 
 	public void iterator() {
+		progressBar.requestFocus();
 		progressBar.setValue(progressBar.getValue() + 1);
 	}
 }

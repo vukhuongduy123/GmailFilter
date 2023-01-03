@@ -1,16 +1,7 @@
 package view;
 
-import com.google.api.services.gmail.model.ListMessagesResponse;
-import com.google.api.services.gmail.model.Message;
-import gmail.GmailAPIService;
 import lombok.Getter;
-import lombok.SneakyThrows;
-import model.MessageModel;
-
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.Collections;
 
 @Getter
 public class TopBarButtons {
