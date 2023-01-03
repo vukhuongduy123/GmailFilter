@@ -13,7 +13,8 @@ import java.util.*;
 public class GmailAPIService {
 	private Gmail gmailService;
 	private final Map<Integer, String> pageToken = new HashMap<>();
-	int currentPage = -1;
+	private int currentPage = -1;
+	private String lastQuery = "";
 
 	private enum LabelProperties {
 		FILTER_HARM("filter: harm(duyvk)", "#434343", "#666666", "1"),
@@ -50,7 +51,12 @@ public class GmailAPIService {
 
 	public ListMessagesResponse next(String userId, String query) throws
 																  IOException {
-		currentPage += 1;
+		if (!query.equals(lastQuery)) {
+			currentPage = 0;
+			pageToken.clear();
+		} else {
+			currentPage += 1;
+		}
 		Gmail.Users.Messages.List request =
 				gmailService.users()
 							.messages()

@@ -16,7 +16,7 @@ import java.util.Optional;
 @AllArgsConstructor
 @NoArgsConstructor
 public class MessageModel {
-	private List<String> classification;
+	private List<String> bestLabel;
 	private Message message;
 
 	public String getSubject() {
@@ -43,16 +43,9 @@ public class MessageModel {
 		return optional.isPresent() ? optional.get().getValue() : "";
 	}
 
-	public String getLabels() {
-		List<String> labelIds = message.getLabelIds();
-		StringBuilder labels = new StringBuilder();
-		labelIds.forEach(e -> labels.append(" ").append(e));
-		return labels.toString();
-	}
-
-	public String getClassification() {
-		StringBuilder labels = new StringBuilder();
-		classification.forEach(e -> labels.append(" ").append(e));
-		return labels.toString();
+	public String getBestLabel() {
+		StringBuilder stringLabel = new StringBuilder();
+		bestLabel.forEach(e -> stringLabel.append(" ").append(e));
+		return stringLabel.toString();
 	}
 }

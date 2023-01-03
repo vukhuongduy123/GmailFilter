@@ -26,7 +26,7 @@ public class EmailsTableView {
 
 			//Get the status for the current row.
 			DefaultTableModel tableModel = (DefaultTableModel) table.getModel();
-			if (((String) tableModel.getValueAt(row, 3)).trim().equals("spam")) {
+			if (((String) tableModel.getValueAt(row, 2)).trim().equals("spam")) {
 				l.setBackground(Color.RED);
 			} else {
 				l.setBackground(Color.GREEN);
@@ -38,7 +38,7 @@ public class EmailsTableView {
 
 	public EmailsTableView() {
 		table = new JTable(new DefaultTableModel(new String[][]{}, new String[]{"FROM", "SUBJECT",
-				"LABELS", "CLASSIFY"}));
+				"LABELS"}));
 		table.setDefaultRenderer(Object.class, new ColumnCellRenderer());
 		table.setFillsViewportHeight(true);
 		scrollPane = new JScrollPane(table);
@@ -50,8 +50,7 @@ public class EmailsTableView {
 			String[] rowValues = new String[4];
 			rowValues[0] = messageModel.getSender();
 			rowValues[1] = messageModel.getSubject();
-			rowValues[2] = messageModel.getLabels();
-			rowValues[3] = messageModel.getClassification();
+			rowValues[2] = messageModel.getBestLabel();
 			((DefaultTableModel) table.getModel()).addRow(rowValues);
 		}
 	}

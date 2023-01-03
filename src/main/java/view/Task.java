@@ -31,16 +31,18 @@ import java.util.stream.Collectors;
 public class Task extends SwingWorker<Void, Void> implements PropertyChangeListener {
 	private ProgressBarDialog progressBar;
 	private JButton nextButton, previousButton;
+	private JTextField textField;
 	private EmailsTableView emailsTableView;
 	private boolean nextPage;
 
 	public Task(ProgressBarDialog progressBar, JButton nextButton, JButton previousButton,
-				EmailsTableView emailsTableView) {
+				EmailsTableView emailsTableView, JTextField textField) {
 		super();
 		this.progressBar = progressBar;
 		this.nextButton = nextButton;
 		this.previousButton = previousButton;
 		this.emailsTableView = emailsTableView;
+		this.textField = textField;
 		this.addPropertyChangeListener(this);
 	}
 
@@ -54,9 +56,14 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 
 		ListMessagesResponse messages;
 		if (isNextPage()) {
-			messages = GmailAPIService.getInstance().next("me", "");
+			messages = GmailAPIService.getInstance()
+									  .next("me", "in:anywhere " + (textField.getText() == null ?
+											  "" : textField.getText()));
 		} else {
-			messages = GmailAPIService.getInstance().previous("me", "");
+			messages = GmailAPIService.getInstance()
+									  .previous("me",
+												"in:anywhere " + (textField.getText() == null ?
+														"" : textField.getText()));
 		}
 		emailsTableView.removeAll();
 		for (Message message : messages.getMessages()) {
@@ -97,18 +104,16 @@ public class Task extends SwingWorker<Void, Void> implements PropertyChangeListe
 				instances.addThruPipe(instance);
 
 				ArrayList<Classification> classifications = TextClassify.getInstance()
-																	   .getClassify(instances);
-				System.out.println("----------------------");
-				for (Classification classification: classifications)
-					System.out.println(classification.getLabeling());
-				System.out.println("----------------------");
-				List<String> stringArray = classifications.stream()
-														 .map(e -> e.getLabeling().getBestLabel().toString())
-														 .collect(Collectors.toCollection(ArrayList::new));
-
+																		.getClassify(instances);
+				List<String> bestLabel = classifications.stream()
+														.map(e -> e.getLabeling()
+																   .getBestLabel()
+																   .toString())
+														.collect(Collectors.toCollection(
+																ArrayList::new));
 				emailsTableView
 						.addEmail(Collections.singletonList(
-								new MessageModel(stringArray, msg)));
+								new MessageModel(bestLabel, msg)));
 				setProgress(progress++);
 			} catch (Exception ex) {
 				ex.printStackTrace();
